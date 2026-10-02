@@ -1,0 +1,21 @@
+{
+ "docs": 600,
+ "seconds": 14.1,
+ "docs_per_sec": 42.42,
+ "ocr": false,
+ "cache_only": true,
+ "workers": 12,
+ "stats": {
+  "ocr_pages": 0,
+  "ocr_ms": 0,
+  "read_ms": 115125,
+  "unreadable": 0,
+  "pdfs_read": 600,
+  "pages": 4575,
+  "out_bytes": 0,
+  "skipped_cached": 0,
+  "failed": 0
+ },
+ "failed_files": [],
+ "finished": "2026-10-02 18:30:19"
+}

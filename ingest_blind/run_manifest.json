@@ -1,0 +1,22 @@
+{
+ "docs": 1200,
+ "seconds": 7.5,
+ "docs_per_sec": 159.26,
+ "ocr": true,
+ "cache_only": false,
+ "workers": 12,
+ "stats": {
+  "pdfs_read": 0,
+  "pages": 8966,
+  "type:CASE_JUDGMENT": 979,
+  "blocks": 82492,
+  "chars": 19954265,
+  "type:LAW_REPORT": 220,
+  "type:OTHER": 1,
+  "out_bytes": 12185381,
+  "skipped_cached": 0,
+  "failed": 0
+ },
+ "failed_files": [],
+ "finished": "2026-10-02 18:36:50"
+}

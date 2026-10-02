@@ -1,0 +1,14 @@
+# Python 3.13 on Windows 10/11 (the OCR step uses the engine built into Windows).
+# Versions are pinned because model.joblib was saved with this scikit-learn.
+pymupdf==1.28.2
+scikit-learn==1.9.1
+numpy==2.5.3
+scipy==1.18.1
+joblib==1.6.0
+winrt-runtime==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Foundation.Collections==3.2.1
+winrt-Windows.Globalization==3.2.1
+winrt-Windows.Graphics.Imaging==3.2.1
+winrt-Windows.Media.Ocr==3.2.1
+winrt-Windows.Storage.Streams==3.2.1

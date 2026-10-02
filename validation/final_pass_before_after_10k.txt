@@ -1,0 +1,169 @@
+﻿family             n  names% old->new   judges% old->new   outcome% old->new
+UKET            2518    94.5 ->  95.3       98.7 ->  98.7        87.3 ->  87.3
+UKAITUR         1547    91.9 ->  91.9       99.3 ->  99.3        72.9 ->  72.9
+UKICO            894    93.8 ->  93.8        0.0 ->   0.0        76.1 ->  76.1
+property         836    69.7 ->  79.2       62.2 ->  62.2         2.2 ->   2.2
+Mor              694    29.4 ->  29.4        0.0 ->   0.0         0.7 ->   0.7
+SLR              545    69.5 ->  69.5        0.0 ->   0.0        18.2 ->  18.2
+UKIntelP         465    84.7 ->  84.7       20.9 ->  82.2        29.7 ->  29.7
+BrnElcHai        401    13.2 ->  13.2        0.0 ->   0.0         0.7 ->   0.7
+UKPC-scan        355    65.6 ->  68.7        3.1 ->  76.6        77.5 ->  77.5
+UKFTT/TC         350    98.9 ->  98.9       99.7 ->  99.7        70.6 ->  70.6
+IE               290    87.9 ->  87.9       89.0 ->  89.0        15.9 ->  15.9
+ScotIC           178    91.6 ->  91.6        0.0 ->   0.0        37.6 ->  37.6
+EW-courts        162    87.7 ->  88.3       87.7 ->  87.7        16.7 ->  16.7
+nominate/TC      138    39.1 ->  39.1        0.7 ->   0.7        18.1 ->  18.1
+Scot-courts      113    80.5 ->  86.7       85.8 ->  85.8        28.3 ->  28.3
+DRS              110    86.4 ->  87.3        0.0 ->   0.0        55.5 ->  55.5
+UKFTT/GRC        108    92.6 ->  93.5       86.1 ->  86.1        58.3 ->  58.3
+UR                95    31.6 ->  33.7       60.0 ->  60.0         5.3 ->   5.3
+NI                85    94.1 ->  94.1       92.9 ->  92.9        84.7 ->  84.7
+UKEAT             19   100.0 -> 100.0      100.0 -> 100.0        78.9 ->  78.9
+ALL            10000    79.3 ->  80.5       58.0 ->  63.5
+
+titles changed: 241 {('UKAITUR', "header 'between' block"): 94, ('property', 'header role rows'): 79, ('UKET', 'header role rows'): 20, ('UKPC-scan', 'privy council title'): 11, ('SLR', None): 10, ('Scot-courts', 'scottish instance'): 6, ('property', 'visual rows'): 5, ('UKAITUR', None): 3, ('UKET', 'visual rows'): 2, ('UR', "header 'v' rows"): 2, ('UKFTT/GRC', 'header role rows'): 1, ('UKFTT/TC', None): 1, ('Scot-courts', 'header role rows'): 1, ('DRS', 'header role rows'): 1, ('EW-courts', 'header role rows'): 1, ('UKET', None): 1, ('property', "header 'between' block"): 1, ('UKAITUR', 'header role rows'): 1, ('Scot-courts', None): 1}
+titles that LOST names: 0 []
+
+== ('UKAITUR', "header 'between' block") (94)
+  PA026462019.pdf                'MISS Y C v The Secretary of State for the Ho' -> 'Miss Y C v The Secretary of State for the Home Department'
+        Upper Tribunal | (Immigration and Asylum Chamber) Appeal Number: PA/02646/2019 | THE IMMIGRATION ACTS | Heard at Field House Decision & Reasons Promulgated On July 31, 2019 On August 7, 2019 | Before | DEPUTY UPPER TRIBUNAL JUDGE ALIS | Between | MISS Y C | (ANONYMITY DIRECTION MADE) | Appellant | and | THE SECRETARY OF STATE FO
+  PA049522017.pdf                'MR M A v The Secretary of State for the Home' -> 'Mr M A v The Secretary of State for the Home Department'
+        Upper Tribunal | (Immigration and Asylum Chamber) Appeal Number: PA/04952/2017 | THE IMMIGRATION ACTS | Heard at Field House Decision & Reasons Promulgated On 12 January 2018 On 16 February 2018 | Before | DEPUTY UPPER TRIBUNAL JUDGE ESHUN | Between | MR M A | (ANONYMITY DIRECTION MADE) | Appellant | and | THE SECRETARY OF STATE
+
+== ('property', 'header role rows') (79)
+  RP_CHI_00HC_OAF_2016_0001.pdf  '[2016] UKFTT RP_CHI_00HC_OAF_2016_0001' -> 'Susan Lelliot v The successors in title of Catherine Wallop'
+        FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) | Case Reference CHI/oo HC/OAF/ 2o16/oom | Property 35 Perrymead, Worle, Weston-super —Mare BS22 7FB | Susan Lelliot | Applicant | Representative Berry Redmond Gordon & Penney, solicitors | Respondent The successors in title of Catherine Wallop | Representative | Type o
+  LON_00BE_LDC_2014_0163.pdf     '[2015] EWLVT LON_LV_SVC_00BE_0163' -> 'Tapestart Limited v Mansions'
+        FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) | Case Reference LON/00BE/LDC/2014/0163 | Property High Tree Mansions, 28 Crescent Wood Road, London, SE26 6RU | Applicant Tapestart Limited | Representative Mr Justin Bates (Counsel) | The long leaseholders of High Trees | Respondents • Mansions | Mr Xen Xenophontes (F
+
+== ('UKET', 'header role rows') (20)
+  4102220_2023.pdf               '[2023] UKET 4102220/2023' -> 'Mr A G Hampton v Menzies Parcels Limited'
+        EMPLOYMENT TRIBUNALS (SCOTLAND) | Employment Judge D Hoey | Case Number 4102220/2023 | Mr A G Hampton Claimant | Menzies Parcels Limited Respondent | JUDGMENT | The claim is struck out under rule 37 of the Rules contained in Schedule 1 of the Employme | REASONS | The Tribunal has received no response to requests for information 
+  4102088_2020.pdf               '[2021] UKET 4102088/2020' -> 'Mr David Odigie v Argyll and Bute Council'
+        EMPLOYMENT TRIBUNALS (SCOTLAND) | Case No: 4102088/2020 | Held remotely by video on 15 January 2020 (V) Employment Judge: M Sutherland Members: R Mc | Mr David Odigie Claimant | Argyll and Bute Council Respondent | JUDGMENT OF THE EMPLOYMENT TRIBUNAL | The unanimous judgment of the Tribunal is that the Claimant’s complaint of vi
+
+== ('UKPC-scan', 'privy council title') (11)
+  1912_98.pdf                    '[1912] UKPC 98' -> 'Lallu Sahi v Mahant Rajbans Bharthi and another'
+        Judgment oj the Lords oj thc Judicial Committee Of the Privy Council on thc tu•o consolida | PRESENT AT THE HEARING : | LORD MACNAGHTEX. | LORD MOULTON. | SIR JOHN EDGE. | MR. AMEER ALI. | [DELIVERED BY JOHN EDGE.] | The suit in which these two consolidated Appeals have arisen was brought bv Babu Lallu Sah | [98.] J. 199. 125—12
+  1874_5.pdf                     '[1874] UKPC 5' -> 'Fenton v Blackwood and others'
+        Judgment of the Lords of the Judicial Committee of the Privy Council on the Appeal of Fent | Present : | SIR JAMEs W. COLVILE. | SIR BARNES PEACOCK. | SIR MONTAGUE SMITH. | SIR ROBERT P. COLLIER. | THE questions in this Appeal arise upon Exceptions to the Master's Report, made under a De | Mr. Frederick Fenton, a brother of the 
+
+== ('SLR', None) (10)
+  09SLR0140.pdf                  "Second Division. M'dowall v Stewart" -> "M'dowall v Stewart"
+        Friday, December l. | SECOND DIVISION. M'DOWALL V. STEWART. | Proces8—ExtrajudiciaI Expenses. Held that a party who had been susce88fuI in an action in  | M 'Downll obtained decree in the Court of Session against Stewart for Z45, as the price of | of Session action. The amount of these extrajudi- Cial expenses had been subsequen
+  12SLR0398.pdf                  'Second Division. Rae v Linton & the Bank of ' -> 'Rae v Linton & the Bank of Scotland'
+        Saturday, March 20. | SECOND DIVISION. RAE V. LINTON & THE BANK OF SCOTLAND. | (Ante, p. 148.) | Jury | A party was imprisoned on a conviction before the Police Court, which was afterwards quash | This case came up on a notice of motion by the pursuer to vary issues, in an action at his | Whether on or about the 7th day of Augus
+
+== ('Scot-courts', 'scottish instance') (6)
+  2022_CSOH_80.pdf               '[2022] CSOH 80' -> 'KT'
+        OUTER HOUSE, COURT OF SESSION [2022] CSOH 80 P970/21 | OPINION OF LORD BRAILSFORD In the Petition | KT | Petitioner for | Judicial Review of decisions of Sheriffs at Hamilton | Petitioner: Aitken, Clan Childlaw | Respondent: Moynihan KC, Anderson Strathern | 28 October 2022 | The petitioner is KT who resides at an address in Sou
+  2022_CSOH_51.pdf               '[2022] CSOH 51' -> 'Amanda Urquhart and Deanna Urquhart'
+        OUTER HOUSE, COURT OF SESSION [2022] CSOH 51 P922/21 | OPINION OF LORD CLARK | In the Note of | AMANDA URQUHART and DEANNA URQUHART Noters for | orders under and in terms of sections 130(2) and 167(3) of the Insolvency Act 1986 in resp | Noters: Dean of Faculty, Young; Currie Gilmour & Co First Respondent: no appearance | Second
+
+== ('property', 'visual rows') (5)
+  RP_CAM_38UF_LBC_2016_0007.pdf  'Deanna Holmes-Asplundh (1) Sanders House Man' -> 'Deanna Holmes-Asplundh & Anor v Mr Lawder Smith'
+        3 Lip. | FIRST - TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) | Case Reference CAM/38UF/LBC/2016/0007 | Property Flat 6, Sanders House, Churchfields, Stonesfield, Witney, Oxfordshire, 0X29 8ST | Applicant Deanna Holmes-Asplundh (1) Sanders House Management Limited (2) | Representative Paul Westgate on behalf of PW Prope
+  RP_CAM_00MC_LAC_2014_0006.pdf  'Martin Costelloe v Marlborough House Managem' -> 'Martin Costelloe v Marlborough House Management & Anor'
+        I D5b~ | First-tier Tribunal | Property Chamber | (Residential Property) | Case reference CAM/00MC/LAC/2014/0006 | Properties 2 & 5 Exbourne Road and 2 Rossington Place, Reading, | Berks. RG2 8RH | Applicant Martin Costelloe | Respondent Marlborough House Management (i) Proxima GR Properties Ltd. (2) | Date of Application 5th De
+
+== ('UKAITUR', None) (3)
+  HU140852015.pdf                'MISS U A (FOURTH APPELLANT) v The Secretary ' -> 'Miss U A (FOURTH APPELLANT) v The Secretary of State for the Home Department'
+        Upper Tribunal | (Immigration and Asylum Chamber) Appeal Numbers: HU/14085/2015 | HU/14102/2015 HU/14104/2015 HU/14105/2015 | THE IMMIGRATION ACTS | Heard at Field House Decision & Reasons Promulgated On 7th November 2018 On 30th November  | Before | DEPUTY UPPER TRIBUNAL JUDGE SAINI | Between | MR Y U (FIRST APPELLANT) | MRS K 
+  IA254812013.pdf                'MISS Sehreen Sahejad Mania (sixth appellant)' -> 'Miss Sehreen Sahejad Mania (sixth appellant) v Secretary of State for the Home Department'
+        Upper Tribunal | (Immigration and Asylum Chamber) Appeal Numbers: IA/25481/2013; | IA/25475/2013; IA/25454/2013; IA/25427/2013; IA/25449/2013; IA/25441/2013 | THE IMMIGRATION ACTS | Heard at Field House, London Determination Promulgated On 4 November 2014 On 18 December 2 | Before | DEPUTY UPPER TRIBUNAL JUDGE GRIMES | Between |
+
+== ('UKET', 'visual rows') (2)
+  3306960_2022.pdf               'Miss T Owens v Prestek Computing Ltd (in com' -> 'Miss T Owens v Prestek Computing Ltd (in compulsory liquidation) & Anor'
+        Case No. 3306960/2022 | EMPLOYMENT TRIBUNALS | Claimant Miss T Owens | Respondents Prestek Computing Ltd (in compulsory liquidation) (1) The Secretary of State f | JUDGMENT | The claim is struck out. | REASONS | The first respondent company is in compulsory liquidation. The permission of the court has | On 27 February 2024 the T
+  2305094_2019.pdf               'Mr N Prime v Woodrow Digital Solutions Limit' -> 'Mr N Prime v Woodrow Digital Solutions Limited & Anor'
+        Case Number: V 2305094/2019 | THE EMPLOYMENT TRIBUNAL | SITTING AT: LONDON SOUTH | BEFORE: EMPLOYMENT JUDGE MORTON | BETWEEN: | Mr N Prime Claimant | AND | Woodrow Digital Solutions Limited (1) Nathan Woodrow (2) Respondents | ON: 17 December 2020 | Appearances: | For the Claimant: Ms E Sole, Counsel | For the Respondent: No app
+
+== ('UR', "header 'v' rows") (2)
+  1988_158.pdf                   '[1988] JRC 158' -> "Her Majesty's Attorney General v DL"
+        ROYAL COURT | 5th August, 1 988 | Before: The Deputy Bailiff and | Jurats Baker and Bonn | Her Majesty's Attorney General | - V - | DL | Application for the review | of a Probation Order | Advocate S.C. Nicolle for the Crown DL on his own behalf | JUDGMENT | DEPUTY BAILIFF: We delete the condition of residence and therefore the 
+  1989_147.pdf                   '[1989] JRC 147' -> "Her Majesty's Attorney General v DH"
+        147. | ROYAL COURT | (Poursuites CrimineJJes) | 1st September, 1989 | Before: The Bailiff and | Jurats Vint and Bonn | Her Majesty's Attorney General | - V - | DH | and | Larceny (I count). | The Attorney General | Advocate R.J. RenoLlf for the accused. | JUDGMENT
+
+== ('UKFTT/GRC', 'header role rows') (1)
+  2016_0311.pdf                  '[2017] UKFTT 2016_0311' -> 'Nottinghamshire County Council v Information Commissioner'
+        First-tier Tribunal | (General Regulatory Chamber) | Information Rights | Appeal Reference: EA/2016/0311 | NOTTINGHAMSHIRE COUNTY COUNCIL | Appellant | and | INFORMATION COMMISSIONER | Respondent | DECISION BY CONSENT ORDER | By consent, this appeal is ended on the following terms: | Decision Notice FS50636743 is varied only to 
+
+== ('UKFTT/TC', None) (1)
+  TC06298.pdf                    "MR Spencer Marcus LUND trading as 'FANNY'S A" -> "Mr Spencer Marcus LUND trading as 'FANNY'S ALE HOUSE' v The Commissioners for HM Revenue &"
+        [2018] UKFTT 16 (TC) | TC06298 | Appeal number: TC/2015/02940 | INCOME TAX – Late Filing Penalties - Late Payment Penalties - Schedules 55 and 56 Finance  | FIRST-TIER TRIBUNAL | TAX CHAMBER | MR SPENCER MARCUS LUND Appellant trading as 'FANNY'S ALE HOUSE' | - and - | THE COMMISSIONERS FOR HER MAJESTY’S Respondents REVENUE & CUS
+
+== ('Scot-courts', 'header role rows') (1)
+  2023ut35.pdf                   '[2023] UT 35' -> 'NB v Social Security Scotland'
+        2023UT35 Ref: UTS/AS/23/0030 | DECISION OF | LADY POOLE | IN THE APPEAL BY | NB | Appellant | - and - | Social Security Scotland, PO BOX 10301, Dundee, DD1 9FW | Respondent | FTS Case Reference: FTS/SSC/AE/23/00067 | Representation | For the Appellant: in person | For the Respondent: Denis Edwards, advocate; Anderson Strathern |
+
+== ('DRS', 'header role rows') (1)
+  7800.pdf                       '[2010] DRS 7800' -> 'Dyna Pro Dynanometers Limited v Mark DENT'
+        nominet | DISPUTE RESOLUTION SERVICE | DRS 07800 | Decision of Independent Expert | Dyna Pro Dynamometers Limited | and | Mark Dent | The Parties: | Complainant: Dyna Pro Dynanometers Limited | Address: 3rd Floor | Kings House | 12-42 Wood Street Kingston Upon Thames, Surrey Postcode KTI ITG | Country: GB | Respondent: Mark DENT
+
+== ('EW-courts', 'header role rows') (1)
+  1621.pdf                       '[2022] EWHC 1621 (QB)' -> 'Halborg Limited v Gregory Hollingsworth'
+        Neutral Citation Number: [2022] EWHC 1621 (QB) | Appeal Nos: QB-2021-000180, QA-2021-000222, QA-2021-000223, QA-2021-000231, QA-2021-000240 | IN THE HIGH COURT OF JUSTICE | QUEEN'S BENCH DIVISION | ON APPEAL FROM THE COUNTY COURT AT LUTON & OXFORD DECISIONS OF HHJ BLOOM & HHJ CLARKE | CLAIMS F00LU431 & G01LU395 | Royal Courts of
+
+== ('UKET', None) (1)
+  1601168_2017.pdf               'MR ALI v Fc Brown' -> 'Mr ALI v Fc Brown'
+        Case No: 1601168/2017 | EMPLOYMENT TRIBUNALS | BETWEEN | CLAIMANT RESPONDENT MR ALI V FC BROWN (STEEL EQUIPMENT) LTD | JUDGMENT ON A PRELIMINARY ISSUE | HELD AT: CARDIFF ON: 29TH OCTOBER 2018 | BEFORE: EMPLOYMENT JUDGE HOWDEN-EVANS (SITTING ALONE) | REPRESENTATION: | FOR THE CLAIMANT: MR HENRY (ADVOCATE) FOR THE RESPONDENT: MS S
+
+== ('property', "header 'between' block") (1)
+  CHI_43UG_LIS_2007_0001.pdf     'MRS A. PEGG Lessee v Retirement CARE Group L' -> 'Mrs A. PEGG Lessee v Retirement CARE Group Limited Landlord'
+        SOUTHERN RENT ASSESSMENT PANEL AND LEASEHOLD VALUATION TRIBUNAL | Case No: CHI/43UG/LIS/2007/0001 | IN THE MATTER OF SECTION 27A OF THE LANDLORD AND TENANT ACT 1985 | BETWEEN: | MRS A. PEGG | Applicant/Lessee | - and - | RETIREMENT CARE GROUP LIMITED | Respondent/Landlord | PREMISES: Flat 20 | The Lodge | St Jude's Close | Engle
+
+== ('UKAITUR', 'header role rows') (1)
+  IA171422012.pdf                '[2014] UKAITUR IA171422012' -> 'Cynthia Osarumed Ojo v The Secretary of State for the Home Department'
+        Upper Tribunal | (Immigration and Asylum Chamber) Appeal Number: IA/17142/2012 | Notice Issued: On 24:01:2014 | THE IMMIGRATION ACTS | Before | UPPER TRIBUNAL JUDGE HANSON | Between | CYNTHIA OSARUMED OJO | Appellant | and | THE SECRETARY OF STATE FOR THE HOME DEPARTMENT | Respondent | NOTICE OF WITHDRAWAL OF APPEAL BY THE APPEL
+
+== ('Scot-courts', None) (1)
+  2020ut11.pdf                   'in the case of PARK Property Management LIMI' -> 'in the case of PARK Property Management LIMITED, 11 Somerset Place, Glasgow, G3 7JT v Miss'
+        [2020] UT 11 | UTS/AP/190038 DECISION NOTICE OF SHERIFF FRANCES MCCARTNEY in the case of | PARK PROPERTY MANAGEMENT LIMITED, 11 Somerset Place, Glasgow, G3 7JT Appellant and | MISS SAIRA AKBAR, 0/1, 56 Minerva Way, Glasgow, G3 8GQ Respondent | FTT Case Reference FTS/HPC/PF/18/1769 | 28 January 2020 | DECISION | The Upper Tribuna
+
+judges changed: 546 {('UKIntelP', 'signature'): 285, ('UKPC-scan', "bench list ('Present')"): 261}
+  1946_5.pdf             UKPC-scan  ['Lord Thankerton', 'Lord Macmillan', 'Lord Wright', 'Lord Simonds', 'Lord Goddard']
+  o11420.pdf             UKIntelP   ['James Hopkins']
+        tail: P3 Internet web sites; music production; music production services. | lectronic and crypto currencies, providing currency exchange rates for foreign, domestic, electronic and crypto currencies; provision of scientific information.
+  o41320.pdf             UKIntelP   ['T Perks']
+        tail: T Perks | For the Registrar, | the Comptroller-General
+  1917_8.pdf             UKPC-scan  ['Viscount Haldane', 'Lord Parker of Waddington', 'Lord Wrenbury']
+  1871_22.pdf            UKPC-scan  ['Sir James W. Colvile', 'Sir Lawrence Peel']
+  1922_65.pdf            UKPC-scan  ['Lord Buckmaster', 'Lord Atkinson', 'Lord Carson', 'Sir John Edge']
+  1994_25.pdf            UKPC-scan  ['Lord Keith of Kinkel', 'Lord Goff of Chieveley', 'Lord Browne-Wilkinson', 'Lord Mustill', 'Lord Nolan']
+  o23206.pdf             UKIntelP   ['George W Salthouse']
+        tail: George W Salthouse | For the Registrar, | the Comptroller-General
+  o41810.pdf             UKIntelP   ['Judi Pike']
+        tail: Judi Pike | For the Registrar, | the Comptroller-General
+  1872_23.pdf            UKPC-scan  ['Sir James W. Colvile', 'Sir Robert Phillimore', 'Sir Joseph Napier', 'Sir Montague Smith']
+  o59919.pdf             UKIntelP   ['George W Salthouse']
+        tail: George W Salthouse | For the Registrar, | the Comptroller-General
+  o61717.pdf             UKIntelP   ['George W Salthouse']
+        tail: George W Salthouse | For the Registrar, | the Comptroller-General
+  o13605.pdf             UKIntelP   ['David Landau']
+        tail: David Landau | For the Registrar | the Comptroller-General
+  o15612.pdf             UKIntelP   ['George W Salthouse']
+        tail: George W Salthouse | For the Registrar, | the Comptroller-General
+  1919_54.pdf            UKPC-scan  ['Lord Buckmaster', 'Lord Parmoor', 'Lord Wrenbury']
+  o54701.pdf             UKIntelP   ['M Knight']
+        tail: M KNIGHT | For the Registrar | the Comptroller-General
+  1899_51.pdf            UKPC-scan  ['Lord Watson', 'Lord Macnaghten', 'Lord Morris', 'Lord Davey']
+  1935_91.pdf            UKPC-scan  ['Lord Blanesburgh', 'Lord Alness', 'Sir George Rankin']
+  o41302.pdf             UKIntelP   ['JOHN MacGILLIVRAY']
+        tail: JOHN MacGILLIVRAY | For the Registrar | the Comptroller General
+  o13298.pdf             UKIntelP   ['Mr S J Probert']
+        tail: Principal Hearing Officer | For the Registrar, the Comptroller-General | 3[1951] 68 RPC 103. Page 106 lines 17-23.
+  1884_31.pdf            UKPC-scan  ['Lord Watson', 'Sir Barnes Peacock', 'Sir Montague E. Smith', 'Sir Robert P. Collier', 'Sir Arthur Hobhouse']
+  1909_9.pdf             UKPC-scan  ['Lord Atkinson', 'Lord Collins', 'Lord Shaw', 'Sir Arthur Wilson']
+
+outcomes changed: 11 {('Appeal allowed', 'Appeal allowed in part'): 8, ('Appeal dismissed', 'Application dismissed'): 3}
+  1989_11.pdf            Appeal allowed -> Appeal allowed in part | Their Lordships will therefore humbly advise Her Majesty that this appeal should be allowed to the extent of varying the sentence of twelve months' suspension to six mont
+  2022ut25.pdf           Appeal allowed -> Appeal allowed in part | The appeal is allowed only in respect of head of claim 4(b).
+  1180.pdf               Appeal dismissed -> Application dismissed | The application for permission to appeal is refused.
+  [2017]_CSIH_68.pdf     Appeal dismissed -> Application dismissed | Accordingly the application for leave to appeal is refused.
+  2020_0135.pdf          Appeal allowed -> Appeal allowed in part | The appeal is allowed in part
+  1977_14.pdf            Appeal allowed -> Appeal allowed in part | Their Lordships are therefore of opinion that the appeal should be allowed to the extent of varying the sum awarded by the Full Court in name of damages from HKS833,553 t
+  DA90_25496.pdf         Appeal allowed -> Appeal allowed in part | For the reasons set out above this appeal will be allowed in part and an enforcement notice in the terms to be set out after the next hearing will be substituted for that
+  TC08904.pdf            Appeal dismissed -> Application dismissed | For the above reasons the appeal against the correspondence of 5.7.22 is struck out for lack of jurisdiction, and the application to make a late appeal is refused.
+  TC08728.pdf            Appeal allowed -> Appeal allowed in part | To the above extent, the appeal is therefore ALLOWED IN PART.
+  2016_0308.pdf          Appeal allowed -> Appeal allowed in part | Given that the Tribunal has decided that the appeal be allowed in part in order that the personal data of the two staff members not be disclosed, it has taken the opportu
+  TC01482.pdf            Appeal allowed -> Appeal allowed in part | By consent of the parties the appeal is allowed in part in accordance with the agreement that has been reached between the parties.

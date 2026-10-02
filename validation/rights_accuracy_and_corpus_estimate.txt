@@ -1,0 +1,151 @@
+﻿review groups: {'public domain by age': 33, 'open, UK collection rule': 101, 'open, explicit notice': 34, 'EU / ECHR': 6, 'permission': 4, 'review, foreign court': 17, 'review/explicit': 10, 'review/noevid': 8, 'review/series': 8}
+ACCURACY AT THE TIME OF REVIEW (before the fixes that followed it)
+  rights class                                   raw 208/221 | weighted: 99.68% correct; error 0.32%, 95% upper bound 2.92%
+    of which unsafe (open when not established)  raw 217/221 | weighted: 99.96% correct; error 0.04%, 95% upper bound 2.68%
+  restriction class                              raw 206/221 | weighted: 98.89% correct; error 1.11%, 95% upper bound 4.02%
+    of which missed restrictions                 raw 214/221 | weighted: 99.21% correct; error 0.79%, 95% upper bound 3.64%
+  hosting category (4-way)                       raw 198/221 | weighted: 99.05% correct; error 0.95%, 95% upper bound 3.82%
+    of which unsafe ('hostable' wrongly)         raw 214/221 | weighted: 99.62% correct; error 0.38%, 95% upper bound 3.20%
+
+SAME DOCUMENTS AFTER THE FIXES (not an independent test)
+   # 45 1304526_2023.pdf           UKET       -> hostable                   open_licence/collection rule/medium | none detected | P=['Mr D Sanders', 'Department for Edu']
+   # 47 1400892_2020.pdf           UKET       -> hostable                   open_licence/collection rule/medium | none detected | P=['Mr S Hussey', 'Air Liquide (Home ']
+   # 48 FS50258669.pdf             UKICO      -> hostable                   open_licence/collection rule/medium | none detected | P=['Brent Council']
+   # 51 1987_35.pdf                UKPC       -> hostable                   open_licence/collection rule/medium | none detected | P=['I']
+   # 53 130110.pdf                 UKICO      -> hostable                   open_licence/collection rule/medium | none detected | P=['Chief Constable of']
+   # 57 o26001.pdf                 UKIntelP   -> hostable                   open_licence/collection rule/medium | none detected | P=[]
+   # 58 4104882_2018.pdf           UKET       -> hostable with restrictions open_licence/collection rule/medium | reporting restriction detected | P=['Michael Steiner', 'Heriot-Watt Univer']
+   # 63 3009.pdf                   ECHR       -> unknown/review             review/collection rule/low | none detected | P=[]
+   # 65 72454.pdf                  ECHR       -> unknown/review             review/collection rule/low | none detected | P=[]
+   # 66 71618.pdf                  ECHR       -> unknown/review             review/collection rule/low | none detected | P=[]
+   # 67 71629.pdf                  ECHR       -> unknown/review             review/collection rule/low | none detected | P=[]
+   # 82 2977.pdf                   EWHC/KB    -> hostable with restrictions open_licence/collection rule/medium | anonymised / anonymity order | P=['ZSY (a protected p', 'AAA']
+   # 91 2022_CSOH_80.pdf           ScotCS     -> hostable with restrictions open_licence/collection rule/medium | anonymised / anonymity order | P=['KT']
+   #143 AA021902013.pdf            UKAITUR    -> not hostable               open_licence/collection rule/medium | withdrawn at source | P=[]
+   #172 fs50685343.pdf             UKICO      -> hostable                   open_licence/collection rule/medium | none detected | P=['London Borough of ']
+   #179 2024IEHC477.pdf            IEHC       -> unknown/review             review/collection rule/low | anonymised / anonymity order | P=['S.a. (Zimbabwe and', 'The Chief Internat']
+   #191 fs50834915.pdf             UKICO      -> hostable                   open_licence/collection rule/medium | none detected | P=[]
+   #194 719.pdf                    EWCA/Crim  -> unknown/review             review/explicit notice/explicit | none detected | P=['R E X', 'Joanne Yeates']
+   #198 B87.pdf                    EWFC/OJ    -> unknown/review             review/explicit notice/explicit | reporting restriction detected | P=[]
+   #202 2023_SGHCI_6.pdf           SICC       -> unknown/review             review/collection rule/low | anonymised / anonymity order | P=['CNA', 'CNB']
+   #203 2021_SGHCI_15.pdf          SICC       -> unknown/review             review/collection rule/low | anonymised / anonymity order | P=['CLQ', 'CLR']
+   #205 2016_0737.pdf              EWLandRA   -> hostable                   open_licence/collection rule/medium | none detected | P=['Wendy Mason', 'Lionel Daniel Carr']
+   #206 NICoroner20.pdf            Misc       -> hostable                   open_licence/collection rule/medium | none detected | P=[]
+   #207 NIMag_2.pdf                Misc       -> hostable                   open_licence/collection rule/medium | none detected | P=[]
+   #208 SC_173_2020.pdf            SIAC       -> hostable                   open_licence/collection rule/medium | none detected | P=['The Secretary of S']
+   #209 2015_0430.pdf              EWLandRA   -> hostable                   open_licence/collection rule/medium | none detected | P=['Palo Alto Limited ', 'Alnor Estates Limi']
+   #210 SC_128_2016.pdf            SIAC       -> hostable with restrictions open_licence/collection rule/medium | anonymised / anonymity order | P=['The Secretary of S']
+   #211 NICoroner5.pdf             Misc       -> hostable                   open_licence/collection rule/medium | none detected | P=[]
+   #212 2017_0222.pdf              EWLandRA   -> hostable                   open_licence/collection rule/medium | none detected | P=['Deborah Anne Edwar', 'Jack Law & Cynthia']
+
+FLAGGED AFTER FIXES: 743 (627 UKAITUR/ScotIC, 116 other) - precision sample
+   2025hcjac15.pdf            ScotHC     anonymised order=not stated rr=none parties=True text=False P=['CD', 'His Majesty’s Advocate'] ev=[]
+   2021_CSOH_86.pdf           ScotCS     anonymised order=not stated rr=none parties=True text=False P=['Y'] ev=[]
+   1153.pdf                   EWHC/Fam   reporting  order=not stated rr=dete parties=False text=True P=[] ev=['blished on condition that the anonymity of the children and members of their family must be strictly preserved and not p', 'STICE THEIS This judgment was delivered in private. The Judge has given leave for this anonymised version of t']
+   [2017]_CSOH_122.pdf        ScotCS     anonymised order=not stated rr=none parties=True text=False P=['AU', 'Glasgow City Council'] ev=[]
+   04057_19IT.pdf             NIIT       anonymised order=not stated rr=none parties=True text=False P=['Amy (Frances) Baxter', 'The Postcard Company L'] ev=[]
+   2207865_2017.pdf           UKET       anonymised order=made rr=none parties=False text=False P=[] ev=['nt Respondent ‘SL’ AND ‘ABC’ (ANONYMITY ORDER MADE) HELD AT London Central ON 2 – 5 October and in chambers on']
+   Mor1004202-008.pdf         ScotCS     anonymised order=not stated rr=none parties=True text=False P=['Edgar', 'E AR'] ev=[]
+   2021_HCJAC_41.pdf          ScotHC     anonymised order=not stated rr=none parties=True text=False P=['JW', 'Her Majesty’s Advocate'] ev=[]
+   2019_CSIH_18.pdf           ScotCS     anonymised order=not stated rr=none parties=True text=False P=['AD', 'The General Teaching C'] ev=[]
+   1989.pdf                   EWHC/Admin anonymised order=made rr=none parties=True text=True P=['UO', 'London Borough of Redb'] ev=['out in the table below. 3. An anonymity order was granted by this court on 28 November 2023 and continues to protect the', '8 November 2023 and continues to protect the identity of the claimant and her children. It must be respected. To']
+   105_11_10_07.pdf           SIAC       anonymised order=not stated rr=none parties=True text=False P=['R1', 'The Secretary of State'] ev=[]
+   2021IEHC841.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['M.a.s', 'International Protecti'] ev=[]
+   2023IESC9.pdf              IESC       anonymised order=not stated rr=none parties=True text=False P=['JN and TM (A Minor Sui', 'John Harraghy'] ev=[]
+   [2013]_UKUT_641_iac.pdf    UKUT/IAC   anonymised order=not stated rr=none parties=True text=False P=['MK', 'The Secretary of State'] ev=[]
+   B87.pdf                    EWFC/OJ    reporting  order=not stated rr=dete parties=False text=False P=[] ev=[' version of the judgment the anonymity of the children and members of their family must be strictly preserved. All perso', 'e reserved. This judgment was delivered in private. The judge has given leave for this version of the judgment']
+   2018IEHC537.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['Y.y', 'The Minister for Justi'] ev=[]
+   2022IEHC128.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['A. Z. (Substituted by ', 'Robert Hannon'] ev=[]
+   1403700_2023.pdf           UKET       reporting  order=not stated rr=dete parties=False text=False P=['Mr. T E Merson', 'Royal Devon University'] ev=['tion to the provisions of the Sexual Offences (Amendment) Act 1992. Where a an allegation has been made that a sexual of']
+   [2017]_HCJAC_84.pdf        ScotHC     anonymised order=not stated rr=none parties=True text=False P=['AD', 'Her Majesty’s Advocate'] ev=[]
+   2018IEHC298.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['M.a.c. (Pakistan)', 'The Refugee Appeals Tr'] ev=[]
+   2428.pdf                   EWHC/Ch    anonymised order=made rr=none parties=False text=False P=['Pump Court Chambers Lt', 'Gillian Brown (also kn'] ev=[' learned judge also agreed to make the anonymity order that PCC asked for. On the matter coming before me last wee', 'tted that I ought to carry on sitting in private and also continue the anonymity order. The matter was not h']
+   2817.pdf                   EWCA/Civ   anonymised order=not stated rr=none parties=True text=False P=['The Secretary of State', 'SS (Jamaica)'] ev=[]
+   2601163_2019.pdf           UKET       anonymised order=not stated rr=none parties=False text=True P=['Mr Andrew Rumin', 'University Hospitals o'] ev=['rticipating. For that reason, we have anonymised the names of certain individuals below. Where we have used']
+   2020IEHC520.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['DK', 'MK'] ev=[]
+   2019_IEHC_767.pdf          IEHC       anonymised order=not stated rr=none parties=True text=False P=['B', 'The International Prot'] ev=[]
+   11_129.pdf                 UKIPTrib   anonymised order=not stated rr=none parties=True text=False P=['BA', 'RA'] ev=[]
+   2022IEHC623.pdf            IEHC       anonymised order=not stated rr=none parties=True text=False P=['L, M, and N', 'A'] ev=[]
+   3924.pdf                   EWHC/TCC   reporting  order=not stated rr=dete parties=False text=False P=['Wirsol Energy Limited', 'Toucan Energy Holdings'] ev=[' version of the judgment the anonymity of the children and members of their family must be strictly preserved. All perso', ' private. The judge has given leave for this version of the judgment']
+   2020IECA158.pdf            IECA       anonymised order=not stated rr=none parties=True text=False P=['The People at the Suit', 'PB'] ev=[]
+   1915_53.pdf                UKPC       anonymised order=not stated rr=none parties=True text=False P=['PRI'] ev=[]
+   [2017]_CSIH_68.pdf         ScotCS     anonymised order=not stated rr=none parties=True text=False P=['KS'] ev=[]
+   2_Murray_294.pdf           ScotJCR    anonymised order=not stated rr=none parties=True text=False P=['Melville is not a ..gr', 'J'] ev=[]
+   1572.pdf                   EWHC/Fam   reporting  order=not stated rr=dete parties=True text=False P=['London Borough of Towe', 'Mother'] ev=[' version of the judgment the anonymity of the children and members of their family must be strictly preserved. All perso', 'TICE HAYDEN This judgment was delivered in private. The judge has given leave for this version of the judgment']
+   2021_CSOH_24.pdf           ScotCS     anonymised order=not stated rr=none parties=True text=False P=['City of Edinburgh Coun', 'LL'] ev=[]
+   2024_SGHCI_31.pdf          SICC       anonymised order=not stated rr=none parties=True text=False P=['DKB', 'DKC'] ev=[]
+   4104882_2018.pdf           UKET       reporting  order=not stated rr=dete parties=False text=False P=['Michael Steiner', 'Heriot-Watt University'] ev=['on made by the claimant for a Restricted Reporting Order, and the response by the respondent to that application, an']
+   AA076632015.pdf            UKAITUR    anonymised order=not stated rr=none parties=True text=False P=['MM', 'Secretary of State for'] ev=[]
+   UI2024001053.pdf           UKAITUR    anonymised order=made rr=none parties=True text=False P=['EN', 'Secretary of State for'] ev=['NAL JUDGE JACKSON Between EN (ANONYMITY ORDER MADE) Appellant and SECRETARY OF STATE FOR THE HOME DEPARTMENT R']
+   PA044232019.pdf            UKAITUR    anonymised order=made rr=none parties=True text=False P=['N H', 'The Secretary of State'] ev=['AL JUDGE DAVIDGE Between N H (ANONYMITY DIRECTION MADE) Appellant and THE SECRETARY OF STATE FOR THE HOME DEPARTME']
+   IA195712013.pdf            UKAITUR    anonymised order=made rr=none parties=True text=False P=['MK AK DK HK', 'The Secretary of State'] ev=['E TAYLOR Between MK AK DK HK (ANONYMITY ORDER MADE) Appellant and THE SECRETARY OF STATE FOR THE HOME DEPARTME']
+   PA024412017.pdf            UKAITUR    anonymised order=made rr=none parties=True text=False P=['A R', 'Secretary of State for'] ev=[' JUDGE I A LEWIS Between A R (ANONYMITY DIRECTION MADE) Appellant and SECRETARY OF STATE FOR THE HOME DEPARTMENT R']
+   UI2024000549.pdf           UKAITUR    anonymised order=made rr=none parties=True text=True P=['Secretary of State for', 'MD (DRC)'] ev=['TMENT Appellant and MD (DRC) (anonymity order made) Respondent Representation: For the Appellant: Mr M. Diwnyc', 'er for anonymity. This is not to protect the identity of Respondent but to protect the identity of his children,']
+   075_2022.pdf               ScotIC     anonymised order=not stated rr=none parties=True text=False P=['The Applicant', 'University of Edinburg'] ev=[]
+   PA102862016.pdf            UKAITUR    anonymised order=made rr=none parties=False text=False P=['Mr.f.e.g', 'Secretary of State for'] ev=['ER TRIBUNAL Between MR.F.E.G (ANONYMITY DIRECTION MADE) Appellant And SECRETARY OF STATE FOR THE HOME DEPARTMENT R']
+   PA063462017.pdf            UKAITUR    anonymised order=made rr=none parties=True text=False P=['Mr M A', 'The Secretary of State'] ev=['PPER TRIBUNAL Between MR M A (ANONYMITY DIRECTION MADE) Appellant and THE SECRETARY OF STATE FOR THE HOME DEPARTME']
+   IA002992020.pdf            UKAITUR    anonymised order=made rr=none parties=True text=False P=['A S J', 'The Secretary of State'] ev=['UDGE McWILLIAM Between A S J (ANONYMITY DIRECTION MADE) Appellant and THE SECRETARY OF STATE FOR THE HOME DEPARTME']
+
+corpus files: 231399 | with a row in the scraper database: 231390
+
+A. SIMPLE RANDOM SAMPLE ESTIMATE (n=11200: 10,000 benchmark + 1,200 blind set), Wilson 95%
+   hostable                       9651   86.2%  [85.5, 86.8]  ~199,396 docs
+   hostable with restrictions      781    7.0%  [6.5, 7.5]  ~16,136 docs
+   not hostable                    122    1.1%  [0.9, 1.3]  ~2,521 docs
+   unknown/review                  646    5.8%  [5.4, 6.2]  ~13,347 docs
+   hostable (either)             10432   93.1%  [92.7, 93.6]  ~215,532 docs
+   tier hostable: explicit notice or age (high)     32.3%  [31.5, 33.2]
+   tier hostable: collection rule / age (medium)    53.8%  [52.9, 54.8]
+   tier hostable with restrictions                   7.0%  [6.5, 7.5]
+   tier not hostable                                 1.1%  [0.9, 1.3]
+   tier unknown/review                               5.8%  [5.4, 6.2]
+
+strata in corpus: 100; corpus docs in strata with no sampled doc: 262; sample docs outside corpus strata: 3
+B. POST-STRATIFIED TO THE FULL CORPUS (collection x era from bailii_cases.db), bootstrap 95%
+   hostable: explicit notice or age (high)       32.5%  [32.0, 33.0]  ~75,241 docs
+   hostable: collection rule / age (medium)      53.5%  [53.1, 53.8]  ~123,749 docs
+   hostable with restrictions                     6.9%  [6.5, 7.4]  ~16,073 docs
+   not hostable                                   1.2%  [1.2, 1.2]  ~2,752 docs
+   unknown/review                                 5.9%  [5.8, 6.0]  ~13,584 docs
+   hostable, no restriction (tiers 1+2)          86.0%  [85.6, 86.4]  ~198,990 docs
+   hostable incl. with restrictions (tiers 1-3)  92.9%  [92.8, 93.1]  ~215,063 docs
+
+largest corpus strata (docs, share):
+   UKET         1976+        58072  25.1%  sample n=2824
+   UKAITUR      1976+        35546  15.4%  sample n=1721
+   ScotCS       <=1875       29156  12.6%  sample n=1372
+   UKICO        1976+        20855   9.0%  sample n=1002
+   UKFTT/PC     1976+        11592   5.0%  sample n=561
+   UKIntelP     1976+        10477   4.5%  sample n=522
+   UKFTT/TC     1976+         8030   3.5%  sample n=391
+   EWLVT        1976+         6956   3.0%  sample n=360
+   ScotCS       1876-1905     6295   2.7%  sample n=298
+   UKPC         1906-1975     4946   2.1%  sample n=230
+   IEHC         1976+         4638   2.0%  sample n=224
+   ScotIC       1976+         3728   1.6%  sample n=203
+   DRS          1976+         2731   1.2%  sample n=121
+   UKFTT/GRC    1976+         2620   1.1%  sample n=123
+   ScotCS       1906-1975     2531   1.1%  sample n=129
+   UKHL         <=1875        2397   1.0%  sample n=125
+   UR           1976+         2374   1.0%  sample n=107
+   NIIT         1976+         2062   0.9%  sample n=87
+   IECA         1976+         1829   0.8%  sample n=87
+   UKPC         1876-1905     1815   0.8%  sample n=82
+   ScotCS       1976+         1306   0.6%  sample n=73
+   UKPC         1976+          884   0.4%  sample n=39
+
+what is in unknown/review:
+    224 ('IEHC', 'non-UK court: reuse terms not established')
+    107 ('UR', 'non-UK court: reuse terms not established')
+     87 ('IECA', 'non-UK court: reuse terms not established')
+     19 ('IESC', 'non-UK court: reuse terms not established')
+     13 ('ScotCS', 'privately published report series from 1911: probably out of copyright')
+     13 ('ScotCS', 'privately published report series from 1907: probably out of copyright')
+     11 ('SICC', 'non-UK court: reuse terms not established')
+      9 ('ScotCS', 'privately published report series from 1908: probably out of copyright')
+      9 ('ScotCS', 'privately published report series from 1914: probably out of copyright')
+      9 ('ScotCS', 'privately published report series from 1920: probably out of copyright')
+      9 ('EWHC/Ch', 'restrictive reproduction notice in the document: licence or consent ne')
+      7 ('ScotCS', 'privately published report series from 1912: probably out of copyright')
+      7 ('ScotCS', 'privately published report series from 1906: probably out of copyright')
+      7 ('ScotCS', 'privately published report series from 1916: probably out of copyright')

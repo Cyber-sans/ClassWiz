@@ -1,0 +1,230 @@
+# Members of the Judicial Committee: spellings seen in 3+ sampled documents plus a hand list. Used only to
+# validate names read by OCR from 'Present' lists (finalfix.present_list). One name per line.
+Baroness Hale of Richmond
+Dr. Lushington
+Lord Ackner
+Lord Alness
+Lord Ashbourne
+Lord Asquith of Bishopstone
+Lord Atkin
+Lord Atkinson
+Lord Bingham of Cornhill
+Lord Blackburn
+Lord Blanesburgh
+Lord Bramwell
+Lord Brandon of Oakbrook
+Lord Bridge of Harwich
+Lord Brightman
+Lord Brougham
+Lord Brown of Eaton-under-Heywood
+Lord Browne-Wilkinson
+Lord Buckmaster
+Lord Cairns
+Lord Carson
+Lord Carswell
+Lord Chelmsford
+Lord Clauson
+Lord Clyde
+Lord Cohen
+Lord Collins
+Lord Cooke of Thorndon
+Lord Cranworth
+Lord Cross of Chelsea
+Lord Darling
+Lord Davey
+Lord Denning
+Lord Devlin
+Lord Diplock
+Lord Donovan
+Lord Dunedin
+Lord Edmund-Davies
+Lord Elwyn-Jones
+Lord Esher
+Lord Evershed
+Lord Field
+Lord Fitzgerald
+Lord Fraser of Tullybelton
+Lord Goddard
+Lord Goff of Chieveley
+Lord Gorell
+Lord Greene
+Lord Griffiths
+Lord Guest
+Lord Hailsham
+Lord Halsbury
+Lord Hannen
+Lord Hanworth
+Lord Hatherley
+Lord Herschell
+Lord Hobhouse
+Lord Hobhouse of Woodborough
+Lord Hodson
+Lord Hoffmann
+Lord Hope of Craighead
+Lord Hutton
+Lord James of Hereford
+Lord Jauncey of Tullichettle
+Lord Jenkins
+Lord Justice Cairns
+Lord Justice James
+Lord Justice Knight Bruce
+Lord Justice Mellish
+Lord Justice Turner
+Lord Keith of Avonholm
+Lord Keith of Kinkel
+Lord Kilbrandon
+Lord Kingsdown
+Lord Kinnear
+Lord Lane
+Lord Langdale
+Lord Lindley
+Lord Lloyd of Berwick
+Lord Loreburn
+Lord Lowry
+Lord MacDermott
+Lord Mackay of Clashfern
+Lord Macmillan
+Lord Macnaghten
+Lord Mance
+Lord Maugham
+Lord Merriman
+Lord Merrivale
+Lord Mersey
+Lord Millett
+Lord Monkswell
+Lord Morris
+Lord Morris of Borth-y-Gest
+Lord Morton of Henryton
+Lord Moulton
+Lord Mustill
+Lord Nicholls of Birkenhead
+Lord Nolan
+Lord Normand
+Lord O'Hagan
+Lord Oaksey
+Lord Oliver of Aylmerton
+Lord Parker of Waddington
+Lord Parmoor
+Lord Pearce
+Lord Pearson
+Lord Penzance
+Lord Phillimore
+Lord Porter
+Lord Radcliffe
+Lord Reid
+Lord Robertson
+Lord Roche
+Lord Rodger of Earlsferry
+Lord Romer
+Lord Romilly
+Lord Roskill
+Lord Russell of Killowen
+Lord Salmon
+Lord Salvesen
+Lord Sankey
+Lord Saville of Newdigate
+Lord Scarman
+Lord Scott of Foscote
+Lord Selborne
+Lord Shand
+Lord Shaw
+Lord Simon of Glaisdale
+Lord Simonds
+Lord Sinha
+Lord Slynn of Hadley
+Lord Somervell of Harrow
+Lord Steyn
+Lord Stuart of Wortley
+Lord Sumner
+Lord Templeman
+Lord Thankerton
+Lord Tomlin
+Lord Trayner
+Lord Tucker
+Lord Upjohn
+Lord Uthwatt
+Lord Walker of Gestingthorpe
+Lord Warrington of Clyffe
+Lord Watson
+Lord Westbury
+Lord Wilberforce
+Lord Woolf
+Lord Wrenbury
+Lord Wright
+Lord Wynford
+Lord du Parcq
+Mr. Ameer Ali
+Mr. L. M. D. de Silva
+Mr. M. R. Jayakar
+Sir Alfred Wills
+Sir Andrew Scoble
+Sir Arthur Channell
+Sir Arthur Hobhouse
+Sir Arthur Wilson
+Sir Barnes Peacock
+Sir Binod Mitter
+Sir Charles Fitzpatrick
+Sir Charles Sargant
+Sir Cresswell Cresswell
+Sir Dinshah Mulla
+Sir Edward Ryan
+Sir Edward Vaughan Williams
+Sir Ford North
+Sir Frederick Pollock
+Sir Garfield Barwick
+Sir George Lowndes
+Sir George Rankin
+Sir Henri Elzéar Taschereau
+Sir Henry Keating
+Sir Henry de Villiers
+Sir James Hannen
+Sir James W. Colvile
+Sir John Beaumont
+Sir John Bonser
+Sir John Edge
+Sir John Megaw
+Sir John Romilly
+Sir John Stuart
+Sir John T. Coleridge
+Sir John Taylor Coleridge
+Sir John Wallis
+Sir Joseph Napier
+Sir Kenneth Gresson
+Sir Lancelot Sanderson
+Sir Lawrence Jenkins
+Sir Lawrence Peel
+Sir Lionel Leach
+Sir Louis Davies
+Sir Lyman Duff
+Sir Madhavan Nair
+Sir Maurice Casey
+Sir Michael Hardie Boys
+Sir Montague E. Smith
+Sir Montague Smith
+Sir Owen Woodhouse
+Sir Richard Baggallay
+Sir Richard Couch
+Sir Robert Collier
+Sir Robert Lush
+Sir Robert P. Collier
+Sir Robert Phillimore
+Sir Robert Stout
+Sir Robin Cooke
+Sir Samuel Griffith
+Sir Shadi Lal
+Sir Sidney Rowlatt
+Sir Thomas Eichelbaum
+Sir Walter Phillimore, Bart
+Sir William Erle
+Sir William Page Wood
+The Lord Chancellor
+The Master of the Rolls
+Viscount Cave
+Viscount Dilhorne
+Viscount Dunedin
+Viscount Finlay
+Viscount Haldane
+Viscount Radcliffe
+Viscount Simon
+Viscount Simonds
+Viscount Sumner

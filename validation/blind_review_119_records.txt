@@ -1,0 +1,1871 @@
+﻿blind set: 1200 {'UKET': 303, 'UKAITUR': 172, 'UKICO': 108, 'Mor': 84, 'property': 71, 'SLR': 67, 'UKIntelP': 53, 'other-scan': 52, 'BrnElcHai': 52, 'UKPC-scan': 40, 'IE': 39, 'UKFTT/TC': 39, 'Scot-courts': 19, 'appellate-trib': 18, 'EW-courts': 17, 'nominate/TC': 17, 'NI': 12, 'ScotIC': 10, 'UR': 10, 'DRS': 8, 'UKIT': 3, 'Misc': 2, 'QIC': 1, 'PBRA': 1, 'SHSC': 1, 'SIAC': 1}
+picked 119 {'EW-courts': 8, 'IE': 4, 'Scot-courts': 3, 'NI': 2, 'UKET': 14, 'UKAITUR': 10, 'UKFTT/TC': 5, 'property': 8, 'appellate-trib': 5, 'UKICO': 8, 'UKIntelP': 6, 'ScotIC': 3, 'DRS': 2, 'UKPC-scan': 7, 'other-scan': 4, 'SLR': 8, 'Mor': 8, 'BrnElcHai': 6, 'nominate/TC': 5, 'UR': 2, 'PBRA': 1}
+
+#0 1702.pdf [CASE/EWHC/Patents/EW-courts] pp=24 ocr=0 blocks=229 {'line': 13, 'paragraph': 153, 'heading': 21, 'footnote': 1, 'list_item': 40, 'marginal_note': 1}
+  T='Fosroc International Limited v W.r. Grace & Co.-Conn' | D=2010-07-12 (date-label) Y=2010 | C=High Court of Justice, Patents Court
+  P2=['clai:Fosroc International Limited', 'defe:W.r. Grace & Co.-Conn'] | J=['The Hon Mr Justice Floyd']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2010] EWHC 1702 (Pat) (47)
+     1 p1 lh Case No: HC09C01435 (19)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh CHANCERY DIVISION (17)
+     4 p1 lh PATENTS COURT (13)
+     5 p1 lh Royal Courts of Justice Strand, London, WC2A 2LL (48)
+     6 p1 lh Date: 12/07/2010 (16)
+     ...
+   226 p24 Pb <114.> A number of objections of insufficiency were pleaded. But in the end none of them were serio … into the same category. (205)
+   227 p24 Hb Result (6)
+   228 p24 Pb <115.> The amendment is allowed, subject to the point made at paragraph 26 above. The amended claim (104)
+
+#1 2407.pdf [CASE/EWHC/Admin/EW-courts] pp=17 ocr=0 blocks=129 {'line': 14, 'paragraph': 83, 'heading': 8, 'list_item': 23, 'marginal_note': 1}
+  T='The KING on the application of Brendon Oxendale v Secretary of State for Justice' | D=2024-09-24 (cue) Y=2024 | C=High Court of Justice, Administrative Court
+  P2=['clai:The KING on the application of Bre', 'defe:Secretary of State for Justice'] | J=['His Honour Judge Keyser KC']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2024] EWHC 2407 (Admin) (49)
+     1 p1 lh Case No: AC-2023-CDF-000152 (27)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh KING'S BENCH DIVISION (21)
+     4 p1 lh ADMINISTRATIVE COURT (20)
+     5 p1 lh Cardiff Civil Justice Centre 2 Park Street, Cardiff, CF10 1ET (61)
+     6 p1 lh Date: 24 September 2024 (23)
+     ...
+   126 p16 Pb Those words appear to me to be apt in this case also. (53)
+   127 p16 Pb <40.> The conclusion as to the Sufficient Progress Criterion is enough for present purposes. Howev …e Criterion was not met. (1408)
+   128 p17 Pb <41.> Accordingly, I refuse the claim for judicial review. (52)
+
+#2 1940.pdf [CASE/EWCA/Civ/EW-courts] pp=43 ocr=0 blocks=343 {'line': 20, 'paragraph': 238, 'heading': 21, 'list_item': 63, 'footnote': 1}
+  T='Elsworth Wray v The General Osteopathic Council' | D=2021-12-17 (date-label) Y=2021 | C=Court of Appeal (Civil Division)
+  P2=['appe:Elsworth Wray', 'resp:The General Osteopathic Council'] | J=['Lord Justice Underhill', 'Lord Justice Stuart-Smith', 'Lord Justice Nugee']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2021] EWCA Civ 1940 (45)
+     1 p1 lh Case No: C1/2021/0268 (21)
+     2 p1 lh IN THE COURT OF APPEAL (CIVIL DIVISION) (39)
+     3 p1 lh ON APPEAL FROM THE QUEEN’S BENCH DIVISION (41)
+     4 p1 lh ADMINISTRATIVE COURT (20)
+     5 p1 lh Mrs Justice Collins Rice (24)
+     6 p1 lh [2020] EWHC 3409 (QB) (21)
+     ...
+   340 p43 Pb <131.> I agree. (8)
+   341 p43 Hb Underhill LJ (12)
+   342 p43 Pb <132.> The way in which this appeal was argued, both before the Judge and before us, raised various …conclusion that she did. (816)
+
+#3 295.pdf [CASE/EWFC/OJ/EW-courts] pp=32 ocr=0 blocks=168 {'line': 13, 'paragraph': 110, 'heading': 14, 'list_item': 28, 'table': 3}
+  T='WH v HB 1 st & Anor' | D=2024-01-12 (cue) Y=2024 | C=Family Court
+  P3=['appl:WH', 'resp:HB 1 st', 'resp:RF 2 nd'] | J=['District Judge Chloë Phillips']
+  O=None (None) [] | cw=[]
+     0 p1 lh [2024] EWFC 295 (B) IN THE FAMILY COURT at BIRMINGHAM (53)
+     1 p1 lh Before DISTRICT JUDGE CHLOË PHILLIPS (36)
+     2 p1 lh WH v HB and RF (Financial Remedies: treatment of soft loan; offer from 2nd Respondent) (86)
+     3 p1 lh Between : (9)
+     4 p1 lh WH Applicant (12)
+     5 p1 lh and (3)
+     6 p1 lh HB 1 st Respondent (18)
+     ...
+   165 p31 T 14x4  | Total | Applicant W | Respondent H
+   166 p32 T 7x4 Total hard liabilities Total All liabilities |  | £42,821 £6
+   167 p32 T 3x3 Income | Applicant | Respondent
+
+#4 3537.pdf [CASE/EWHC/Admin/EW-courts] pp=24 ocr=0 blocks=272 {'line': 16, 'heading': 14, 'paragraph': 190, 'list_item': 52}
+  T='General Medical Council v Professor Robert Thompson Walton' | D=2019-12-19 (date-label) Y=2019 | C=High Court of Justice, Administrative Court
+  P2=['appe:General Medical Council', 'resp:Professor Robert Thompson Walton'] | J=['Before the Honourable Mr Justi']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2019] EWHC 3537 (Admin) (49)
+     1 p1 lh Case No: CO/2757/2019 (21)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh QUEEN'S BENCH DIVISION (22)
+     4 p1 lh ADMINISTRATIVE COURT (20)
+     5 p1 lh Royal Courts of Justice Strand, London, WC2A 2LL (48)
+     6 p1 lh Date: 19/12/2019 (16)
+     ...
+   269 p24 Lb <iii)> quash the MPT’s determinations on impairment and sanction. (58)
+   270 p24 Pb <59.> Element (iii) appears appropriate on the basis that the result of (i) and (ii) may or may no …impairment and sanction. (271)
+   271 p24 Pb <60.> I am grateful to both parties’ counsel for their helpful written and oral submissions. (86)
+
+#5 3317.pdf [CASE/EWHC/Ch/EW-courts] pp=4 ocr=0 blocks=45 {'line': 18, 'list_item': 3, 'paragraph': 21, 'heading': 3}
+  T='The Joint Administrators of Lehman Brothers Holdings PLC (in Administration) v LB GP NO.1 Limited (i' | D=2023-12-21 (cue) Y=2023 | C=High Court of Justice, Chancery Division
+  P4=['appl:The Joint Administrators of Lehman', 'resp:LB GP NO.1 Limited (in Liquidation', 'resp:Lehman Brothers Holdings Inc', 'resp:Deutsche BANK A.G. (London Branch)'] | J=['The Honourable Mr Justice Hild']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2023] EWHC 3317 (Ch) (46)
+     1 p1 lh Case No: CR-2008-000026 (23)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES (49)
+     4 p1 lh INSOLVENCY AND COMPANIES LIST (ChD) (35)
+     5 p1 lh 7 Rolls Building Fetter Lane London, EC4A 1NL (45)
+     6 p1 lh Date: 21 December 2023 (22)
+     ...
+    42 p4 Pb <16.> LBHI provided me with its detailed reasons for seeking permission to appeal the declaration  …draft Grounds of Appeal. (336)
+    43 p4 Pb <17.> LBHI pointed out more generally that Issue (1) involves substantial amounts of money, with a …ecured creditor claims.” (353)
+    44 p4 Pb <18.> These points were made with tact and economy. However, I shall not myself give permission to …mission should be given. (382)
+
+#6 3300.pdf [CASE/EWHC/Comm/EW-courts] pp=13 ocr=0 blocks=101 {'line': 20, 'heading': 3, 'paragraph': 68, 'list_item': 10}
+  T='Suez Fortune Investments Ltd Piraeus Bank Ae v Talbot Underwriting Ltd and Others' | D=2019-12-04 (date-label) Y=2019 | C=High Court of Justice, Commercial Court
+  P2=['clai:Suez Fortune Investments Ltd Pirae', 'defe:Talbot Underwriting Ltd and Others'] | J=['Mr. Justice Teare']
+  O=None (None) [] | cw=[]
+     0 p1 lh Neutral Citation Number: [2019] EWHC 3300 (Comm) (48)
+     1 p1 lh Case No: CL-2012-000028 (23)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh BUSINESS AND PROPERTY COURTS (28)
+     4 p1 lh OF ENGLAND AND WALES (20)
+     5 p1 lh QUEEN'S BENCH DIVISION (22)
+     6 p1 lh COMMERCIAL COURT (16)
+     ...
+    98 p13 Lb <iv)> The Cargo Theft issue was not, I think, pressed by the Underwriters as being a matter which  … on the indemnity basis. (413)
+    99 p13 Hb Conclusion (10)
+   100 p13 Pb <48.> The Bank is ordered to pay the Underwriters’ costs on the indemnity basis from May 2016 save …aid on account of costs. (354)
+
+#7 3367.pdf [CASE/EWHC/Ch/EW-courts] pp=9 ocr=0 blocks=89 {'line': 15, 'list_item': 20, 'paragraph': 50, 'heading': 1, 'marginal_note': 3}
+  T='Kiran Rajaram Patwardhan & Anor v Ivygate Developments Limited & Anor' | D=2022-11-11 (date-label) Y=2022 | C=High Court of Justice, Chancery Division
+  P4=['appe:Kiran Rajaram Patwardhan', 'appe:Anjali Patwardhan in the court bel', 'resp:Ivygate Developments Limited', 'resp:in the court below)'] | J=['The Honourable Mr Justice Marc']
+  O=Appeal allowed (closing paragraphs) [For the reasons that I have given, which relate to the construction of the Lease, the appeal must be allowed.] | cw=[]
+     0 p1 lh Neutral Citation [2022] EWHC 3367 (Ch) (38)
+     1 p1 lh Case No: CH-2022-000048 (23)
+     2 p1 lh IN THE HIGH COURT OF JUSTICE (28)
+     3 p1 lh BUSINESS AND PROPERTY COURTS OF ENGLAND AND WALES CHANCERY DIVISION (67)
+     4 p1 lh Chancery Appeals (16)
+     5 p1 lh Heard remotely at: (18)
+     6 p1 lh The Royal Courts of Justice Rolls Building 7 Rolls Buildings Fetter Lane London EC4A 1NL (88)
+     ...
+    86 p8 Pb <31.> It also follows that I do not need to consider the question of adverse possession nor the Re …oint and I do not do so. (629)
+    87 p9 Pb <32.> It follows that I do not need to consider further the Respondent’s point about registration  …y rather than the other. (178)
+    88 p9 Pb <33.> For the reasons that I have given, which relate to the construction of the Lease, the appeal (109)
+
+#8 2020IEHC661.pdf [CASE/IEHC/IE] pp=13 ocr=0 blocks=86 {'line': 6, 'paragraph': 75, 'heading': 5}
+  T='Dayhoff Limited to High Court Appeal v Commissioner of Valuation to High Court Appeal' | D=2020-12-16 (cue) Y=2020 | C=High Court of Ireland
+  P2=['appe:Dayhoff Limited to High Court Appe', 'resp:Commissioner of Valuation to High '] | J=['Mr. Justice Barr']
+  O=None (None) [] | cw=[]
+     0 p1 lh [2020] IEHC 661 (15)
+     1 p1 lh THE HIGH COURT (14)
+     2 p1 lh [Record No. 2020/952 SS.] BETWEEN (33)
+     3 p1 lh DAYHOFF LIMITED (15)
+     4 p1 lh APPELLANT / RESPONDENT TO HIGH COURT APPEAL AND (47)
+     5 p1 lh COMMISSIONER OF VALUATION (25)
+     6 p1 Ph RESPONDENT / APPELLANT TO HIGH COURT APPEAL JUDGMENT of Mr. Justice Barr delivered electroni …th day of December, 2020 (131)
+     ...
+    83 p13 Pb follows: No. (12)
+    84 p13 Pb <62.> The parties may furnish written submissions within four weeks in respect of the final order (91)
+    85 p13 Pb and on costs and on any other matter that may arise. (52)
+
+#9 2022IECA116.pdf [CASE/IECA/IE] pp=5 ocr=0 blocks=34 {'line': 9, 'paragraph': 14, 'list_item': 9, 'heading': 2}
+  T='[2022] IECA 116' | D=2022-03-21 (cue) Y=2022 | C=Court of Appeal of Ireland
+  P0=[] | J=['The President', 'Edwards J', 'McCarthy J', 'Birmingham P']
+  O=Appeal dismissed (closing paragraphs) [In those circumstances, we must dismiss the appeal.] | cw=[]
+     0 p1 lh THE COURT OF APPEAL (19)
+     1 p1 lh [153/20] (8)
+     2 p1 lh The President (13)
+     3 p1 lh Edwards J (9)
+     4 p1 lh McCarthy J (10)
+     5 p1 lh BETWEEN (7)
+     6 p1 lh THE PEOPLE AT THE SUIT OF THE DIRECTOR OF PUBLIC PROSECUTIONS RESPONDENT AND (76)
+     ...
+    31 p5 Pb <11.> Once more, the Director points to the fact that there was no requisition in relation to the  … a perfectly proper one. (694)
+    32 p5 Pb <12.> Those, then, are the grounds that were the subject of submissions, oral and written, and we  … the verdict was unsafe. (287)
+    33 p5 Pb <13.> In those circumstances, we must dismiss the appeal. (51)
+
+#10 2022IEHC57.pdf [CASE/IEHC/IE] pp=6 ocr=0 blocks=57 {'line': 6, 'paragraph': 35, 'list_item': 13, 'heading': 3}
+  T='Minister for Justice and Equality v Danas Kairys' | D=2022-01-31 (cue) Y=2022 | C=High Court of Ireland
+  P2=['appl:Minister for Justice and Equality', 'resp:Danas Kairys'] | J=['Mr. Justice Paul Burns']
+  O=None (None) [] | cw=[]
+     0 p1 lh THE HIGH COURT (14)
+     1 p1 lh [2022] IEHC 57 (14)
+     2 p1 lh [2016 No. 97 EXT] BETWEEN (25)
+     3 p1 lh MINISTER FOR JUSTICE AND EQUALITY APPLICANT AND (47)
+     4 p1 lh DANAS KAIRYS (12)
+     5 p1 lh RESPONDENT JUDGMENT of Mr. Justice Paul Burns delivered on the 31st day of January, 2022 (88)
+     6 p1 Pb 1. By this application, the applicant seeks an order for the surrender of the respondent to  …uing judicial authority. (315)
+     ...
+    54 p6 Pb <28.> He also submits that the failure of the State to opt into and give effect to para. 4(6) of t …eject the said argument. (694)
+    55 p6 Pb <29.> I am satisfied that surrender of the respondent is not precluded by reason of Part 3 of the  …r provision of that Act. (139)
+    56 p6 Pb <30.> Having rejected the respondent’s objections to surrender, it follows that this Court will ma …ondent to the Lithuania. (157)
+
+#11 2021IEHC23.pdf [CASE/IEHC/IE] pp=11 ocr=0 blocks=100 {'line': 11, 'heading': 7, 'paragraph': 73, 'list_item': 9}
+  T='Utmost Paneurope Dac v Financial Services and Pensions Ombudsman' | D=2021-02-10 (cue) Y=2021 | C=High Court of Ireland
+  P2=['appe:Utmost Paneurope Dac', 'resp:Financial Services and Pensions Om'] | J=['Mr. Justice Garrett Simons']
+  O=None (None) [] | cw=[]
+     0 p1 lh APPROVED [2021] IEHC 23 (23)
+     1 p1 lh THE HIGH COURT (14)
+     2 p1 lh 2019 No. 286 MCA (16)
+     3 p1 lh IN THE MATTER OF AN APPEAL UNDER SECTION 64 OF THE FINANCIAL SERVICES AND PENSIONS OMBUDSMAN (101)
+     4 p1 lh BETWEEN (7)
+     5 p1 lh UTMOST PANEUROPE DAC (20)
+     6 p1 lh APPELLANT AND (13)
+     ...
+    97 p10 Pb <33.> The usual stay is placed on the costs order pending an appeal to the Court of Appeal and/or  …al to the Supreme Court. (148)
+    98 p11 Hb Appearances (11)
+    99 p11 Pb Kelley Smith, SC for the insurance provider instructed by Matheson Eoin McCullough, SC and F …d by Evershed Sutherland (157)
+
+#12 2020_HCJAC_43.pdf [CASE/ScotHC/Scot-courts] pp=65 ocr=0 blocks=508 {'line': 18, 'paragraph': 394, 'heading': 49, 'list_item': 47}
+  T='CH v Her Majesty’s Advocate' | D=2020-10-13 (date-line) Y=2020 | C=High Court of Justiciary (Appeal Court)
+  P2=['appe:CH', 'resp:Her Majesty’s Advocate'] | J=['Lord Carloway', 'Lord Turnbull', 'Lord Justice General', 'Lord Justice Clerk']
+  O=None (None) [] | cw=[]
+     0 p1 lh APPEAL COURT, HIGH COURT OF JUSTICIARY (38)
+     1 p1 lh [2020] HCJAC 43 HCA/2020/8/XC (29)
+     2 p1 lh Lord Justice General (20)
+     3 p1 lh Lord Justice Clerk (18)
+     4 p1 lh Lord Menzies (12)
+     5 p1 lh Lord Glennie (12)
+     6 p1 lh Lord Turnbull (13)
+     ...
+   505 p64 Pb <[137]> I note that in considering the application of section 275(1) of the 1995 Act Lord Glennie wo … the night in question.” (888)
+   506 p64 Pb <[138]> In any event, it does not seem to me that section 275(1)(a) directs the court to an assessme … SC (PC) 1, Lord Hope of (440)
+   507 p65 Pb Craighead at paragraph 48 and Lord Rodger of Earlsferry at paragraph 72. (72)
+
+#13 2022ut27.pdf [CASE/ScotUT/Scot-courts] pp=5 ocr=0 blocks=42 {'line': 9, 'paragraph': 28, 'heading': 5}
+  T='[2022] UT 27' | D=2022-07-22 (date-line) Y=2022 | C=Upper Tribunal for Scotland
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 2022UT27 Ref: UTS/AP/22/0008 (28)
+     1 p1 lh DECISION OF (11)
+     2 p1 lh Sheriff Ian Hay Cruickshank (27)
+     3 p1 lh ON AN APPLICATION TO APPEAL IN THE CASE OF (42)
+     4 p1 lh Umali Limited, Umali Limited, 77 Victoria Street, Larkhall, ML9 2BL (67)
+     5 p1 lh Appellant (9)
+     6 p1 lh - and - (7)
+     ...
+    39 p5 Pb A party to this case who is aggrieved by this decision may seek permission to appeal to the  …rther appeal to proceed. (704)
+    40 p5 Pb Sheriff Ian Hay Cruickshank (27)
+    41 p5 Pb Member (6)
+
+#14 2020_CSOH_99.pdf [CASE/ScotCS/Scot-courts] pp=14 ocr=0 blocks=87 {'line': 8, 'heading': 7, 'paragraph': 56, 'list_item': 16}
+  T='Fife Resource Solutions LLP v Robertson Metals Recycling Limited' | D=2020-12-15 (date-line) Y=2020 | C=Court of Session (Outer House)
+  P2=['purs:Fife Resource Solutions LLP', 'defe:Robertson Metals Recycling Limited'] | J=['Lord Tyre']
+  O=None (None) [] | cw=[]
+     0 p1 lh OUTER HOUSE, COURT OF SESSION [2020] CSOH 99 P34/20 (51)
+     1 p1 lh OPINION OF LORD TYRE (20)
+     2 p1 lh In the cause (12)
+     3 p1 lh FIFE RESOURCE SOLUTIONS LLP (27)
+     4 p1 lh Pursuer against (15)
+     5 p1 lh ROBERTSON METALS RECYCLING LIMITED Defender (43)
+     6 p1 lh Pursuer: R Mitchell, solicitor advocate; Brodies LLP Defender: Manson; Davidson Chalmers Ste (100)
+     ...
+    84 p14 Hb Disposal (8)
+    85 p14 Pb <[29]> I shall sustain the defender’s fourth plea in law (a general plea to relevancy) and (83)
+    86 p14 Pb dismiss the action. Questions of expenses are reserved. (55)
+
+#15 16465_20IT.pdf [CASE/NIIT/NI] pp=2 ocr=0 blocks=23 {'line': 14, 'paragraph': 9}
+  T='Noel Reid v GMB' | D=2021-04-19 (tail) Y=2021 | C=Fair Employment Tribunal
+  P2=['clai:Noel Reid', 'resp:GMB'] | J=[]
+  O=Claim dismissed (judgment section) [The Judgment of the tribunal is that the claim against the GMB is dismissed as being out of time and therefore] | cw=[]
+     0 p1 lh THE INDUSTRIAL TRIBUNALS AND (28)
+     1 p1 lh FAIR EMPLOYMENT TRIBUNAL (24)
+     2 p1 lh CASE REF: 16465/20 (18)
+     3 p1 lh CLAIMANT: Noel Reid (19)
+     4 p1 lh RESPONDENT: GMB (15)
+     5 p1 lh JUDGMENT ON A PRELIMINARY ISSUE (31)
+     6 p1 Ph The Judgment of the tribunal is that the claim against the GMB is dismissed as being out of  …diction of the tribunal. (152)
+     ...
+    20 p2 lc Date and place of hearing: 19 April 2021, Belfast by WebEx. (59)
+    21 p2 lc This judgment was entered in the register and issued to the parties on: (71)
+    22 p2 lc 2. (2)
+
+#16 16890_18IT.pdf [CASE/NIIT/NI] pp=1 ocr=0 blocks=10 {'line': 9, 'heading': 1}
+  T='Dylann Magowan' | D=2021-11-16 (date-label) Y=2021 | C=Industrial Tribunal (Northern Ireland)
+  P1=['resp:Dylann Magowan'] | J=['N.Kelly']
+  O=Dismissed on withdrawal (judgment section) [The claim is dismissed following withdrawal.] | cw=[]
+     0 p1 lh THE INDUSTRIAL TRIBUNALS (24)
+     1 p1 lh CASE REF NO: 16890/18 (21)
+     2 p1 lh CLAIMANT: RESPONDENTS: (22)
+     3 p1 lh Dylann Magowan 1. Bubbles Wraparound Care Ltd 2. Paula McIvor (61)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 lc The claim is dismissed following withdrawal. (44)
+     6 p1 lc Employment Judge: N.Kelly (25)
+     7 p1 lc Date: 16/11/21 (14)
+     8 p1 lc This judgment was issued to the parties on 19/11/21 and will be entered on the register. (88)
+     9 p1 lc _______BMC_________________________________________ pp Secretary of the Tribunals (81)
+
+#17 3301653_2020.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=11 {'line': 10, 'heading': 1}
+  T='Mrs V Tcaci v Stacey Employment Services Ltd (In Liquidation)' | D=2020-12-07 (date-label) Y=2020 | C=Employment Tribunal
+  P2=['clai:Mrs V Tcaci', 'resp:Stacey Employment Services Ltd (In'] | J=['Employment Judge R Lewis']
+  O=Claim succeeds (judgment section) [Employment Tribunals Rules of Procedure 2013 – Rule 21 The Respondent has failed to present a response and is ] | cw=[]
+     0 p1 lh Case No:3301653/2020 (20)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mrs V Tcaci (21)
+     3 p1 lh Respondent: Stacey Employment Services Ltd (In Liquidation) (59)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 lc Employment Tribunals Rules of Procedure 2013 – Rule 21 (54)
+     6 p1 lc The Respondent has failed to present a response and is ordered to pay to Claimant arrears of (101)
+     7 p1 lc Employment Judge R Lewis Date: 7/12/2020 (40)
+     8 p1 lc JUDGMENT SENT TO THE PARTIES AND ENTERED IN THE REGISTER (56)
+     9 p1 lc ………………………………………… (16)
+    10 p1 lc ……………………………………….. FOR THE TRIBUNAL OFFICE (41)
+
+#18 2401281_2024.pdf [CASE/UKET/UKET] pp=2 ocr=0 blocks=22 {'line': 8, 'heading': 7, 'paragraph': 7}
+  T='Mr N Martin v Capital Professional Limited T/A Ascot Lloyd' | D=2024-09-16 (date-line) Y=2024 | C=Employment Tribunal
+  P2=['clai:Mr N Martin', 'resp:Capital Professional Limited T/A A'] | J=['Employment Judge Buzzard']
+  O=Claim dismissed (judgment section) [The claimant’s claim of unfair dismissal is not well founded and is dismissed.] | cw=[]
+     0 p1 lh Case Number: 2401281/24 (23)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr N Martin (21)
+     3 p1 lh Respondent: Capital Professional Limited T/A Ascot Lloyd (56)
+     4 p1 lh Heard at: Liverpool On: 16 September 2024 Before: Employment Judge Buzzard (74)
+     5 p1 lh REPRESENTATION: (15)
+     6 p1 lh Claimant: In Person (19)
+     ...
+    19 p2 Hb Recording and Transcription (27)
+    20 p2 Pb Please note that if a Tribunal hearing has been recorded you may request a transcript of the …which can be found here: (477)
+    21 p2 Pb https://www.judiciary.uk/guidance-and-resources/employment-rules-and-legislation-practice-di (101)
+
+#19 2603212_2019.pdf [CASE/UKET/UKET] pp=2 ocr=0 blocks=11 {'line': 4, 'heading': 4, 'paragraph': 3}
+  T='Mr E Zamfirache v The Agency (Nationwide) Ltd' | D=2020-01-27 (date-line) Y=2020 | C=Employment Tribunal
+  P2=['clai:Mr E Zamfirache', 'resp:The Agency (Nationwide) Ltd'] | J=['Employment Judge Heap']
+  O=Claim succeeds (judgment section) [The respondent has made an unauthorised deduction from the claimant's wages and is ordered to pay the claimant] | cw=[]
+     0 p1 lh Case No:2603212/2019 (20)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr E Zamfirache (25)
+     3 p1 lh Respondent: The Agency (Nationwide) Ltd (39)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Hb Employment Tribunals Rules of Procedure 2013 – Rule 21 (54)
+     6 p1 Pb 1. The respondent has made an unauthorised deduction from the claimant's wages and is ordere …he gross sum of £600.00. (139)
+     7 p1 Pb <2.> The hearing listed on 5 March 2020 is cancelled. (48)
+     8 p1 Hb 27th January 2020 (17)
+     9 p1 Hb Employment Judge Heap (21)
+    10 p2 Pb <4.17> Rule 21 judgment – universal template. September 2017 (53)
+
+#20 2207198_2018.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=12 {'line': 4, 'heading': 3, 'paragraph': 5}
+  T='Ms N Florio v United Kingdom Petroleum Industry Association Limited' | D=2019-07-05 (date-line) Y=2019 | C=Employment Tribunal
+  P2=['clai:Ms N Florio', 'resp:United Kingdom Petroleum Industry '] | J=['Employment Judge Goodman']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No:2207198/2018 (20)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Ms N Florio (21)
+     3 p1 lh Respondent: United Kingdom Petroleum Industry Association Limited (65)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Pb The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 Pb Employment Judge Goodman (24)
+     ...
+     9 p1 Pb 11 September 2019 (17)
+    10 p1 Hb FOR THE TRIBUNAL OFFICE (23)
+    11 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#21 1601551_2018.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=11 {'line': 4, 'heading': 3, 'paragraph': 4}
+  T='Mrs S Mayberry v Coral Racing Limited' | D=2019-02-19 (date-line) Y=2019 | C=Employment Tribunal
+  P2=['clai:Mrs S Mayberry', 'resp:Coral Racing Limited'] | J=['Employment Judge P Cadney']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No:1601551/2018 (20)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mrs S Mayberry (24)
+     3 p1 lh Respondent: Coral Racing Limited (32)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Pb The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 Hb Employment Judge P Cadney (25)
+     7 p1 Pb 19 February 2019 (16)
+     8 p1 Pb JUDGMENT SENT TO THE PARTIES ON 20 February 2019 (48)
+     9 p1 Hb FOR THE TRIBUNAL OFFICE (23)
+    10 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#22 3335518_2018.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=11 {'line': 10, 'heading': 1}
+  T='Mr D Shearer v Validus Risk Management Limited' | D=2019-03-12 (date-label) Y=2019 | C=Employment Tribunal
+  P2=['clai:Mr D Shearer', 'resp:Validus Risk Management Limited'] | J=['Employment Judge Henry']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No: 3335518/2018 (21)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr D Shearer (22)
+     3 p1 lh Respondent: Validus Risk Management Limited (43)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 lc The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 lc Employment Judge Henry (22)
+     7 p1 lc Dated: 12.03.19 (15)
+     8 p1 lc Judgment sent to the parties on (31)
+     9 p1 lc Date: 12.03.19 (14)
+    10 p1 lc For the Tribunal office (23)
+
+#23 3324603_2017.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=9 {'line': 4, 'heading': 1, 'paragraph': 4}
+  T='Mr R Khalid v Lloyds Banking Group' | D=2017-10-25 (date-label) Y=2017 | C=Employment Tribunal
+  P2=['clai:Mr R Khalid', 'resp:Lloyds Banking Group'] | J=['Employment Judge Henry']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No: 3324603/2017 (21)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr R Khalid (21)
+     3 p1 lh Respondent: Lloyds Banking Group (32)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Pb The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 Pb Employment Judge Henry Date: 25 October 2017 Judgment sent to the parties on Date: (82)
+     7 p1 Pb For the Tribunal office (23)
+     8 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#24 3302613_2020.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=10 {'line': 9, 'heading': 1}
+  T='Miss M Nyambe v Islington GP Group Limited' | D=2020-04-08 (signature bloc) Y=2020 | C=Employment Tribunal
+  P2=['clai:Miss M Nyambe', 'resp:Islington GP Group Limited'] | J=['Employment Judge Heal']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No: 3302613/2020 (21)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Miss M Nyambe (23)
+     3 p1 lh Respondent: Islington GP Group Limited (38)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 lc The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 lc Employment Judge Heal Dated: 08.04.2020 (39)
+     7 p1 lc Judgment sent to the parties on (31)
+     8 p1 lc Date: 22.04.2020 (16)
+     9 p1 lc For the Tribunal office (23)
+
+#25 3302858_2018.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=16 {'line': 7, 'heading': 1, 'paragraph': 8}
+  T='Miss Elaine Thomas v Nigel Chapman (1)' | D=None (-) Y=2022 | C=Employment Tribunal
+  P2=['clai:Miss Elaine Thomas', 'resp:Nigel Chapman (1)'] | J=['Employment Judge Henry']
+  O=Dismissed on withdrawal (judgment section) [The claim against the respondents are dismissed on withdrawal by the claimant.] | cw=[]
+     0 p1 lh Case No: 3302858/2018 (21)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Miss Elaine Thomas (28)
+     3 p1 lh Respondent: Nigel Chapman (1) (29)
+     4 p1 lh Sue Gates (2) (13)
+     5 p1 lh Family Solutions (3) (20)
+     6 p1 lh Pauline Roberts (4) (19)
+     ...
+    13 p1 Pb Date:28/1/19 (12)
+    14 p1 Pb For the Tribunal office (23)
+    15 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#26 2300338_2014.pdf [CASE/UKET/UKET] pp=16 ocr=0 blocks=147 {'line': 12, 'heading': 8, 'paragraph': 117, 'list_item': 10}
+  T='Ms Tatiana Stockman v Phoenix House Limited' | D=2017-05-22 (tail) Y=2017 | C=Employment Tribunal
+  P2=['clai:Ms Tatiana Stockman', 'resp:Phoenix House Limited'] | J=['Employment Judge Freer', 'Ms R Bailey', 'Mr G Shaw']
+  O=None (None) [] | cw=[]
+     0 p1 lh EMPLOYMENT TRIBUNALS (20)
+     1 p1 lh BETWEEN (7)
+     2 p1 lh Claimant: Ms Tatiana Stockman (29)
+     3 p1 lh Respondent: Phoenix House Limited (33)
+     4 p1 lh Held at: London South On: 20 & 21 April 2017 (44)
+     5 p1 lh Before: Employment Judge Freer (30)
+     6 p1 lh Members: Ms R Bailey (20)
+     ...
+   144 p16 Pb <78.> Similarly, with the same lack of argument and evidential facts, the Tribunal concludes it is …al statutory time limit. (228)
+   145 p16 Pb <79.> Accordingly, the Claimant’s claims of victimisation and detriment on the ground of having ma …iction to consider them. (221)
+   146 p16 lc Employment Judge Freer Date: 22 May 2017 (40)
+
+#27 3202357_2019.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=15 {'line': 12, 'heading': 2, 'paragraph': 1}
+  T='Miss A Lalewicz v Radleypost Limited' | D=2020-02-24 (date-line) Y=2020 | C=Employment Tribunal
+  P2=['clai:Miss A Lalewicz', 'resp:Radleypost Limited'] | J=['Employment Judge Gardiner']
+  O=None (None) [] | cw=[]
+     0 p1 lh Case Number: 3202357/2019 RM (28)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Miss A Lalewicz (25)
+     3 p1 lh Respondent: Radleypost Limited (30)
+     4 p1 lh Heard at: East London Hearing Centre (36)
+     5 p1 lh On: 24 February 2020 (20)
+     6 p1 lh Before: Employment Judge Gardiner (33)
+     ...
+    12 p1 Pb <1.> The Tribunal does not have jurisdiction to consider the Claimant’s complaint that there was  … self-employed capacity. (282)
+    13 p1 lc Employment Judge Gardiner (25)
+    14 p1 lc 4 March 2020 (12)
+
+#28 105201_2010.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=12 {'line': 11, 'heading': 1}
+  T='[2017] UKET 105201/2010' | D=2017-04-05 (cue) Y=2017 | C=Employment Tribunal (Scotland)
+  P1=['resp:North Lanarkshire Council'] | J=['Frances Eccles']
+  O=Dismissed on withdrawal (judgment section) [The claim, having been withdrawn by the claimant, is dismissed under Rule 52 of the Rules contained in Schedul] | cw=[]
+     0 p1 lh EMPLOYMENT TRIBUNALS (20)
+     1 p1 lh (SCOTLAND) (10)
+     2 p1 lh Case No: 105201/2010 (20)
+     3 p1 lh Mrs H Whisker Claimant Represented by: Thompsons Solicitors (59)
+     4 p1 lh North Lanarkshire Council Respondents Represented by: C Livingston Solicitor (76)
+     5 p1 Hb JUDGMENT (8)
+     6 p1 lc The claim, having been withdrawn by the claimant, is dismissed under Rule 52 of the Rules (89)
+     ...
+     9 p1 lc Employment Judge: Frances Eccles (32)
+    10 p1 lc Date of Judgment: 05 April 2017 (31)
+    11 p1 lc Entered in register and copied to parties: 05 April 2017 (56)
+
+#29 3200201_2019.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=9 {'line': 4, 'heading': 1, 'paragraph': 4}
+  T='Mr L Hadley v Crownlea Hire & Sales Limited' | D=2019-08-22 (date-label) Y=2019 | C=Employment Tribunal
+  P2=['clai:Mr L Hadley', 'resp:Crownlea Hire & Sales Limited'] | J=['Employment Judge Reid']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No: 3200201/2019 (21)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr L Hadley (21)
+     3 p1 lh Respondent: Crownlea Hire & Sales Limited (41)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Pb The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 Pb Employment Judge Reid (21)
+     7 p1 Pb Date: 22 August 2019 (20)
+     8 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#30 2501132_2017.pdf [CASE/UKET/UKET] pp=1 ocr=0 blocks=11 {'line': 4, 'heading': 3, 'paragraph': 4}
+  T='Mr RP Parilla v Sambuca Restaurants Limited' | D=2017-10-09 (date-line) Y=2017 | C=Employment Tribunal
+  P2=['clai:Mr RP Parilla', 'resp:Sambuca Restaurants Limited'] | J=['Employment Judge Garnon']
+  O=Dismissed on withdrawal (judgment section) [The proceedings are dismissed following a withdrawal of the claim by the claimant.] | cw=[]
+     0 p1 lh Case No:2501132/2017 (20)
+     1 p1 lh EMPLOYMENT TRIBUNALS (20)
+     2 p1 lh Claimant: Mr RP Parilla (23)
+     3 p1 lh Respondent: Sambuca Restaurants Limited (39)
+     4 p1 Hb JUDGMENT (8)
+     5 p1 Pb The proceedings are dismissed following a withdrawal of the claim by the claimant. (82)
+     6 p1 Pb Employment Judge Garnon 9 October 2017 (38)
+     7 p1 Hb JUDGMENT SENT TO THE PARTIES ON 31 October 2017 (47)
+     8 p1 Pb G Palmer (8)
+     9 p1 Hb FOR THE TRIBUNAL OFFICE (23)
+    10 p1 Pb <6.8> Judgment on Withdrawal rule 52 (30)
+
+#31 AA115702014.pdf [CASE/UKAITUR/UKAITUR] pp=10 ocr=0 blocks=81 {'line': 20, 'paragraph': 57, 'heading': 4}
+  T='[2016] UKAITUR AA115702014' | D=2016-03-21 (promulgated) Y=2016 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P0=[] | J=['Deputy Upper Tribunal Judge Sa']
+  O=Appeal dismissed ('decision:' section) [I dismiss the appeal on all grounds.] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Number: AA/11570/2014 (61)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at Field House Decision & Reasons Promulgated On 7 March 2016 On 21 March 2016 (84)
+     4 p1 lh Before (6)
+     5 p1 lh DEPUTY UPPER TRIBUNAL JUDGE SAFFER (34)
+     6 p1 lh Between (7)
+     ...
+    78 p10 lc Signed (6)
+    79 p10 lc Deputy Upper Tribunal Judge Saffer (34)
+    80 p10 lc 16 March 2016 (13)
+
+#32 HU124342016.pdf [CASE/UKAITUR/UKAITUR] pp=6 ocr=0 blocks=53 {'line': 16, 'paragraph': 35, 'heading': 2}
+  T='[2018] UKAITUR HU124342016' | D=2018-01-26 (promulgated) Y=2018 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P0=[] | J=['Upper Tribunal Judge Perkins']
+  O=None (None) [] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Number: HU/12434/2016 (61)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at Field House Decision & Reasons Promulgated On 25 October 2017 On 26 January 2018 (89)
+     4 p1 lh Before (6)
+     5 p1 lh UPPER TRIBUNAL JUDGE PERKINS (28)
+     6 p1 lh Between (7)
+     ...
+    50 p6 Pb The First-tier Tribunal erred in law. I set aside its decision and I substitute a decision D …f the Secretary of State (170)
+    51 p6 lc Signed (6)
+    52 p6 lc Jonathan Perkins, Upper Tribunal Judge Dated: 24 January 2018 (61)
+
+#33 UI2022006086.pdf [CASE/UKAITUR/UKAITUR] pp=16 ocr=0 blocks=135 {'line': 21, 'paragraph': 94, 'heading': 12, 'list_item': 8}
+  T='Secretary of State for the Home Department v FK (IRAQ)' | D=2023-07-27 (cue) Y=2023 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Secretary of State for the Home De', 'resp:FK (IRAQ)'] | J=['Deputy Upper Tribunal Judge Mo']
+  O=Appeal dismissed ('notice of decision' section) [The decision of the First-tier Tribunal is not vitiated by procedural unfairness and it does not contain an er] | cw=[]
+     0 p1 lh IN THE UPPER TRIBUNAL Case No.: UI-2022-006086 (46)
+     1 p1 lh IMMIGRATION AND ASYLUM CHAMBER (30)
+     2 p1 lh First-tier Tribunal Nos: PA/50401/2022 IA/01424/2022 (52)
+     3 p1 lh THE IMMIGRATION ACTS (20)
+     4 p1 lh Decision & Reasons Issued: On 27 July 2023 (42)
+     5 p1 lh Before (6)
+     6 p1 lh DEPUTY UPPER TRIBUNAL JUDGE MONSON (34)
+     ...
+   132 p16 Hb Anonymity (9)
+   133 p16 Pb The First-tier Tribunal made an anonymity order in favour of the appellant, and I consider t …s in the Upper Tribunal. (232)
+   134 p16 lc Andrew Monson Deputy Judge of the Upper Tribunal Immigration and Asylum Chamber 26 July 2023 (92)
+
+#34 UI2024000106.pdf [CASE/UKAITUR/UKAITUR] pp=4 ocr=0 blocks=43 {'line': 16, 'heading': 1, 'paragraph': 22, 'list_item': 4}
+  T='Omowale Fadaini v Secretary of State for the Home Department' | D=2024-02-29 (signature bloc) Y=2024 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Omowale Fadaini', 'resp:Secretary of State for the Home De'] | J=['Upper Tribunal Judge Macleman']
+  O=Remitted (closing paragraphs) [The case is remitted for a fresh hearing before another Judge.] | cw=[]
+     0 p1 lh IN THE UPPER TRIBUNAL Case No: UI-2024-000106 IMMIGRATION AND ASYLUM First-tier Tribunal No: (114)
+     1 p1 lh THE IMMIGRATION ACTS (20)
+     2 p1 lh Decision & Reasons Issued: On the 14 June 2024 (46)
+     3 p1 lh Before (6)
+     4 p1 lh UPPER TRIBUNAL JUDGE MACLEMAN (29)
+     5 p1 lh Between (7)
+     6 p1 lh OMOWALE FADAINI (15)
+     ...
+    40 p4 lc Judge of the Upper Tribunal (27)
+    41 p4 lc Immigration and Asylum Chamber (30)
+    42 p4 lc 29 February 2024 (16)
+
+#35 EA100542016.pdf [CASE/UKAITUR/UKAITUR] pp=2 ocr=0 blocks=23 {'line': 14, 'heading': 1, 'paragraph': 8}
+  T='Muhammad Ilyas v The Secretary of State for the Home Department' | D=2018-05-10 (promulgated) Y=2018 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Muhammad Ilyas', 'resp:The Secretary of State for the Hom'] | J=['Upper Tribunal Judge Reeds']
+  O=Remitted (closing paragraphs) [Therefore The FTT decision of the 13th September 2017 should be set aside and that the appeal should be remitt] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Number: EA/10054/2016 (61)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at Field House (on the papers) Decision & Reasons Promulgated On 2nd May 2018 On 10th  (100)
+     4 p1 lh Before (6)
+     5 p1 lh UPPER TRIBUNAL JUDGE REEDS (26)
+     6 p1 lh Between (7)
+     ...
+    20 p2 Pb <6.> No reply has been received to those directions and in the circumstances I am satisfied that  … set out in the grounds. (199)
+    21 p2 Pb <7.> Therefore The FTT decision of the 13th September 2017 should be set aside and that the appea …n on a date to be fixed. (242)
+    22 p2 lc Signed Date: 2/5/2018 Upper Tribunal Judge Reeds (48)
+
+#36 VA225482012.pdf [CASE/UKAITUR/UKAITUR] pp=6 ocr=0 blocks=46 {'line': 15, 'paragraph': 29, 'heading': 2}
+  T='Ms Elizabeth Adeola Odumuyiwa v Entry Clearance Officer Lagos' | D=2013-10-21 (promulgated) Y=2013 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Ms Elizabeth Adeola Odumuyiwa', 'resp:Entry Clearance Officer Lagos'] | J=['Judge Aitken', 'Deputy Chamber President (HESC']
+  O=Appeal allowed - remitted ('decision' section) [There is an error of law within the decision of the First Tier Tribunal I remake the decision and the appeal i] | cw=[]
+     0 p1 lh Upper Tribunal Appeal Number VA.22548.2012 (42)
+     1 p1 lh Immigration and Asylum Chamber (30)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at: North Shields Determination Promulgated On: Monday 21st October 2013 (78)
+     4 p1 lh Before (6)
+     5 p1 lh Judge Aitken (12)
+     6 p1 lh Deputy Chamber President (HESC) (31)
+     ...
+    43 p6 Pb <2.> I remake the decision and the appeal is allowed to this extent: (63)
+    44 p6 Pc The decision is not in accordance with the law and is remitted to the Entry Clearance Office …t of the facts as found. (156)
+    45 p6 lc Judge Aitken Deputy Chamber President (HESC) Wednesday 23rd October 2013 (72)
+
+#37 IA128382013.pdf [CASE/UKAITUR/UKAITUR] pp=1 ocr=0 blocks=18 {'line': 15, 'paragraph': 3}
+  T='Miss Li Sun v Secretary of State for the Home Department' | D=2014-02-06 (promulgated) Y=2014 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Miss Li Sun', 'resp:Secretary of State for the Home De'] | J=['Upper Tribunal Judge Craig']
+  O=None (None) [] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Number: IA/12838/2013 (61)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Promulgated On 6 February 2014 (30)
+     4 p1 lh Before (6)
+     5 p1 lh UPPER TRIBUNAL JUDGE CRAIG (26)
+     6 p1 lh Between (7)
+     ...
+    15 p1 Pb <3.> This notice serves as notification of a withdrawal under Rule 17(subparagraph 2) of the Trib …er Tribunal) Rules 2008. (135)
+    16 p1 lc Signed: Date: 22 January 2014 (29)
+    17 p1 lc Upper Tribunal Judge Craig (26)
+
+#38 IA518252013.pdf [CASE/UKAITUR/UKAITUR] pp=5 ocr=0 blocks=41 {'line': 15, 'paragraph': 18, 'heading': 2, 'list_item': 6}
+  T='The Secretary of State for the Home Department v Stanley Atueyi' | D=2014-07-31 (promulgated) Y=2014 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:The Secretary of State for the Hom', 'resp:Stanley Atueyi'] | J=['Upper Tribunal Judge Clive Lan']
+  O=None (None) [] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Number: IA/51825/2013 (61)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at Bradford Determination Promulgated On 2 July 2014 On 31st July 2014 (76)
+     4 p1 lh Before (6)
+     5 p1 lh UPPER TRIBUNAL JUDGE CLIVE LANE (31)
+     6 p1 lh Between (7)
+     ...
+    38 p5 Pb The determination of the First-tier Tribunal is set aside. I have remade the decision. The a …ember 2013 is dismissed. (168)
+    39 p5 lc Signed Date 25 July 2014 (24)
+    40 p5 lc Upper Tribunal Judge Clive Lane (31)
+
+#39 UI2023003570.pdf [CASE/UKAITUR/UKAITUR] pp=7 ocr=0 blocks=87 {'line': 25, 'paragraph': 42, 'heading': 14, 'list_item': 6}
+  T='The Secretary of State for the Home Department v FHM' | D=2024-01-11 (cue) Y=2024 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:The Secretary of State for the Hom', 'resp:FHM'] | J=['Upper Tribunal Judge Gleeson', 'Deputy Upper Tribunal Judge O’']
+  O=Appeal dismissed ('notice of decision' section) [For the foregoing reasons, our decision is as follows: The decision of the FTT did not involve the making of a] | cw=[]
+     0 p1 lh IN THE UPPER TRIBUNAL Case No: UI-2023-003570 (45)
+     1 p1 lh IMMIGRATION AND ASYLUM CHAMBER (30)
+     2 p1 lh First-tier Tribunal Nos: PA/52789/2020 (38)
+     3 p1 lh THE IMMIGRATION ACTS (20)
+     4 p1 lh Decision & Reasons Issued: (26)
+     5 p1 lh 11th January 2024 (17)
+     6 p1 lh Before (6)
+     ...
+    84 p7 lc Rory O'Ryan (11)
+    85 p7 lc Deputy Judge of the Upper Tribunal Immigration and Asylum Chamber (65)
+    86 p7 lc Date: 3 January 2024 (20)
+
+#40 AA028882013.pdf [CASE/UKAITUR/UKAITUR] pp=6 ocr=0 blocks=66 {'line': 17, 'heading': 3, 'paragraph': 34, 'list_item': 12}
+  T='Loyd Ncube v The Secretary of State for the Home Department' | D=2014-01-21 (tail) Y=2014 | C=Upper Tribunal (Immigration and Asylum Chamber)
+  P2=['appe:Loyd Ncube', 'resp:The Secretary of State for the Hom'] | J=['The Hon. Mr Justice McCloskey,']
+  O=Decision set aside - remitted ('decision' section) [I decide as follows: The decision of the FtT is hereby set aside.] | cw=[]
+     0 p1 lh Upper Tribunal (14)
+     1 p1 lh (Immigration and Asylum Chamber) Appeal Numbers: AA/02888/2013 (62)
+     2 p1 lh THE IMMIGRATION ACTS (20)
+     3 p1 lh Heard at Laganside Courts Centre, Belfast Determination Sent On 13 January 2014 On 24 Januar (98)
+     4 p1 lh Before (6)
+     5 p1 lh The Hon. Mr Justice McCloskey, President (40)
+     6 p1 lh Between (7)
+     ...
+    63 p6 Lb <(b)> Having considered the parties submissions on this discrete issue, on which they were ad idem …making a fresh decision. (187)
+    64 p6 lc THE HON. MR JUSTICE MCCLOSKEY PRESIDENT OF THE UPPER TRIBUNAL IMMIGRATION AND ASYLUM CHAMBER (92)
+    65 p6 lc Dated: 21 January 2014 (22)
+
+#41 TC06689.pdf [CASE/UKFTT/TC/UKFTT/TC] pp=20 ocr=0 blocks=153 {'line': 22, 'heading': 22, 'paragraph': 102, 'list_item': 7}
+  T='John Patrick Walsh v The Commissioners for HM Revenue & Customs' | D=2018-05-03 (re-selected) Y=2018 | C=First-tier Tribunal (Tax Chamber)
+  P2=['appe:John Patrick Walsh', 'resp:The Commissioners for HM Revenue &'] | J=['Judge Victoria Nicholl']
+  O=None (None) [] | cw=[]
+     0 p1 lh [2018] UKFTT 519 (TC) (21)
+     1 p1 lh TC06689 (7)
+     2 p1 lh Appeal number: TC/2017/01869 (28)
+     3 p1 lh INCOME TAX AND VAT – application for permission to make late appeals – whether good explanat (110)
+     4 p1 lh - (1)
+     5 p1 lh FIRST-TIER TRIBUNAL (19)
+     6 p1 lh TAX CHAMBER (11)
+     ...
+   150 p20 lc 12 December 2013 – 6 month late filing: £300 (44)
+   151 p20 lc 3 April 2014 – 12 month late filing: £300 (41)
+   152 p20 Pc 20 February 2014 – 30 days’ late payment penalty: (£183 being 5% of £3,672) 17 July 2014 – 6 …£183 being 5% of £3,672) (147)
+
+#42 TC07032.pdf [CASE/UKFTT/TC/UKFTT/TC] pp=19 ocr=0 blocks=190 {'line': 15, 'paragraph': 92, 'heading': 4, 'list_item': 79}
+  T='Harcharan Kaura v The Commissioners for HM Revenue & Customs' | D=2019-03-08 (tail) Y=2019 | C=First-tier Tribunal (Tax Chamber)
+  P2=['appe:Harcharan Kaura', 'resp:The Commissioners for HM Revenue &'] | J=['Judge Tony Beare']
+  O=Appeal dismissed (rubric) [agreement — accordingly, application to strike out the appeal dismissed — whether permission to give late noti] | cw=['agreement', 'accordingly, application to strike out the appeal dismissed', 'whether permission to give late notice of appeal to the First-tier Tribunal is required']
+     0 p1 lh [2019] UKFTT 182 (TC) (21)
+     1 p1 lh TC07032 (7)
+     2 p1 lh Appeal number: TC/2018/04510 (28)
+     3 p1 Ph CAPITAL GAINS TAX – whether assessments have been determined by agreement – no – accordingly … it have been given – no (305)
+     4 p1 lh FIRST-TIER TRIBUNAL (19)
+     5 p1 lh TAX CHAMBER (11)
+     6 p1 lh HARCHARAN KAURA Appellant (25)
+     ...
+   187 p19 lc TONY BEARE (10)
+   188 p19 lc TRIBUNAL JUDGE (14)
+   189 p19 lc RELEASE DATE 08 MARCH 2019 (26)
+
+#43 TC08873.pdf [CASE/UKFTT/TC/UKFTT/TC] pp=11 ocr=0 blocks=125 {'line': 16, 'paragraph': 61, 'heading': 15, 'table': 1, 'list_item': 32}
+  T='Darren Mynett v The Commissioners for HM Revenue & Customs' | D=2023-07-24 (cue) Y=2023 | C=First-tier Tribunal (Tax Chamber)
+  P2=['appe:Darren Mynett', 'resp:The Commissioners for HM Revenue &'] | J=['Tribunal Judge Jennifer Lee', 'Tribunal Member Rebecca Newns']
+  O=None (None) [] | cw=['VAT by the due date', 'service of surcharge notices', 'reasonable excuse']
+     0 p1 lh Neutral Citation: [2023] UKFTT 00652 (TC) Case Number: TC08873 (62)
+     1 p1 lh FIRST-TIER TRIBUNAL (19)
+     2 p1 lh TAX CHAMBER (11)
+     3 p1 lh By remote video hearing (23)
+     4 p1 lh Appeal reference: TC/2022/11390 (31)
+     5 p1 Ph VALUE ADDED TAX – VAT default surcharge for failure to submit VAT return and/or pay VAT by t …ded Tax Regulations 1995 (238)
+     6 p1 lh Heard on: 13 March 2022 Judgment date: 24 July 2023 (51)
+     ...
+   122 p11 Pb <6.> Section 71 VATA 1994 specifies two situations that are not capable of constituting a reasona (111)
+   123 p11 Lb <(a)> An insufficiency of funds to pay is not a reasonable excuse; and (64)
+   124 p11 Lb <(b)> Where reliance is placed on any other person to perform any task, neither the fact of that r … is a reasonable excuse. (196)
+
+#44 TC06643.pdf [CASE/UKFTT/TC/UKFTT/TC] pp=12 ocr=0 blocks=106 {'line': 13, 'paragraph': 56, 'heading': 4, 'table': 8, 'list_item': 25}
+  T='Julie Wickenden v The Commissioners for HM Revenue & Customs' | D=2018-07-19 (tail) Y=2018 | C=First-tier Tribunal (Tax Chamber)
+  P2=['appe:Julie Wickenden', 'resp:The Commissioners for HM Revenue &'] | J=['Judge Tony Beare']
+  O=None (None) [] | cw=['amount to a reasonable excuse', 'appeal upheld']
+     0 p1 lh [2018] UKFTT 465 (TC) (21)
+     1 p1 lh TC06643 (7)
+     2 p1 lh Appeal number: TC/2018/01340 (28)
+     3 p1 Ph NON-RESIDENT CAPITAL GAINS TAX – penalties for failing to file a return on time – whether ig …se – yes – appeal upheld (194)
+     4 p1 lh FIRST-TIER TRIBUNAL (19)
+     5 p1 lh TAX CHAMBER (11)
+     6 p1 lh JULIE WICKENDEN Appellant (25)
+     ...
+   103 p12 lc TONY BEARE (10)
+   104 p12 lc TRIBUNAL JUDGE (14)
+   105 p12 lc RELEASE DATE: 19 July 2018 (26)
+
+#45 TC07178.pdf [CASE/UKFTT/TC/UKFTT/TC] pp=5 ocr=0 blocks=65 {'line': 13, 'paragraph': 41, 'heading': 11}
+  T='John Patrick Walsh v The Commissioners for HM Revenue & Customs' | D=2019-05-31 (tail) Y=2019 | C=First-tier Tribunal (Tax Chamber)
+  P2=['appe:John Patrick Walsh', 'resp:The Commissioners for HM Revenue &'] | J=['Judge Barbara Mosedale']
+  O=None (None) [] | cw=['COSTS', 'complex case', 'whether HMRC substantial victors']
+     0 p1 lh [2019] UKFTT 350 (TC) (21)
+     1 p1 lh TC07178 (7)
+     2 p1 Ph COSTS – complex case – whether HMRC substantial victors – whether HMRC entitled to costs of  …cer – yes- costs awarded (162)
+     3 p1 lh FIRST-TIER TRIBUNAL Appeal number: TC/2017/1869 TAX CHAMBER (59)
+     4 p1 lh BETWEEN (7)
+     5 p1 lh JOHN PATRICK WALSH Appellant (28)
+     6 p1 lh -and- (5)
+     ...
+    62 p5 lc BARBARA MOSEDALE (16)
+    63 p5 lc TRIBUNAL JUDGE (14)
+    64 p5 lc RELEASE DATE: 31 MAY 2019 (25)
+
+#46 RP_CHI_00HN_LIS_2014_0055.pdf [CASE/UKFTT/PC/property] pp=8 ocr=0 blocks=95 {'line': 17, 'paragraph': 55, 'heading': 9, 'list_item': 14}
+  T='Mr Anthony Tilley (the Tenant) v Mr S Leddy & Miss H Dodds (the Present Landlords)' | D=2015-06-01 (cue) Y=2015 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['appl:Mr Anthony Tilley (the Tenant)', 'resp:Mr S Leddy & Miss H Dodds (the Pre'] | J=['Judge P.J. Barber']
+  O=None (None) [] | cw=[]
+     0 p1 lh /6 9W (5)
+     1 p1 lh FIRST-TIER TRIBUNAL (19)
+     2 p1 lh PROPERTY CHAMBER (16)
+     3 p1 lh (RESIDENTIAL PROPERTY) (22)
+     4 p1 lh Case Reference : CHT/OOHN/LIS/2014/0055 (39)
+     5 p1 lh Property : 2 Queens Park South Drive, Bournemouth, Dorset. BH8 9BL (66)
+     6 p1 lh Applicant : Mr Anthony Tilley (the Tenant) (42)
+     ...
+    92 p8 Pb <2.> The application must arrive at the Tribunal within 28 days after the Tribunal sends to the p …easons for the decision. (154)
+    93 p8 Pb <3.> If the person wishing to appeal does not comply with the 28-day time limit, the person shall …on to appeal to proceed. (364)
+    94 p8 Pb <4.> The application for permission to appeal must identify the decision of the Tribunal to which … application is seeking. (199)
+
+#47 RP_CHI_19UJ_LBC_2014_0021.pdf [CASE/UKFTT/PC/property] pp=4 ocr=0 blocks=36 {'line': 9, 'heading': 7, 'list_item': 1, 'paragraph': 19}
+  T='[2015] UKFTT RP_CHI_19UJ_LBC_2014_0021' | D=2015-03-04 (cue) Y=2015 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P0=[] | J=['Judge P.J. Barber']
+  O=None (None) [] | cw=[]
+     0 p1 lh FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) (59)
+     1 p1 lh Case Reference : CHI/19UJ/LBC/2014/0021 (39)
+     2 p1 lh Property : 2 Regency Sands, 118 The Esplanade, Weymouth, Dorset. DT4 7EH (72)
+     3 p1 lh Applicant : Esplanade Management No. 1 Limited Representative : Mr W R Tanner (77)
+     4 p1 lh Respondent : Mr N H Sharp (25)
+     5 p1 lh Representative : Brown & Vautier Solicitors (43)
+     6 p1 lh Type of Breach of Covenant — Section 168 Commonhold Applications: and Leasehold Reform Act 2 (117)
+     ...
+    33 p4 Pb <2.> The application must arrive at the Tribunal within 28 days after the Tribunal sends to the p …easons for the decision. (154)
+    34 p4 Pb <3.> If the person wishing to appeal does not comply with the 28-day time limit, the person shall …on to appeal to proceed. (364)
+    35 p4 Pb <4.> The application for permission to appeal must identify the decision of the Tribunal to which … application is seeking. (199)
+
+#48 CHI_40UD_LIS_2018_0053.pdf [CASE/UKFTT/PC/property] pp=8 ocr=0 blocks=87 {'line': 11, 'paragraph': 51, 'heading': 10, 'list_item': 15}
+  T='Charlotte C Clark v Franklin James Ingram' | D=2019-04-08 (signature bloc) Y=2019 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['resp:Franklin James Ingram', 'appl:Charlotte C Clark'] | J=['Judge Professor David Clarke']
+  O=None (None) [] | cw=[]
+     0 p1 lh FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) (59)
+     1 p1 lh Case Reference : CHI/40UD/LIS/2018/0053 (39)
+     2 p1 lh Property : 1B North Street, Martock, Somerset TA12 6DH (54)
+     3 p1 lh Applicant : Charlotte C Clark (29)
+     4 p1 lh Applicant’s Lawyers : Solicitors: Amicus Law (SW) LLP Counsel: Philip Smith (75)
+     5 p1 lh Respondent : Franklin James Ingram (34)
+     6 p1 Ph Type of Application : Determination of liability to pay and : reasonableness of service char …lord and Tenant Act 1985 (149)
+     ...
+    84 p8 Pb <34.> The application for permission to appeal must identify the decision of the Tribunal to which …on to appeal is seeking. (236)
+    85 p8 lc Judge Professor David Clarke (28)
+    86 p8 lc 8 April 2019 (12)
+
+#49 CHI_00HB_LDC_2021_0011.pdf [CASE/UKFTT/PC/property] pp=5 ocr=0 blocks=54 {'line': 10, 'paragraph': 29, 'heading': 6, 'list_item': 9}
+  T='Redcliff Backs Management Company Limited' | D=2021-03-09 (signature bloc) Y=2021 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P1=['appl:Redcliff Backs Management Company '] | J=['D Banfield FRICS']
+  O=None (None) [] | cw=[]
+     0 p1 lh FIRST-TIER TRIBUNAL (19)
+     1 p1 lh PROPERTY CHAMBER (16)
+     2 p1 lh (RESIDENTIAL PROPERTY) (22)
+     3 p1 lh Case Reference : CHI/00HB/LDC/2021/0011 (39)
+     4 p1 lh Property : Custom House, Redcliff Backs, Bristol BS1 6NE (56)
+     5 p1 lh Applicant : Redcliff Backs Management Company Limited (53)
+     6 p1 lh Representative : Andrews Leasehold Management (45)
+     ...
+    51 p5 Pb <2.> The application must arrive at the Tribunal within 28 days after the Tribunal sends to the p …easons for the decision. (154)
+    52 p5 Pb <3.> If the person wishing to appeal does not comply with the 28-day time limit, the person shall …on to appeal to proceed. (364)
+    53 p5 Pb <4.> The application for permission to appeal must identify the decision of the Tribunal to which … application is seeking. (199)
+
+#50 CHI_00MS_LDC_2007_0014.pdf [CASE/EWLVT/property] pp=5 ocr=0 blocks=45 {'line': 20, 'paragraph': 24, 'heading': 1}
+  T='Ashcorn Estates Limited v The Solent Property Management Co. Ltd & Ors' | D=2007-05-04 (signature bloc) Y=2007 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P12=['appl:Ashcorn Estates Limited', 'resp:The Solent Property Management Co.', 'resp:Mr T D Roden', 'resp:Miss R A Fox', 'resp:Mr I Rummey'] | J=['Mr R P Long']
+  O=None (None) [] | cw=[]
+     0 p1 lh SOUTHERN RENT ASSESSMENT PANEL (30)
+     1 p1 lh LEASEHOLD VALUATION TRIBUNAL (28)
+     2 p1 lh In the matter of section 20 and section 20ZA of the Landlord & Tenant Act 1985 (as amended)  (103)
+     3 p1 lh Case Number: CHI/OOMS/LDC/2007/0014 (35)
+     4 p1 lh Re: 104-106 and 209-212 Latimer Street, and 101-103 and 207 and 208 Queens Terrace Southampt (94)
+     5 p1 lh Between: (8)
+     6 p1 lh Ashcorn Estates Limited Applicant (33)
+     ...
+    42 p5 lc 6Libut (6)
+    43 p5 lc Robert Lo Chairman (18)
+    44 p5 lc 4th May 2007 (12)
+
+#51 LON_00BH_OC9_2015_0331.pdf [CASE/EWLVT/property] pp=5 ocr=0 blocks=51 {'line': 11, 'paragraph': 25, 'heading': 7, 'list_item': 8}
+  T='[2015] EWLVT LON_LV_HEL_00BH_0331' | D=2015-10-30 (cue) Y=2015 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P0=[] | J=['P M J Casey MRICS']
+  O=None (None) [] | cw=[]
+     0 p1 lh FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) (59)
+     1 p1 lh Case Reference LON/0011H/OC9/2015/0331 (38)
+     2 p1 lh 2 Mornington Road Property London Eli 3BE (41)
+     3 p1 lh Applicant Landway Limited (25)
+     4 p1 lh Representative • Cavendish Legal Group (38)
+     5 p1 lh Michael Arthur Tiplady, Amanda Respondent Sophia Tiplady and Michelle Yvonne Pitt (81)
+     6 p1 lh Representative Kennard Wells (28)
+     ...
+    48 p5 Pb <12.> Despite the very clear directions however no copy of any invoice from Cavendish Legal to the …rred this is disallowed. (1268)
+    49 p5 Pb <13.> So far as the valuer's fee is concerned the sum claimed, £950 plus VAT, is regarded as reaso … the fu ther S13 notice. (370)
+    50 p5 lc Name: Patrick M J Casey Date: 30 October 2015 (45)
+
+#52 LON_00BE_LSC_2005_0248.pdf [CASE/EWLVT/property] pp=7 ocr=0 blocks=62 {'line': 22, 'heading': 5, 'paragraph': 25, 'marginal_note': 7, 'list_item': 3}
+  T='Mr I Jimenez (Tenant) v London Borough of Southwark (Landlord)' | D=2005-08-26 (date-line) Y=2006 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['resp:London Borough of Southwark (Landl', 'appl:Mr I Jimenez (Tenant)'] | J=['Mr A J Andrew LLB']
+  O=None (None) [] | cw=[]
+     0 p1 lh Residential (11)
+     1 p1 lh Property (8)
+     2 p1 lh TRIBUNAL SERVICE (16)
+     3 p1 lh DECISION OF THE LEASEHOLD VALUATION TRIBUNAL ON AN APPLICATION UNDER SECTION 27A OF THE LAND (116)
+     4 p1 lh Reference number: LON/00BE/LSC/2005/0248 (40)
+     5 p1 lh Property: 2 Glebe House, Slippers Place, London SE16 2EP (56)
+     6 p1 lh Applicant: Mr I Jimenez (Tenant) (32)
+     ...
+    59 p7 lc Dated: 26 Fe ry 2006 (20)
+    60 p7 lc VB/SC/04/03 (11)
+    61 p7 Mb Chair (5)
+
+#53 RP_CAM_26UK_OC9_2016_0008.pdf [CASE/UKFTT/PC/property] pp=7 ocr=0 blocks=69 {'line': 12, 'paragraph': 27, 'heading': 11, 'list_item': 19}
+  T='Freehold Properties 23 Ltd v Derek Sheena' | D=2016-10-13 (signature bloc) Y=2016 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['appl:Freehold Properties 23 Ltd', 'resp:Derek Sheena'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh First-tier Tribunal (19)
+     1 p1 lh Property Chamber (16)
+     2 p1 lh (Residential Property) (22)
+     3 p1 lh Case reference CAM/26UK/OC9/2016/0008 (37)
+     4 p1 lh Property Flats 1-10 Woolwych Court, Queens Road, (48)
+     5 p1 lh Watford, (8)
+     6 p1 lh WD17 2PQ (8)
+     ...
+    66 p7 Lb <ii.> The application for permission to appeal must arrive at the Regional office within 28 days a … making the application. (186)
+    67 p7 Lb <iii.> If the application is not made within the 28 day time limit, such application must include a …g within the time limit. (353)
+    68 p7 Lb <iv.> The application for permission to appeal must identify the decision of the Tribunal to which … application is seeking. (254)
+
+#54 LRA_49_2008.pdf [CASE/UKUT/LC/appellate-trib] pp=14 ocr=0 blocks=136 {'line': 19, 'paragraph': 84, 'list_item': 15, 'heading': 17, 'table': 1}
+  T='Dependable Homes Limited v David John William Mann & Anor' | D=2009-06-24 (date-line) Y=2009 | C=Upper Tribunal (Lands Chamber)
+  P3=['appe:Dependable Homes Limited', 'resp:David John William Mann', 'resp:Margaret Ann Mann'] | J=['A J Trott FRICS']
+  O=Appeal allowed (rubric) [LEASEHOLD ENFRANCHISEMENT — flat — lease extension — premium — comparables — adjustments — relativity — graph ] | cw=['LEASEHOLD ENFRANCHISEMENT', 'flat', 'lease extension']
+     0 p1 lh UPPER TRIBUNAL (LANDS CHAMBER) (30)
+     1 p1 lh UT Neutral citation number: [2009] UKUT 171 (LC) LT Case Number: LRA/49/2008 (76)
+     2 p1 lh TRIBUNALS, COURTS AND ENFORCEMENT ACT 2007 (42)
+     3 p1 Ph LEASEHOLD ENFRANCHISEMENT – flat – lease extension – premium – comparables – adjustments – r …ction 48 and Schedule 13 (275)
+     4 p1 lh IN THE MATTER OF AN APPEAL FROM A DECISION OF THE LEASEHOLD VALUATION TRIBUNAL FOR THE SOUTH (117)
+     5 p1 lh BETWEEN DEPENDABLE HOMES LIMITED Appellant (42)
+     6 p1 lh and (3)
+     ...
+   133 p14 Pb <3.> Compensation under Schedule 13 para 2(c) NIL (44)
+   134 p14 Pb Premium payable £19,047 (23)
+   135 p14 Pb Say £19,000 (11)
+
+#55 2016_0195.pdf [CASE/UKFTT/GRC/appellate-trib] pp=4 ocr=0 blocks=37 {'line': 18, 'heading': 1, 'paragraph': 18}
+  T='Brian Edmonds v The Information Commissioner' | D=2016-12-20 (tail) Y=2016 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['appe:Brian Edmonds', 'resp:The Information Commissioner'] | J=['Chris Hughes', 'Henry Fitzhugh', 'Narendra Makanji']
+  O=None (None) [] | cw=[]
+     0 p1 lh First-tier Tribunal (19)
+     1 p1 lh (General Regulatory Chamber) (28)
+     2 p1 lh Information Rights (18)
+     3 p1 lh Appeal Reference: EA/2016/0195 (30)
+     4 p1 lh Consideration of the papers at the Residential Property Tribunal Alfred Place WC1 On 15 Dece (101)
+     5 p1 lh Before (6)
+     6 p1 lh CHRIS HUGHES (12)
+     ...
+    34 p4 Pb <13.> This decision is unanimous. (27)
+    35 p4 lc Signed Christopher Hughes (25)
+    36 p4 lc Judge of the First-tier Tribunal Date: 20 December 2016 (55)
+
+#56 0274_18_2105.pdf [CASE/UKEAT/appellate-trib] pp=54 ocr=0 blocks=499 {'line': 18, 'heading': 59, 'paragraph': 375, 'list_item': 33, 'footnote': 14}
+  T='Mr C Aston v The Martlet Group Limited' | D=2019-05-21 (cue) Y=2019 | C=Employment Appeal Tribunal
+  P2=['appe:Mr C Aston', 'resp:The Martlet Group Limited'] | J=['His Honour Judge Auerbach']
+  O=None (None) [] | cw=[]
+     0 p1 lh Appeal No. UKEAT/0274/18/BA (27)
+     1 p1 lh EMPLOYMENT APPEAL TRIBUNAL (26)
+     2 p1 lh FLEETBANK HOUSE, 2-6 SALISBURY SQUARE, LONDON EC4Y 8AE (54)
+     3 p1 lh At the Tribunal On 7 & 8 March 2019 Judgment handed down on 21 May 2019 (71)
+     4 p1 lh Before (6)
+     5 p1 lh HIS HONOUR JUDGE AUERBACH (25)
+     6 p1 lh (SITTING ALONE) (15)
+     ...
+   496 p54 lc F (1)
+   497 p54 lc G (1)
+   498 p54 lc H (1)
+
+#57 2013_0127.pdf [CASE/UKFTT/GRC/appellate-trib] pp=19 ocr=0 blocks=189 {'line': 25, 'paragraph': 124, 'heading': 4, 'list_item': 33, 'marginal_note': 1, 'table': 2}
+  T='Jonathan Brain v Ministry of Justice' | D=2014-09-15 (cue) Y=2014 | C=First-tier Tribunal (General Regulatory Chamber)
+  P2=['appe:Jonathan Brain', 'resp:Ministry of Justice'] | J=['Andrew Bartlett QC (Judge)', 'Rosalind Tatam', 'Melanie Howard']
+  O=Appeal allowed ('conclusions' section) [We conclude for the reasons set out above and supplemented in the Confidential Annex that the appeal should be] | cw=['Freedom of Information Act 2000', 'Qualified exemption']
+     0 p1 lh IN THE FIRST-TIER TRIBUNAL Case No. EA/2013/0127 GENERAL REGULATORY CHAMBER (75)
+     1 p1 lh INFORMATION RIGHTS (18)
+     2 p1 lh ON APPEAL FROM: (15)
+     3 p1 lh The Information Commissioner’s Decision Notice No: FS50477229, dated 3 June 2013 (80)
+     4 p1 lh Appellant: JONATHAN BRAIN (25)
+     5 p1 lh First Respondent: INFORMATION COMMISSIONER (42)
+     6 p1 lh Second Respondent: MINISTRY OF JUSTICE (38)
+     ...
+   186 p19 lc Signed on original: (19)
+   187 p19 lc /s/ Andrew Bartlett QC (22)
+   188 p19 lc Judge of the Tribunal (21)
+
+#58 2021_0302.pdf [CASE/UKFTT/GRC/appellate-trib] pp=14 ocr=0 blocks=140 {'line': 18, 'list_item': 23, 'heading': 17, 'paragraph': 82}
+  T='Amit Matalia v The Information Commissioner & Anor' | D=2022-07-22 (tail) Y=2022 | C=First-tier Tribunal (General Regulatory Chamber)
+  P3=['appe:Amit Matalia', 'resp:The Information Commissioner', 'resp:The University of Cambridge (s)'] | J=['Tribunal Judge Cl Goodman', 'Tribunal Member Suzanne Cosgra', 'Tribunal Member Kate Grimley E']
+  O=Appeal dismissed ('decision:' section) [The appeal is dismissed.] | cw=[]
+     0 p1 lh Case Reference: EA/2021/0302 (28)
+     1 p1 lh First-tier Tribunal (19)
+     2 p1 lh General Regulatory Chamber (26)
+     3 p1 lh Information Rights (18)
+     4 p1 lh Heard by video (14)
+     5 p1 lh Heard on: 7 June 2022 Decision given on: 27 July 2022 (53)
+     6 p1 lh Before (6)
+     ...
+   137 p14 Pb and thus, as per Dransfield, an inappropriate and improper use of a formal procedure. (85)
+   138 p14 Pb <60.> The appeal is dismissed. (24)
+   139 p14 lc Signed: Judge CL Goodman Date: 22 July 2022 (43)
+
+#59 176376.pdf [CASE/UKICO/UKICO] pp=8 ocr=0 blocks=86 {'line': 16, 'heading': 11, 'paragraph': 53, 'list_item': 4, 'footnote': 2}
+  T='ICO decision notice IC-176376-H8D7: Ministry of Justice' | D=2023-01-24 (date-line) Y=2023 | C=Information Commissioner's Office
+  P1=['publ:Ministry of Justice'] | J=[]
+  O=Complaint not upheld - no steps required (decision section) [The Commissioner’s decision is that the MOJ was entitled to seek a correct objective reading and interpretatio] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 24 January 2023 (21)
+     3 p1 lh Public Authority: Ministry of Justice (37)
+     4 p1 lh Address: 102 Petty France (25)
+     5 p1 lh London (6)
+     6 p1 lh SW1H 9AJ (8)
+     ...
+    83 p8 lc Wilmslow (8)
+    84 p8 lc Cheshire (8)
+    85 p8 lc SK9 5AF (7)
+
+#60 288006.pdf [CASE/UKICO/UKICO] pp=13 ocr=0 blocks=131 {'line': 15, 'heading': 16, 'paragraph': 83, 'list_item': 14, 'footnote': 3}
+  T='ICO decision notice IC-288006-Q3V4: Cabinet Office' | D=2024-07-18 (date-line) Y=2024 | C=Information Commissioner's Office
+  P1=['publ:Cabinet Office'] | J=[]
+  O=Steps required (decision section) [The Commissioner requires the Cabinet Office to take the following steps to ensure compliance with the legisla] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 18 July 2024 (18)
+     3 p1 lh Public Authority: Cabinet Office (32)
+     4 p1 lh Address: 70 Whitehall (21)
+     5 p1 lh London (6)
+     6 p1 lh SW1A 2AS (8)
+     ...
+   128 p13 lc Wilmslow (8)
+   129 p13 lc Cheshire (8)
+   130 p13 lc SK9 5AF (7)
+
+#61 FER0282488.pdf [CASE/UKICO/UKICO] pp=32 ocr=0 blocks=281 {'line': 5, 'heading': 48, 'paragraph': 163, 'list_item': 65}
+  T='ICO decision notice FER0282488: The Governing Body of the University of East Anglia' | D=2011-06-23 (date-label) Y=2011 | C=Information Commissioner's Office
+  P1=['publ:The Governing Body of the Universi'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (Section 50) Environmental Information Regulations 2004 (87)
+     1 p1 lh Decision Notice (15)
+     2 p1 lh Date: 23 June 2011 (18)
+     3 p1 lh Public Authority: The Governing Body of the University of East Anglia Address: Norwich (86)
+     4 p1 lh NR4 7TJ (7)
+     5 p1 Hb Summary (7)
+     6 p1 Pb The complainant requested a copy of any digital version of a weather station dataset sent fr …certain specified dates. (219)
+     ...
+   278 p31 Pb For the purpose of paragraphs (5)(b), (d) and (f), references to a public authority shall in …ottish public authority. (140)
+   279 p32 Hb Regulation 12(11) (17)
+   280 p32 Pb Nothing in these Regulations shall authorise a refusal to make available any environmental i …ilable that information. (341)
+
+#62 FS50544998.pdf [CASE/UKICO/UKICO] pp=8 ocr=0 blocks=73 {'line': 15, 'heading': 8, 'paragraph': 50}
+  T='ICO decision notice FS50544998: Financial Ombudsman Service' | D=2014-09-15 (date-line) Y=2014 | C=Information Commissioner's Office
+  P1=['publ:Financial Ombudsman Service'] | J=[]
+  O=Complaint not upheld - steps required (decision section) [The Commissioner’s decision is that the FOS was entitled to rely on section 12 to refuse the request.] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 15 September 2014 (23)
+     3 p1 lh Public Authority: Financial Ombudsman Service Address: Exchange Tower (69)
+     4 p1 lh London (6)
+     5 p1 lh E14 9SR (7)
+     6 p1 Hb Decision (including any steps ordered) (38)
+     ...
+    70 p8 lc Wilmslow (8)
+    71 p8 lc Cheshire (8)
+    72 p8 lc SK9 5AF (7)
+
+#63 208493.pdf [CASE/UKICO/UKICO] pp=10 ocr=0 blocks=93 {'line': 17, 'heading': 10, 'paragraph': 61, 'list_item': 5}
+  T='ICO decision notice IC-208493-G7K1: London Borough of Lewisham Council' | D=2023-07-03 (date-line) Y=2023 | C=Information Commissioner's Office
+  P1=['publ:London Borough of Lewisham Council'] | J=[]
+  O=Complaint partly upheld - steps required (decision section) [The Commissioner’s decision is that: the Council is entitled to rely on regulation 12(5)(e) of the EIR to with] | cw=[]
+     0 p1 lh Environmental Information Regulations 2004 (EIR) (48)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 3 July 2023 (17)
+     3 p1 lh Public Authority: London Borough of Lewisham Council Address: Town Hall Chambers (80)
+     4 p1 lh Rushey Green (12)
+     5 p1 lh Catford (7)
+     6 p1 lh London (6)
+     ...
+    90 p10 lc Wilmslow (8)
+    91 p10 lc Cheshire (8)
+    92 p10 lc SK9 5AF (7)
+
+#64 FS50460634.pdf [CASE/UKICO/UKICO] pp=7 ocr=0 blocks=73 {'line': 17, 'heading': 9, 'paragraph': 45, 'list_item': 2}
+  T='ICO decision notice FS50460634: Department for Transport' | D=2012-11-28 (date-line) Y=2012 | C=Information Commissioner's Office
+  P1=['publ:Department for Transport'] | J=[]
+  O=Complaint upheld - steps required (decision section) [The Commissioner’s decision is that the DfT cited the exemption provided by section 40(2) incorrectly and that] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 28 November 2012 (22)
+     3 p1 lh Public Authority: Department for Transport (42)
+     4 p1 lh Address: Great Minster House (28)
+     5 p1 lh 33 Horseferry Road (18)
+     6 p1 lh London (6)
+     ...
+    70 p7 lc Wilmslow (8)
+    71 p7 lc Cheshire (8)
+    72 p7 lc SK9 5AF (7)
+
+#65 FS50456199.pdf [CASE/UKICO/UKICO] pp=5 ocr=0 blocks=64 {'line': 17, 'paragraph': 30, 'heading': 10, 'marginal_note': 1, 'list_item': 6}
+  T='ICO decision notice FS50456199: The Chief Constable of West Yorkshire' | D=2012-08-22 (date-line) Y=2012 | C=Information Commissioner's Office
+  P1=['publ:The Chief Constable of West Yorksh'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 22 August 2012 (20)
+     3 p1 lh Public Authority: The Chief Constable of West Yorkshire Address: Police Headquarters (84)
+     4 p1 lh Laburnum Road (13)
+     5 p1 lh Wakefield (9)
+     6 p1 lh WF1 3QP (7)
+     ...
+    61 p5 lc Wilmslow (8)
+    62 p5 lc Cheshire (8)
+    63 p5 lc SK9 5AF (7)
+
+#66 FS50652544.pdf [CASE/UKICO/UKICO] pp=7 ocr=0 blocks=85 {'line': 16, 'heading': 12, 'paragraph': 57}
+  T='ICO decision notice FS50652544: Home Office' | D=2017-09-18 (date-line) Y=2017 | C=Information Commissioner's Office
+  P1=['publ:Home Office'] | J=[]
+  O=Complaint not upheld - no steps required (decision section) [The Commissioner’s decision is that the Home Office has applied section 12 of FOIA appropriately.] | cw=[]
+     0 p1 lh Freedom of Information Act 2000 (FOIA) (38)
+     1 p1 lh Decision notice (15)
+     2 p1 lh Date: 18 September 2017 (23)
+     3 p1 lh Public Authority: Home Office (29)
+     4 p1 lh Address: 2 Marsham Street (25)
+     5 p1 lh London (6)
+     6 p1 lh SW1P 4DF (8)
+     ...
+    82 p7 lc Wilmslow (8)
+    83 p7 lc Cheshire (8)
+    84 p7 lc SK9 5AF (7)
+
+#67 o10904.pdf [CASE/UKIntelP/UKIntelP] pp=4 ocr=0 blocks=31 {'line': 15, 'paragraph': 15, 'heading': 1}
+  T='Automotive Products UK Limited v LuK Lamellen und Kupplungsbau Beteiligungs KG' | D=2004-04-20 (tail) Y=2004 | C=UK Intellectual Property Office
+  P2=['clai:Automotive Products UK Limited', 'defe:LuK Lamellen und Kupplungsbau Bete'] | J=['G M Rogers']
+  O=None (None) [] | cw=[]
+     0 p1 lh BL O/109/04 (11)
+     1 p1 lh 20th April 2004 (15)
+     2 p1 lh PATENTS ACT 1977 (16)
+     3 p1 lh BETWEEN (7)
+     4 p1 lh Automotive Products UK Limited Claimant (39)
+     5 p1 lh and (3)
+     6 p1 lh LuK Lamellen und Kupplungsbau Beteiligungs Defendant KG (55)
+     ...
+    28 p4 lc Dated this 20th day of April 2004 (33)
+    29 p4 lc G M ROGERS (10)
+    30 p4 lc Deputy Director acting for the Comptroller (42)
+
+#68 o11902.pdf [CASE/UKIntelP/UKIntelP] pp=11 ocr=0 blocks=87 {'line': 16, 'paragraph': 64, 'heading': 6, 'list_item': 1}
+  T='El Torito Restaurants Inc v Centralize Limited' | D=2002-03-14 (tail) Y=2002 | C=UK Intellectual Property Office
+  P2=['part:El Torito Restaurants Inc', 'part:Centralize Limited'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh TRADE MARKS ACT 1994 (20)
+     1 p1 lh IN THE MATTER OF REGISTRATION NO 1312756 IN THE NAME OF EL TORITO RESTAURANTS INC. (82)
+     2 p1 lh AND THE APPLICATION FOR REVOCATION THERETO UNDER NO 10170 (57)
+     3 p1 lh BY CENTRALIZE LIMITED (21)
+     4 p2 lh TRADE MARKS ACT 1994 (20)
+     5 p2 lh In the matter of registration no 1312756 (40)
+     6 p2 lh of the trade mark: (18)
+     ...
+    84 p11 lc D.W.Landau (10)
+    85 p11 lc For the Registrar (17)
+    86 p11 lc the Comptroller-General (23)
+
+#69 o59016.pdf [CASE/UKIntelP/UKIntelP] pp=11 ocr=0 blocks=81 {'line': 7, 'heading': 7, 'paragraph': 57, 'list_item': 10}
+  T='Verofy Limited' | D=2016-05-12 (dated) Y=2016 | C=UK Intellectual Property Office
+  P1=['part:Verofy Limited'] | J=['Ms Al Skilton']
+  O=Appeal dismissed ('conclusion' section) [In the result the appeal fails.] | cw=[]
+     0 p1 lh O-590-16 (8)
+     1 p1 lh TRADE MARKS ACT 1994 (20)
+     2 p1 lh IN THE MATTER OF TRADE MARK APPLICATION NO 3095599 IN THE NAME OF VEROFY LIMITED (80)
+     3 p1 lh AND IN OPPOSITION NO 404634 THERETO BY VFX FINANCIAL PLC (56)
+     4 p1 Hb DECISION (8)
+     5 p1 Hb Introduction (12)
+     6 p1 Pb <1.> This is an appeal against the decision of Ms Al Skilton, acting on behalf of the Registrar,  …he Trade Marks Act 1994. (232)
+     ...
+    78 p11 lc Emma Himsworth Q.C. (19)
+    79 p11 lc Appointed Person (16)
+    80 p11 lc 14 December 2016 (16)
+
+#70 o63022.pdf [CASE/UKIntelP/UKIntelP] pp=21 ocr=0 blocks=132 {'line': 16, 'paragraph': 74, 'table': 2, 'heading': 21, 'list_item': 19}
+  T='Berbix Limited v Brex Inc' | D=None (-) Y=2022 | C=UK Intellectual Property Office
+  P3=['part:Berbix Limited', 'part:Brex Inc', 'part:Berbix Ltd'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh O-630-22 (8)
+     1 p1 lh TRADE MARKS ACT 1994 (20)
+     2 p1 lh IN THE MATTER OF REGISTRATION No. 3437818 (41)
+     3 p1 lh STANDING IN THE NAME OF (23)
+     4 p1 lh BERBIX LIMITED (14)
+     5 p1 lh AND (3)
+     6 p1 lh IN THE MATTER OF A REQUEST FOR A DECLARATION (44)
+     ...
+   129 p21 Pb Provision of an on-line expense management tool for others in the nature of providing tempor …l payment transmissions. (575)
+   130 p21 Hb Class 43 (8)
+   131 p21 Pb Providing information in the field of temporary lodging and accommodations for business trav …, restaurants and meals. (209)
+
+#71 o24016.pdf [CASE/UKIntelP/UKIntelP] pp=13 ocr=0 blocks=135 {'line': 6, 'heading': 14, 'paragraph': 90, 'table': 1, 'list_item': 23, 'footnote': 1}
+  T='Johnny Rockets Licensing Corporation' | D=2016-05-12 (signature bloc) Y=2016 | C=UK Intellectual Property Office
+  P1=['part:Johnny Rockets Licensing Corporati'] | J=['Mr Oliver Morris']
+  O=None (None) [] | cw=[]
+     0 p1 lh O-240-16 (8)
+     1 p1 lh IN THE MATTER OF THE TRADE MARKS ACT 1994 (41)
+     2 p1 lh IN THE MATTER OF TRADE MARK REGISTRATION, NO 1291432, 1354365 & 2389271 IN THE NAME OF JOHNN …TS LICENSING CORPORATION (123)
+     3 p1 lh AND IN THE MATTER OF AN APPEAL FROM THE DECISION OF OLIVER MORRIS DATED 21st OCTOBER 2015 (O (100)
+     4 p1 Hb DECISION (8)
+     5 p1 Hb Introduction (12)
+     6 p1 Pb <1.> This is an appeal from the decision of Mr Oliver Morris, for the Registrar, dated 21st Octob …n of two of those marks: (347)
+     ...
+   132 p13 Pb 53. At the Hearing, the Respondent indicated that if the Appeal is dismissed an application  … on the matter of costs. (438)
+   133 p13 lc PHILLIP JOHNSON THE APPOINTED PERSON 12 May 2016 (48)
+   134 p13 lc For Respondent (Eddie Rockets (Ireland) Limited): Paul Kelly of FR Kelly The Appellant did n (102)
+
+#72 o34903.pdf [CASE/UKIntelP/UKIntelP] pp=26 ocr=0 blocks=155 {'line': 6, 'paragraph': 88, 'heading': 17, 'table': 14, 'list_item': 30}
+  T='Heilongjiang Sheng v Golden Wonder Limited' | D=None (-) Y=2003 | C=UK Intellectual Property Office
+  P2=['part:Heilongjiang Sheng', 'part:Golden Wonder Limited'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh O-349-03 (8)
+     1 p1 lh TRADE MARKS ACT 1994 (20)
+     2 p1 lh IN THE MATTER OF INTERNATIONAL REGISTRATION NO. 768185 IN THE NAME OF HEILONGJIANG SHENG (88)
+     3 p1 lh AND (3)
+     4 p1 lh IN THE MATTER OF AN APPLICATION FOR A DECLARATION OF INVALIDITY (UNDER NO. 16027) BY GOLDEN  (106)
+     5 p2 lh BACKGROUND (10)
+     6 p2 Pb <1.> The details of international registration no. 768185 are as follows: (68)
+     ...
+   152 p25 Pb 25 (2)
+   153 p26 T 2x3  |  | biscuits; pastries; cakes; pastry; ice, ice cream, wat
+   154 p26 Pb 26 (2)
+
+#73 088_2010.pdf [CASE/ScotIC/ScotIC] pp=7 ocr=0 blocks=74 {'line': 8, 'heading': 21, 'paragraph': 31, 'list_item': 6, 'marginal_note': 8}
+  T='CaL Solutions (Billingham) Limited and Scottish Water' | D=2010-06-14 (cue) Y=2010 | C=Scottish Information Commissioner
+  P2=['appl:CaL Solutions (Billingham) Limited', 'publ:Scottish Water'] | J=[]
+  O=No steps required (decision section) [As Scottish Water subsequently provided notice in terms of section 21(9) in response to CaL’s requests for rev] | cw=[]
+     0 p1 lh Decision 088/2010 CaL Solutions (Billingham) Limited and Scottish Water (71)
+     1 p1 lh Failure to respond to requests and requests for review (54)
+     2 p1 lh Reference Nos: 201000845 and 201001059 (38)
+     3 p1 lh Decision Date: 14 June 2010 (27)
+     4 p1 lh Kevin Dunion (12)
+     5 p1 lh Scottish Information Commissioner (33)
+     6 p1 lh Kinburn Castle Doubledykes Road St Andrews KY16 9DS Tel: 01334 464610 (69)
+     ...
+    71 p7 Lb <(a)> the requirement is vexatious; or (32)
+    72 p7 Lb <(b)> the request for information to which the requirement for review relates was one with which,  …s not obliged to comply. (157)
+    73 p7 Lb <(9)> Where the authority considers that paragraph (a) or (b) of subsection (8) applies, it must g …ment, that it so claims. (262)
+
+#74 141_2006.pdf [CASE/ScotIC/ScotIC] pp=6 ocr=0 blocks=61 {'line': 16, 'paragraph': 38, 'heading': 7}
+  T='Ms Sandra Uttley and the' | D=2006-07-27 (cue) Y=2006 | C=Scottish Information Commissioner
+  P2=['appl:Ms Sandra Uttley', 'publ:the'] | J=[]
+  O=No steps required (decision section) [I do not require the Police to take any remedial steps in relation to these breaches.] | cw=[]
+     0 p1 lh Decision 141/2006 – Ms Sandra Uttley and the Chief Constable of Northern Constabulary (85)
+     1 p1 lh All documentation held relating to an ongoing murder investigation (66)
+     2 p1 lh Applicant: Ms Sandra Uttley (27)
+     3 p1 lh Authority: Northern Constabulary Case No: 200600893 (51)
+     4 p1 lh Decision Date: 27 July 2006 (27)
+     5 p1 lh Kevin Dunion Scottish Information Commissioner (46)
+     6 p1 lh Kinburn Castle Doubledykes Road St Andrews Fife KY16 9DS (56)
+     ...
+    58 p6 lc Kevin Dunion (12)
+    59 p6 lc Scottish Information Commissioner (33)
+    60 p6 lc 27 July 2006 (12)
+
+#75 046_2014.pdf [CASE/ScotIC/ScotIC] pp=6 ocr=0 blocks=67 {'line': 8, 'heading': 20, 'paragraph': 30, 'list_item': 4, 'marginal_note': 5}
+  T='Mr L and Stirling Council' | D=2014-02-26 (cue) Y=2014 | C=Scottish Information Commissioner
+  P2=['appl:Mr L', 'publ:Stirling Council'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh Decision 046/2014 Mr L and Stirling Council (43)
+     1 p1 lh Visiting Committee membership (29)
+     2 p1 lh Reference No: 201400264 (23)
+     3 p1 lh Decision Date: 26 February 2014 (31)
+     4 p1 lh Rosemary Agnew (14)
+     5 p1 lh Scottish Information Commissioner (33)
+     6 p1 lh Kinburn Castle Doubledykes Road St Andrews KY16 9DS Tel: 01334 464610 (69)
+     ...
+    64 p6 Mb … (1)
+    65 p6 Mb (1) (3)
+    66 p6 Mb … (1)
+
+#76 D00010398.pdf [CASE/DRS/DRS] pp=8 ocr=0 blocks=79 {'line': 35, 'heading': 7, 'paragraph': 33, 'list_item': 4}
+  T='The Conde Nast Publications Limited & Anor v sheng zhong' | D=2011-10-19 (dated) Y=2011 | C=Nominet Dispute Resolution Service
+  P3=['resp:sheng zhong', 'comp:The Conde Nast Publications Limite', 'comp:Advance Magazine Publishers, Inc'] | J=[]
+  O=Domain name transferred ('decision' section) [The Expert therefore directs that the Domain Name be transferred to the Lead Complainant.] | cw=[]
+     0 p1 lh DISPUTE RESOLUTION SERVICE (26)
+     1 p1 lh D00010398 (9)
+     2 p1 lh Decision of Independent Expert (30)
+     3 p1 lh Advance Magazine Publishers, Inc (32)
+     4 p1 lh and (3)
+     5 p1 lh sheng zhong (11)
+     6 p1 Hh <1.> The Parties: (12)
+     ...
+    76 p8 lc 29 November, 2011 (17)
+    77 p8 lc Signed …………………….. Dated ……...…………… (34)
+    78 p8 lc Andrew D S Lothian (18)
+
+#77 D00014563.pdf [CASE/DRS/DRS] pp=13 ocr=0 blocks=126 {'line': 43, 'heading': 7, 'paragraph': 72, 'list_item': 4}
+  T='The Commissioners for HM Revenue & Customs v Wes & Dave' | D=2014-09-23 (tail) Y=2014 | C=Nominet Dispute Resolution Service
+  P2=['resp:Wes & Dave', 'comp:The Commissioners for HM Revenue &'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh DISPUTE RESOLUTION SERVICE (26)
+     1 p1 lh D00014563 (9)
+     2 p1 lh Decision of Independent Expert (30)
+     3 p1 lh The Commissioners for HM Revenue and Customs (44)
+     4 p1 lh and (3)
+     5 p1 lh Wes & Dave (10)
+     6 p1 Hh <1.> The Parties (11)
+     ...
+   123 p12 Pb The Complainant has established that it has Rights in respect of a name or mark which is ide …rred to the Complainant. (346)
+   124 p13 lc Signed: Steven A. Maier (23)
+   125 p13 lc Dated: 23 September 2014 (24)
+
+#78 1963_3.pdf [CASE/UKPC/UKPC-scan] pp=8 ocr=8 blocks=59 {'line': 12, 'paragraph': 43, 'list_item': 4}
+  T='Dorio Lucio Vincenzini v The Regional Commissioner of Income Tax' | D=1963-01-28 (cue) Y=1963 | C=Judicial Committee of the Privy Council
+  P2=['part:Dorio Lucio Vincenzini', 'part:The Regional Commissioner of Incom'] | J=[]
+  O=Appeal allowed (closing paragraphs) [For the reasons stated, their Lordships will in the present case humbly advise Her Majesty that the appeal sho] | cw=[]
+     0 p1 lh Privy Council Appeal No. 23 of 1961 (35)
+     1 p1 lh Dorio Lucio Vincenzini Appellant (32)
+     2 p1 lh V. (2)
+     3 p1 lh The Regional Commissioner of Income Tax Respondent (50)
+     4 p1 lh FROM (4)
+     5 p1 lh THE COURT OF APPEAL FOR EASTERN AFRICA (38)
+     6 p1 lh JUDGMENT OF THE LORDS OF THE JUDICIAL COMMITTEE OF THE PRIVY COUNCIL, DELIVERED THE 28TH JAN (102)
+     ...
+    56 p6 Pb According to the information given to their Lordships by Mr. Heyworth Talbot as a result of  …rliest practicable date. (859)
+    57 p6 Pb For the reasons stated, their Lordships will in the present case humbly advise Her Majesty t …and in the Courts below. (264)
+    58 p6 Pb (36928) wt. 90 Hw. (18)
+
+#79 1986_18.pdf [CASE/UKPC/UKPC-scan] pp=16 ocr=16 blocks=72 {'line': 13, 'paragraph': 56, 'marginal_note': 1, 'list_item': 2}
+  T='[1986] UKPC 18' | D=1986-03-17 (cue) Y=1986 | C=Judicial Committee of the Privy Council
+  P0=[] | J=[]
+  O=Appeal allowed (closing paragraphs) [Their Lordships will, accordingly, humbly advise Her Majesty that the appeal should be allowed, that the judgm] | cw=[]
+     0 p1 lh Privy Council Appeal No. 25 of 1985 (35)
+     1 p1 lh Industr ia1 Chemical Co. (Ja.) Limi ted Appellants (50)
+     2 p1 lh Respondent (10)
+     3 p1 lh FROM (4)
+     4 p1 lh THE COURT OF APPEAL OF JAMAICA (30)
+     5 p1 lh JUDGMENT OF THE LORDS OF THE JUDICIAL COMMITTEE OF THE PRIVY COUNCIL, DELIVERED THE 17TH MAR (99)
+     6 p1 lh Present at the Hearing: (23)
+     ...
+    69 p14 Pb With respect, their Lordships consider that this was a quite impermissible conclusion and on …s, he was plainly wrong. (929)
+    70 p14 Pb In their Lordships iudgmen t , the learned trial judge's approach, reflected in the passage  … Appeal of his decision. (1641)
+    71 p15 Pb Their Lordships will, accordingly, humbly advise Her Majesty that the appeal should be allow …s' costs here and below. (340)
+
+#80 1909_4.pdf [CASE/UKPC/UKPC-scan] pp=4 ocr=4 blocks=30 {'paragraph': 15, 'line': 10, 'heading': 5}
+  T='[1909] UKPC 4' | D=1909-02-17 (cue) Y=1909 | C=Judicial Committee of the Privy Council
+  P0=[] | J=[]
+  O=Appeal dismissed (closing paragraphs) [Their Lordships will therefore humbly advise His Majesty to dismiss the Appeal.] | cw=[]
+     0 p1 Ph Judgment of the Lords of the Judicial Committee of the Privy Council on the Appeal Of The Gr …the 17th February, 1909. (216)
+     1 p1 lh Present : (9)
+     2 p1 lh THE LORD CHANCELLOR. (20)
+     3 p1 lh LORD MACNAGHTEN. (16)
+     4 p1 lh LORD ATKINSON. (14)
+     5 p1 lh LORD COLLINS. (13)
+     6 p1 lh LORD GORELL. (12)
+     ...
+    27 p4 Pb Their Lordships will therefore humbly advise His Majesty to dismiss the Appeal. The Appellan …e to appeal was granted. (241)
+    28 p4 lc LON DON : Printed for His Majesty's Stationery Offoe, By LOVE & MALCOMSON, LTD., Dane Street (113)
+    29 p4 lc 1909. (5)
+
+#81 1880_21.pdf [CASE/UKPC/UKPC-scan] pp=4 ocr=4 blocks=17 {'paragraph': 10, 'line': 5, 'heading': 2}
+  T='Soondori Chmødhroni und others v Huni' | D=1880-04-14 (cue) Y=1880 | C=Judicial Committee of the Privy Council
+  P2=['part:Soondori Chmødhroni und others', 'part:Huni'] | J=[]
+  O=Appeal dismissed (closing paragraphs) [Under these circumstances, they will humbly advise Her Majesty that the judgment be affirmed, and that this Ap] | cw=[]
+     0 p1 Ph oj the Lord* the Judicial (dommiftee c/ the Privy Council on the Appeal of Bitnola Soondori  …ngu,t; April 14th, 1880, (213)
+     1 p1 lh Present (7)
+     2 p1 lh JANIS W. COLVILLE. (18)
+     3 p1 lh BARSP.S (7)
+     4 p1 lh SIR MONTAGUE E, (15)
+     5 p1 lh SIR P; COLLIER. (15)
+     6 p1 Pb T S this ease Mr. Cowie, With the candour to Which their Lordships are accustomed from hims  …ecisions of both Courts, (661)
+     ...
+    14 p3 Pb this ease Mr. Cowie, With tho candour to which their Lordßhips are accustomed from him, has  …ecisions of both Courts. (660)
+    15 p3 Pb Under these circumstances, they will humbly advise Her Majesty that the judgment be affirmed …be dismissed with costs. (139)
+    16 p3 Pb Q Wt. 5084, (11)
+
+#82 1923_87.pdf [CASE/UKPC/UKPC-scan] pp=8 ocr=8 blocks=45 {'line': 13, 'paragraph': 30, 'marginal_note': 1, 'list_item': 1}
+  T='Motibai Hormusjee Kanga v Jamsetjee Hormusjee Kanga' | D=1923-11-30 (cue) Y=1923 | C=Judicial Committee of the Privy Council
+  P2=['appe:Motibai Hormusjee Kanga', 'resp:Jamsetjee Hormusjee Kanga'] | J=[]
+  O=Decision set aside (closing paragraphs) [On the whole, their Lordships have come to the conclusion that the order of the Resident must be set aside and] | cw=[]
+     0 p1 lh Pricy Council Appeal No. 13 of 1923. (36)
+     1 p1 lh Motibai Hormusjee Kanga - Appellant (35)
+     2 p1 lh Jamsetjee Hormusjee Kanga Respondent (36)
+     3 p1 lh FROM (4)
+     4 p1 lh COURT OF THE BRITISH RESIDENT IN MYSORE, CIVIL AND MILITARY STATION OF BANGALORE. (81)
+     5 p1 lh JUDGMENT OF THE LORDS OF THE JUDICIAL COMMITTEE OF TilE PRIVY COUNCIL, DELIVERED THE 30TH NO (105)
+     6 p1 lh Present at the Hearing : (24)
+     ...
+    42 p6 Pb It is quite clear that the onus of establishing capacity lay on the petitioner. It is also c …at they stated in Court. (1749)
+    43 p6 Pb On the whole, their Lordships have come to the conclusion that the order of the Resident mus … will give effect to it. (596)
+    44 p6 Lb <*> 11 Moore's I.A., 44. (20)
+
+#83 1901_8.pdf [CASE/UKPC/UKPC-scan] pp=6 ocr=6 blocks=29 {'paragraph': 21, 'line': 6, 'list_item': 2}
+  T='The Scottish Provident Institution v The' | D=1901-03-02 (cue) Y=1901 | C=Judicial Committee of the Privy Council
+  P2=['part:The Scottish Provident Institution', 'part:The'] | J=[]
+  O=Appeal dismissed (closing paragraphs) [Their Lordships will humbly advise His Majesty to dismiss the Appeal and the Appellants must pay the costs of ] | cw=[]
+     0 p1 Ph Judgment of the Lords of the Judicial Committee of the Privy Council on the Appeal of The Sc …elivered 2nd March 1901. (228)
+     1 p1 lh Present at the Hearing : (24)
+     2 p1 lh LORD MACNAGHTEN. (16)
+     3 p1 lh LORD DAVEY. (11)
+     4 p1 lh LORD ROBERTSON. (15)
+     5 p1 lh LORD LINDLEY. (13)
+     6 p1 lh SIR FORD N0RTH. (15)
+     ...
+    26 p4 Pb While founding their judgment on the terms of Section 10, their Lordships consider this conc …ary part of the business (882)
+    27 p5 Pb of every company carried on for the purpose of " mutual life assurance to invest its funds.' …trade of the Appellants. (826)
+    28 p5 Pb Their Lordships will humbly advise His Majesty to dismiss the Appeal and the Appellants must (121)
+
+#84 1916_3.pdf [CASE/UKPC/UKPC-scan] pp=8 ocr=8 blocks=26 {'line': 13, 'paragraph': 13}
+  T='James Livingston' | D=1916-01-27 (cue) Y=1916 | C=Judicial Committee of the Privy Council
+  P1=['resp:James Livingston'] | J=[]
+  O=Appeal dismissed (closing paragraphs) [Livingston, but that otherwise the Appeal should be dismissed, and further that the Cross- Appeal should be di] | cw=[]
+     0 p1 lh Privy Council Appeals Nos. 6S and 69 of 1915. (45)
+     1 p1 lh John Livingston and others ppetlants, (37)
+     2 p1 lh James Livingston Respondent. (28)
+     3 p1 lh James Livingston Appellanü, (27)
+     4 p1 lh John Livingston and others - lie spondents (CONSOLIDATED APPEALS), (66)
+     5 p1 lh FROM (4)
+     6 p1 lh THE SUPREME COURT OF ONTARIO (APPELLATE DIVISION). (50)
+     ...
+    23 p5 Pb must fail. (10)
+    24 p5 Pb The Respondent's alleged right to remuneration is rested on the Trustee Act, R.S.O., 129, 40 …winding up by the Court. (1777)
+    25 p6 Pb Their Lordships will humbly advise His Majesty that the Appeal should be allowed so far as t …and of the Cross-Appeal. (986)
+
+#85 LON_00BK_LDC_2014_0160.pdf [CASE/EWLVT/other-scan] pp=3 ocr=1 blocks=22 {'line': 10, 'heading': 3, 'paragraph': 9}
+  T='Citystable Ltd v Various leaseholders' | D=2015-01-12 (cue) Y=2015 | C=First-tier Tribunal (Property Chamber) / Leasehold
+  P2=['appl:Citystable Ltd', 'resp:Various leaseholders'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh FIRST-TIER TRIBUNAL PROPERTY CHAMBER (RESIDENTIAL PROPERTY) (59)
+     1 p1 lh Case Reference LON/ooBIC/LDC/2o14/0160 (38)
+     2 p1 lh Property Devonshire Row Mews London WiW 5AU (43)
+     3 p1 lh Applicant Citystable Ltd (24)
+     4 p1 lh Representative Rendall & Rittner Ltd (36)
+     5 p1 lh Respondents Various leaseholders (32)
+     6 p1 lh Type of Application Dispensation from consultation regulations (62)
+     ...
+    19 p2 Pb <6.> Having said that, the Tribunal is disappointed at the poor presentation of the application.  …ation were equally poor. (663)
+    20 p3 Pb <7.> For the reasons set out above, the Tribunal is satisfied that it is reasonable to grant disp …nsultation requirements. (146)
+    21 p3 lc Name: NK Nicol Date: 12th January 2015 (38)
+
+#86 1988_IEHC_38.pdf [CASE/IEHC/other-scan] pp=5 ocr=5 blocks=43 {'line': 10, 'heading': 6, 'paragraph': 23, 'list_item': 4}
+  T='Norah McDermott v The Minister for Social Welfare and the Attorney General' | D=None (-) Y=1988 | C=High Court of Ireland
+  P2=['appl:Norah McDermott', 'resp:The Minister for Social Welfare an'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 00036 (5)
+     1 p1 lh THE HIGH COURT (14)
+     2 p1 lh JUDICIAL REVIEW (15)
+     3 p1 lh No. 62 of 1987 (14)
+     4 p1 lh BETWEEN : (9)
+     5 p1 lh NORAH McDERMOTT (15)
+     6 p1 lh Applicant (9)
+     ...
+    40 p5 Pb Because of this, I am satisfied that the Applicant herein is not entitled to an increase in  …ct of the two children . (147)
+    41 p5 Pb For the reasons set forth by me in Mrs. Cotterls case, I consider that it would be unjust an …cially dependent on her. (294)
+    42 p5 Pb She is entitled to a Declaration that she is entitled to be paid in respect Of the period fr …record of the Applicant. (280)
+
+#87 1996_245.pdf [CASE/UR/other-scan] pp=4 ocr=1 blocks=52 {'line': 41, 'paragraph': 7, 'list_item': 1, 'marginal_note': 3}
+  T='Second Indictment v Alan Martin' | D=1996-12-19 (date-line) Y=1996 | C=Royal Court of Jersey
+  P2=['part:Second Indictment', 'part:Alan Martin'] | J=['Sir Philip Bailhache, Bailiff,']
+  O=None (None) [] | cw=[]
+     0 p1 lh ,.-----... (10)
+     1 p1 lh ROYAL COURT (11)
+     2 p1 lh 19th December, 1996 '"145. (Samedi Division) (44)
+     3 p1 lh Before: Sir Philip Bailhache, Bailiff, and Jurata Myles and Le Ruez (67)
+     4 p1 lh The Attorney General (20)
+     5 p1 lh - V - (5)
+     6 p1 lh Alan Martin, (12)
+     ...
+    49 p3 Mb ( (1)
+    50 p4 Pb are going to bind you over for six months, subjeot to a condition that you attend the drug a … you have offered to do. (134)
+    51 p4 Pb No Authorities, (15)
+
+#88 o04602.pdf [CASE/UKIntelP/other-scan] pp=6 ocr=1 blocks=45 {'line': 14, 'paragraph': 27, 'heading': 3, 'list_item': 1}
+  T='[2002] UKIntelP o04602' | D=2002-01-31 (tail) Y=2002 | C=UK Intellectual Property Office
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh TRADE MARKS ACT 1994 (20)
+     1 p1 lh IN THE MATTER OF (16)
+     2 p1 lh APPLICATION NO.2191419 (22)
+     3 p1 lh BY Southco, Inc (15)
+     4 p1 lh TO REGISTER A TRADE MARK IN CLASS 6 (35)
+     5 p1 lh DECISION AND GROUNDS OF DECISION (32)
+     6 p1 lh Background (10)
+     ...
+    42 p5 lc the Comptroller General (23)
+    43 p6 lc ANNEX A (7)
+    44 p6 lc 6 (1)
+
+#89 12SLR0011_3.pdf [LAW_/ScotCS/SLR] pp=5 ocr=5 blocks=4 {'paragraph': 3, 'heading': 1} SEG iso=True drop=61/0
+  T='(1874) 12 SLR 11' | D=1874-10-24 (heading of the) Y=1874 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p5 Ph Saturday, October 24. (21)
+     1 p5 Hh SECOND DIVISION. (16)
+     2 p5 Ph SPECIAL CASE—SIR J. COXE AND OTHERS. Succes sion— Testament— Con8truction. (74)
+     3 p5 Pb Terms of settlements, under which—Held that where the last of several testamentary writings  …ving died without issue. (2917)
+
+#90 04SLR0110.pdf [LAW_/ScotCS/SLR] pp=1 ocr=1 blocks=8 {'paragraph': 8} SEG iso=True drop=6/8
+  T='Minister of Ceres v The Heritors' | D=1867-06-19 (heading of the) Y=1867 | C=Court of Session
+  P2=['part:Minister of Ceres', 'part:The Heritors'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph Wednesday, June 19. (19)
+     1 p1 Ph MINISTER OF CERES V. THE HERITORS. Teinds — Augmentation — Valuation — Declarator. (82)
+     2 p1 Ph Procedure in an augmentation Bisted to allow minister to bring a declarator to try the valid …ilbirnie and Stracathro. (213)
+     3 p1 Ph The Rev. J. C. C. Brown, minister of the parish of Ceres, in the county of Fife, with a pres …y, against the heritors. (223)
+     4 p1 Pb DUNCAN, for the minister, asked tho Court to grant an augmentation of 4 chalders, stating th …ive in various respects. (464)
+     5 p1 Ph JOHN MAESHALL, for the Earl of Glosgow, opposed. (48)
+     6 p1 Pb LORD PRBIDENT—This is in the position of a case which Was before this Court not long ago, in …ante, vol. iv., p. 168.) (743)
+     7 p1 Pb Agents for Minister—Adamson & Gulland, W.S. Agents for Earl of Glasgow—Marshall & Stewurt, [ (96)
+
+#91 61SLR0580.pdf [LAW_/ScotCS/SLR] pp=8 ocr=8 blocks=74 {'paragraph': 72, 'heading': 2} SEG iso=True drop=6/0
+  T='(1924) 61 SLR 580' | D=1924-06-27 (heading of the) Y=1924 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph Turner Macfarlane, W.S. (23)
+     1 p1 Ph Friday, June 27. (16)
+     2 p1 Hh FIRST DIVISION. (15)
+     3 p1 Ph [Court of Exchequer. CORMACK'S TRUSTEES v. (42)
+     4 p1 Hh INLAND REVENUE. (15)
+     5 p1 Ph Revenue — Stamp Duty — Discharge by Widow of Legal Rights in Return for Annuity—Conveyance o … 60, and First Schedule. (224)
+     6 p1 Pb A widow whose testamentary provisions made for her by her husband were of much less value th …st Schedule to the Stamp (889)
+     ...
+    71 p8 Pb The Court found that the instrument was not liable to be assessed and charged with the duty  …appellants of $389, IOS. (229)
+    72 p8 Pb Counsel for Appellants—D. P. Fleming, K.C.—Normand. Agents—Boyd, Jameson, & Young, W.S. (87)
+    73 p8 Pb Counsel for Respondents — Hon. W. Watson, R. C. —Skelton. Agent—Stair A. Gillon, Solicitor o (109)
+
+#92 55SLR0300.pdf [LAW_/ScotCS/SLR] pp=3 ocr=3 blocks=39 {'paragraph': 38, 'heading': 1} SEG iso=True drop=7/0
+  T='Gibson v Blair' | D=1918-02-27 (heading of the) Y=1918 | C=Court of Session
+  P2=['part:Gibson', 'part:Blair'] | J=[]
+  O=Adhered (decision below upheld) (closing paragraphs) [The Court adhered to the interlocutor of the Lord Ordinary.] | cw=[]
+     0 p1 Ph Wednesday, February 27. (23)
+     1 p1 Hh SECOND DIVISION. (16)
+     2 p1 Ph [Lord Ormidale, Ordinary. GIBSON v. BLAIR. (42)
+     3 p1 Ph Right in Security—Bond and Disposition in Security — MaiUs and Duties — Competency — Titles  …ct. cap. 101), sec. 119. (171)
+     4 p1 Pb In consequence of a dispute as to the proper rate of interest in existing circumstances, the … action was incompetent. (497)
+     5 p1 Ph On 10th November 1917 William Gibson, Writer to the Signet, Edinburgh, pursuer, creditor in  … the debtor in the bond. (323)
+     6 p1 Pb On 31st August 1907 the defender had gran ted the pursuer a bond and disposition, which was  …the following averments. (371)
+     ...
+    36 p3 Pb The Court adhered to the interlocutor of the Lord Ordinary. (59)
+    37 p3 Pb Counsel for Pursuer and Reclaimer— Pitman. Agents—Tait & Crichton, W.S. (71)
+    38 p3 Pb Counsel for Defender and Respondent— Blackburn, K.C. — Robertson. Agent — Henry Wakelin, Sol (99)
+
+#93 05SLR0130.pdf [LAW_/ScotCS/SLR] pp=2 ocr=2 blocks=21 {'paragraph': 18, 'heading': 2, 'list_item': 1} SEG iso=True drop=9/20
+  T='Jackson v Galloway' | D=1867-12-20 (heading of the) Y=1867 | C=Court of Session
+  P2=['part:Jackson', 'part:Galloway'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph Friday, December 20. (20)
+     1 p1 Hh FIRST DIVISION. (15)
+     2 p1 Hh JACKSON V. GALLOWAY. (20)
+     3 p1 Ph Arbitration—judicial to Reference—lssued Award. Claim by clerk to a judicial reference for h …efore death of referee ; (292)
+     4 p1 Lh <(2)> that though an award may remain in the hands of the clerk, it may yet be a delivered award,  …ng to take up the award. (185)
+     5 p1 Pb This was an advocation from the Sheriff-court of Fifeshire. David Galloway, accountant in Ed …e Sheriff adhered. Jack- (499)
+     6 p1 Pb Bon advocated, and pleaded inter alia {I) that the (50)
+     ...
+    18 p2 Pb posal of the case; as, for exarnple, where the arbiters have themselves clearly indicated th … an issued arbitration." (442)
+    19 p2 Pb Now this gentlemau bringing his action, is met by the defence that this award, which was sig … sustain his objections. (1122)
+    20 p2 Pb Agents for Reclaimer—Duncan & Dewar, W.S. Agents for Respondent—D. N. & J. Latta, S.S.C. (88)
+
+#94 25SLR0132.pdf [LAW_/ScotCS/SLR] pp=6 ocr=6 blocks=38 {'paragraph': 36, 'list_item': 2} SEG iso=True drop=4/12
+  T='Hay & Kyd v Caledonian Railway Company' | D=1887-12-08 (heading of the) Y=1887 | C=Court of Session
+  P2=['part:Hay & Kyd', 'part:Caledonian Railway Company'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph Reid. Agents—Boyd, Jameson, & Kelly, W. S. Counsel for the Respondent — Jameson— Younger. Ag (115)
+     1 p1 Ph Thursday, December 8. (21)
+     2 p1 Ph SECOND DIVISION. [Lord M'Laren, Ordinary. HAY & KYD V. CALEDONIAN RAILWAY COMPANY. (82)
+     3 p1 Pb Carrier—Delivery to Person other than Consignee—Breach of Contract— Condonation. A firm of a …t did not assent to the. (1233)
+     4 p1 Pb buyer selling the cattle, nor had he authority to give such consent. The buyer sold the catt … previous transactions ; (425)
+     5 p1 Lh <(2)> that the railway company had been guilty of a breach of con.tract in disregarding the seller …ble for the price of the (312)
+     6 p1 Pb cattle. (7)
+     ...
+    35 p6 Pb The LORD JUSTICE-CLERK was absent. (34)
+    36 p6 Pb The Court pronounced this interlocutor :— Find that the defenders wrongfully, and in breach  …with interest thereon, " (385)
+    37 p6 Pb Counsel for (11)
+
+#95 56SLR0440.pdf [LAW_/ScotCS/SLR] pp=9 ocr=9 blocks=78 {'heading': 3, 'paragraph': 73, 'list_item': 2} SEG iso=True drop=9/13
+  T="Renouf's Trustees v Haining and Others" | D=1919-05-31 (heading of the) Y=1919 | C=Court of Session
+  P2=["part:Renouf's Trustees", 'part:Haining and Others'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Hh COURT OF SESSION. (17)
+     1 p1 Ph Saturday, May 31. (17)
+     2 p1 Hh SECOND DIVISION. (16)
+     3 p1 Hh RENOUF'S TRUSTEES v. HAINING AND OTHERS. (40)
+     4 p1 Ph Succession — Trust— Uncertainty — Bequest —" Preaching the Gogpet of Jesus Christ my Lord am (119)
+     5 p1 Ph Lands. " (8)
+     6 p1 Pb A testator by his holograph general trust-disposition and settlem ent directed his trustees  …amed for foreign lands." (644)
+     ...
+    75 p9 Pb Counsel for the. Second Party—MacphaiI, K. C. —R. C. Henderson. Agent—Jas. Scott, (81)
+    76 p9 Pb Counsel for the Fifth and Sixth Parties— W. T. Watson. Agents—Guild & Guild, (76)
+    77 p9 Pb Counsel for the Third Parties—MacRobert. Agent—A. C. D. verb, S.S.C. (68)
+
+#96 13SLR0299.pdf [LAW_/ScotCS/SLR] pp=5 ocr=5 blocks=46 {'paragraph': 43, 'heading': 2, 'list_item': 1} SEG iso=True drop=3/15
+  T='Chalmers v Dixon & Co' | D=1876-02-18 (heading of the) Y=1876 | C=Court of Session
+  P2=['part:Chalmers', 'part:Dixon & Co'] | J=[]
+  O=Adhered (decision below upheld) (closing paragraphs) [The Court adhered.] | cw=[]
+     0 p1 Ph Friday, February 18. (20)
+     1 p1 Hh SECOND DIVISION. (16)
+     2 p1 Ph [Lord Craighill. (16)
+     3 p1 Hh CHALMERS V. DIXON & CO. (23)
+     4 p1 Ph Property —Damage— Reparation. (29)
+     5 p1 Pb Ironmasters accumulated a bing" or heap of waste material drawn from their pits, to the amou …s from the burning bing. (483)
+     6 p1 Pb Property— Use— Damage. (22)
+     ...
+    43 p5 Pb The Court adhered. (18)
+    44 p5 Pb Counsel for Pursuer — Asher — Strachan. Agents—Morton, Neilson & Smart, W.S. (76)
+    45 p5 Pb Counsel for (11)
+
+#97 Mor2410053-023.pdf [LAW_/ScotCS/Mor] pp=2 ocr=0 blocks=18 {'paragraph': 16, 'heading': 1, 'marginal_note': 1} SEG iso=True drop=6/6
+  T='(1796) Mor 10053' | D=None (-) Y=1796 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph 1796. May z r. (14)
+     1 p1 Ph Mrs J4rT YouNo. ad -hor husband, against Mrs JANET SINCLAm, and Qthers, (71)
+     2 p1 Pb CAPTAN..ALLAN gratJd-sAjanet Young an herikable bond of amAulty for a certairk stan. 6 AVitW …ne-fith part more, being (458)
+     3 p1 Pb * ite idppapen ty an pa q' tateth pe.acrisjng from he failure .n T x4 rEPyeit c ge sa grndwt …red e*is p_uyment shpof. (142)
+     4 p1 Pb W ggyn~ aY, afeg hpaji.g pgvties, "Aered against thq lpd.e (58)
+     5 p1 Pb up 9?nfedgngs'ppensps; to r ptoyng O &he tie isip 4pf .n4.. ers' favour." A decree, in these …as afterwards extracted. (125)
+     6 p1 Pb Ala's Youqg.having claimed exppgen qf racess r ties 4oroe, Mys &inclair and t e pther 4efend …cretewithouseteaving ati (349)
+     ...
+    15 p2 Pb Lord Ordinary,. Polkmmet. For the charger, Montgomery. Alt. Tod. (64)
+    16 p2 Pb D. D. Fac. Col. No 218. p. 513 (30)
+    17 p1 Mb - No 23. A decree ia faro, ' in 'terms of the libel,' upon a bond con- taining a penalty, do (117)
+
+#98 Mor0100404-033.pdf [LAW_/ScotCS/Mor] pp=2 ocr=0 blocks=10 {'line': 1, 'paragraph': 8, 'marginal_note': 1} SEG iso=True drop=5/0
+  T='Seton v Turnbull' | D=1697-02-20 (heading of the) Y=1697 | C=Court of Session
+  P2=['part:Seton', 'part:Turnbull'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 1697. February 20. SETON afainst TURNBULL. (42)
+     1 p1 Pb EUPHAME SETON, Lady Kirkland, and Bailie Fife, her huhand, purfue Dame Alifon TurnbuNl, and  …fter difoufixag of them. (1613)
+     2 p1 Pb 1697.' 7une 16. THE LORDs advifed the bills and asofvers between Euphame Seton, Lady Kirklan …s. ado, The interlocutor (686)
+     3 p2 Pb AllMNT. (7)
+     4 p2 Pb 404 (3)
+     5 p2 Pb foiunded on, wants all manner of warrart; Ibr Dame Alisen is neither mentioned in the body o …thefe proviioms, or not. (1940)
+     6 p2 Pb Fol. Dic. v. I. -P. 3o. Fountainhall, v. I. -P. 770. 776. (57)
+     7 p2 Pb CUNNwePHAs of Brownidl, agabt Dase MAROARET RAISAY, hi8 Grasd- Step-Mother. (75)
+     8 p2 Pb THE faid William Cunningham, a pupil, having raifed a procefs of aliment againft his mother  …n.of her own;, whereas-, (709)
+     9 p1 Mb No 33. Diicuffed, bujt not de- termined, whether the grac -Aether muft bear pi opartion ,or  (96)
+
+#99 Mor0401416-018.pdf [LAW_/ScotCS/Mor] pp=3 ocr=0 blocks=13 {'paragraph': 12, 'marginal_note': 1} SEG iso=True drop=4/11
+  T='James Adam v Thomas Johnstone' | D=None (-) Y=1782 | C=Court of Session
+  P2=['part:James Adam', 'part:Thomas Johnstone'] | J=[]
+  O=Adhered (decision below upheld) (closing paragraphs) [THE LORDs adhered to the Lord Ordinary's interlocutor.] | cw=[]
+     0 p1 Ph 1782. Decembr z-. JAMES ADAM against THOMAS JOHNSTONE. (54)
+     1 p1 Pb JOHN and WILLIAM RUSSEL, in the name of Adam, their indorfee in truft, fued Johnftone for pa …ed by the doner's bills. (553)
+     2 p1 Pb Pleaded for the purfuer; Donation§, it is admitted; or legacies, cannot be con, nee. flitute …and her infant children. (710)
+     3 p2 Pb Asuired; It is that v'ry eirduntance, which feens decifive of the faufe. The purfuers muft a …uod simulate concipitur. (1151)
+     4 p2 Pb Accordingly, if, in pradtice, effea were to be given to fuch a proceeding, independent of th …by bond or latter will.. (1668)
+     5 p2 Pb Oberved on the Bench, Prior to the late a6L of Parliament, limiting to fix years the commenc …nefs, now than formerly. (451)
+     6 p3 Pb r4 8 BILL or EXCHANGE. 'Div. I, (31)
+     ...
+    10 p3 Pb Lord Ordinary, Westhall. Ad. Hen. Ersiine. Alt. fV. Steuart. Clerk, Hume. (73)
+    11 p3 Pb Stewart. Fol.Dic. v. 3.p. 75. Fac. Cd.No 74. P. 1z3. (52)
+    12 p1 Mb No 18. A bill was granted by a donor, morti: causa, to a confident per- fon, on par- pofe to …luppurt- ed by the Cott. (227)
+
+#100 Mor3515221-088.pdf [LAW_/ScotCS/Mor] pp=3 ocr=0 blocks=16 {'paragraph': 15, 'marginal_note': 1} SEG iso=True drop=4/5
+  T='(1774) Mor 15221' | D=1774-11-16 (heading of the) Y=1774 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph 1774. November 16. (18)
+     1 p1 Ph HuGH GORDON against JAMES LORD FORBEs and JONATHAN FORBES of Brux. (66)
+     2 p1 Pb In 1755, the Lady-Dowager of Forbes, who then life-rented the whole estate of Forbes, set to …owing and dunging corn., (686)
+     3 p1 Pb Lady Forbes having acquired the property of the estate of Forbes, it was purchased from her  …ty of another purchaser. (373)
+     4 p1 Pb By the dispositions granted to them, the defenders were taken bound, in the usual way, to ma … respectively purchased. (183)
+     5 p1 Pb By the tacks which subsisted at the time of the sale, the tenants of some of the farms bough …ved to discontinue them. (649)
+     6 p1 Pb VoL. XXXV. a3 C (15)
+     ...
+    13 p3 Pb The Lords " sustained the defence, and assoilzied the defenders-" Act. Blair. Alt. P. Murray (105)
+    14 p3 Pb Fol. Dic. v. 4. pt. 323. Fac. Coll. No. 187. p. 362,. (53)
+    15 p1 Mb No. 88. Whether a tack of ser. nants, when clothed with tossession, is an effectual rI ast c (112)
+
+#101 Mor3716431-036.pdf [LAW_/ScotCS/Mor] pp=1 ocr=0 blocks=4 {'paragraph': 3, 'list_item': 1} SEG iso=True drop=5/3
+  T='Sir Michael Stewart v Earl of Dundonald' | D=1753-02-07 (heading of the) Y=1753 | C=Court of Session
+  P2=['part:Sir Michael Stewart', 'part:Earl of Dundonald'] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 Ph 1753. February 7. SIR MICHAEL STEWART against EARL of DUNDONALD. (64)
+     1 p1 Pb William Cochrane, at a time when his elder brother, having two sons, was alive, who were all … on proof of the amount. (642)
+     2 p1 Pb Fac. Coll. Sel. Dec. (20)
+     3 p1 Lb <*> This case is No. 61. p. 9514. VoCe PACTUM ILLIcITM. (51)
+
+#102 Mor2108788-166.pdf [LAW_/ScotCS/Mor] pp=3 ocr=0 blocks=35 {'line': 1, 'paragraph': 26, 'marginal_note': 5, 'heading': 2, 'list_item': 1} SEG iso=False drop=None/None
+  T='(1755) Mor 8788' | D=None (-) Y=1755 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 8788 MEMBER oF PARLIAMENT. Div. IV. (35)
+     1 p1 Pb before the election, he could not have voted, because the act of the 12th of the Queen barre …f all the other clauses. (395)
+     2 p1 Pb Replied for the complainer, That the clause of the act of the 16th of the King implies a rep …t is in so far repelled. (1045)
+     3 p1 Pb The arguments upon the second objection were the same with those mentioned in No 52. p. 8647 (93)
+     4 p1 Pb ' THx LORDS repelled the first objection, and found that it was not necessary that the compl …ismissed the complaint.' (424)
+     5 p1 Pb A1. Ad. Macdowall, 7a. Dunda; & Bruce. Alt. Lockhart, And Pringle, & go. Grant. Clerk, Forbe (94)
+     6 p1 Pb B. Fac. Col. No 129. p. 192. (28)
+     ...
+    32 p3 Pb **/ This case is No S. p. 7783* (31)
+    33 p3 Mb No 166. (7)
+    34 p3 Mb No 167. (7)
+
+#103 Mor2711566-231.pdf [LAW_/ScotCS/Mor] pp=2 ocr=0 blocks=5 {'paragraph': 5} SEG iso=True drop=9/6
+  T='L. Monimusk v L. Pittaro' | D=None (-) Y=1628 | C=Court of Session
+  P2=['part:L. Monimusk', 'part:L. Pittaro'] | J=[]
+  O=None (None) [] | cw=['Presumption']
+     0 p1 Ph 1628. Fbruary 21, L. MONIMUSK against L. PITTARO. (49)
+     1 p1 Pb IN an action of exhibition by the Laird of Monimusk against the Laird of Pittaro, for exhibi …ithatanding thereof, the (841)
+     2 p2 Pb father might seek back again the said bonds, and alter or cancel them at his pleasure; but r … not retreatable by him. (186)
+     3 p2 Pb Act. Learmont & Hay. Alt. Belhes. Clerk, Gibson. (48)
+     4 p2 Pb Fol. Dic. v. 2..p. 155. Durie, p. 34 3. (39)
+
+#104 Mor1807509-226.pdf [LAW_/ScotCS/Mor] pp=2 ocr=0 blocks=28 {'line': 4, 'paragraph': 17, 'heading': 2, 'marginal_note': 5} SEG iso=False drop=None/None
+  T='Graham v Alexander Pipei of Newgrahge' | D=1707-03-28 (report heading) Y=1707 | C=Court of Session
+  P2=['part:Graham', 'part:Alexander Pipei of Newgrahge'] | J=[]
+  O=None (None) [] | cw=['Jurisdiction']
+     0 p1 lh Div. Vt. JURISDICTION. (22)
+     1 p1 lh Tax. Loms, found the case not maritime, and therefore advocated the cause injure. (81)
+     2 p1 lh Fol. Dic. v. i. p. 502. Forbes, p. iS. (38)
+     3 p1 lh *** Fountainhall reports this case. (35)
+     4 p1 Pb Sir ANDREw KENNEDY pursues William Gordon, merchant in Campvere, before the High Court of Ad …ore advocated the cause. (1093)
+     5 p1 Pb Fountainhall, v. 2. p. 279. (27)
+     6 p1 Pb 17o6. July r9. ANDERSON against TURNBULL. (41)
+     ...
+    25 p2 Pb For the Procurator-Fiscal, it was contended; That, neither by law nor custom, an assize was  …r may the Judge-Admiral. (585)
+    26 p2 Mb No 12 6. ed to a factor in Scotland for the price of goods sent to him from abroad to be sol … being a maritime cause. (130)
+    27 p2 Mb No 227. (7)
+
+#105 Brn030108-0106.pdf [LAW_/ScotCS/BrnElcHai] pp=1 ocr=1 blocks=8 {'line': 2, 'paragraph': 5, 'heading': 1} SEG iso=False drop=None/None
+  T='(1676) 3 Brn 108' | D=None (-) Y=1676 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 108 FOUNTAINHALL. 1676. (23)
+     1 p1 lh 1676. November. ANENT NOX-ENTRY OF BLENCH LANDS. (48)
+     2 p1 Pb QUÆRITUR, If blench Lands fall so in non-entry, as, after decreet of declarator, the superio …. No. 508, 3, folio 266. (459)
+     3 p1 Hb 1676. November. ANENT THE EXCEPTION OF HOMOLOGATION. (52)
+     4 p1 Pb THE Lords have oft laid weight upon this cannot be heard, because you have homologated my ri …. No. 508. 4, folio 266. (1451)
+     5 p1 Pb 1676. November. ANENT THE WRITERS OF DEEDS. (43)
+     6 p1 Pb THOUGH any designation in a writ satisfies the words of the act of Parliament in 1579, in ca …Kettleston and Kirkhill. (351)
+     7 p1 Pb Advocates' MS. No. 508, 5,f01i0 266, (36)
+
+#106 Brn040240-0546.pdf [LAW_/ScotCS/BrnElcHai] pp=1 ocr=1 blocks=12 {'line': 1, 'paragraph': 10, 'heading': 1} SEG iso=False drop=None/None
+  T='(1695) 4 Brn 240' | D=None (-) Y=1695 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh FOUNTAINHALL. 1695, (19)
+     1 p1 Pb against the Lord Sinclair, and answers; it came to be debated, Whether the tack, set by the  …James Cockburn's behoof. (779)
+     2 p1 Pb The Lords, before answer, ordained the factor to depone anent his knowledge, (76)
+     3 p1 Pb and if it was told him that the tack was for Sir James's use. And the factor having acknowle …amily. vol. 1. Page 657. (367)
+     4 p1 Pb 1695. January 11. BOUK against BLACKWOOD. (41)
+     5 p1 Pb RANKIELER reported the case between Bouk and Blackwood, anent the damage arising through the …ualrent at six per cent. (221)
+     6 p1 Pb The Lords found they were not tied to such strictness, but might exceed that. vol. 1. Page 6 (95)
+     ...
+     9 p1 Pb HALCRAIG reported John Williamson, sheriff-clerk of Perth, and White, his assignee, against  …ore a faculty to alter ? (341)
+    10 p1 Pb The Lords fixed on that conjecture, That she had made a distribution of her whole means by t … whereby to diminish it. (380)
+    11 p1 Pb vol. 1. Page 657. (17)
+
+#107 Brn040668-0164.pdf [LAW_/ScotCS/BrnElcHai] pp=2 ocr=2 blocks=19 {'line': 1, 'paragraph': 17, 'heading': 1} SEG iso=False drop=None/None
+  T='(1707) 4 Brn 668' | D=None (-) Y=1707 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 668 FOUNTAINHALL. 1707. (23)
+     1 p1 Ph ibre him, and require their parole of honour to keep the peace; and, in case of refusal, to  …ws, in the terms of law. (150)
+     2 p1 Pb The Lords have been in use not only to censure irreverent carriage to the bench, but even in … censure and resentment. (361)
+     3 p1 Pb vol 11. Page 378. (17)
+     4 p1 Pb 1707. July 10. SIR WILLIAM MENZIES against MARION RrccART, Spouse to (68)
+     5 p1 Pb James Claik of Wrnrhts-houses. (30)
+     6 p1 Pb SIR William Menzies of Gladstanes being creditor to James Clark of Wrightshouses, and having …ts of the Privy-Council. (1165)
+     ...
+    16 p2 Pb and proponing all you can say; and not relevant, because twice repefied. And (76)
+    17 p2 Pb whether the Commissaries' sentence be (equa or iniqua is not the question, seeing you were n …antably uplifted by you. (292)
+    18 p2 Pb The Lords found an evident loss and hardship on both sides ; and that they were both in damn …ng, Which of them should (149)
+
+#108 Brn020115-0312.pdf [LAW_/ScotCS/BrnElcHai] pp=1 ocr=1 blocks=9 {'line': 2, 'paragraph': 7} SEG iso=False drop=None/None
+  T='(1688) 2 Brn 115' | D=1688-01-27 (report heading) Y=1688 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 1688. HARCARSEO 115 (19)
+     1 p1 lh 1688. January 27. JAMES OSWALD against CAPTAIN HAMILTON. (56)
+     2 p1 Pb IN a competition betwixt James Oswald, as executor-creditor to Ninian Henderson, and Captain … debtor but once liable. (1240)
+     3 p1 Pb Page 49, No. 217. (17)
+     4 p1 Pb 1688. February. SIR JAMES DICK against WILLIAM DICK of GRANGE. (62)
+     5 p1 Pb ONE having got an assignation to a bond in satisfaction, with a provision that the assignee  …ghlands, December 1686.] (1087)
+     6 p1 Pb Page 24, No. 124. (17)
+     7 p1 Pb 1688. February. JAMES MERCER against CUNNINGHAM of BARNS. (57)
+     8 p1 Pb ONE Elizabeth Cunningham having granted a bond, mentioning no cause, to Mercer her brother-i …ster, or to the heirs of (154)
+
+#109 Brn010489-1305.pdf [LAW_/ScotCS/BrnElcHai] pp=2 ocr=2 blocks=17 {'line': 1, 'paragraph': 15, 'heading': 1} SEG iso=False drop=None/None
+  T='(1665) 1 Brn 489' | D=None (-) Y=1665 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 1665. GILMOUR. 489 (18)
+     1 p1 Pb count and reckoning of the byrun maills intromitted with by them, that he may come in pari p …e to come in pari passu. (1238)
+     2 p1 Pb No. 134, Page 97. (17)
+     3 p1 Pb 1665. July. CALDERWOOD against PRINGLE. (39)
+     4 p1 Pb [See Dictionary, page 3036.] (28)
+     5 p1 Pb IN the cause debated the last winter session betwixt Calderwood and Pringle, concerning the  …male. No. 155, Page 110. (433)
+     6 p1 Pb 1665. July. MARGARET STEVINSON and THOMAS NEWTOUN against MARGARET KER. (71)
+     ...
+    14 p2 Pb No. 165, Page 116. (18)
+    15 p2 Pb 1666. January. Mll GEORGE CLAPERTOUN against The LAIRD of TonsoxcE. (67)
+    16 p2 Pb THERE was a comprising deduced at the instance of the Laird of Torsonce, or James Brown of C …is intromission with the (1003)
+
+#110 Brn040678-0176.pdf [LAW_/ScotCS/BrnElcHai] pp=2 ocr=2 blocks=17 {'line': 1, 'paragraph': 14, 'heading': 2} SEG iso=False drop=None/None
+  T='(1707) 4 Brn 678' | D=1707-12-02 (report heading) Y=1707 | C=Court of Session
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh 678 FOUNTAINHALL. 1707. (23)
+     1 p1 Pb Commissaries' decreet had no foundation, for there was not the least conclusion in the libel …ing from their own sins. (573)
+     2 p1 Pb Commissaries' decerniture for her expenses, though not expressly libelled, is no more but a  …an arbitrary punishment. (532)
+     3 p1 Pb The Lords found the decreet ultra petita et libellata ; and therefore suspended the letters, … one. vol. 11. Page 395. (216)
+     4 p1 Pb 1707. December 2. JAMES CORBET against WILLIAM COCHRAN of KILMARONOCK. (70)
+     5 p1 Pb [See the prior part of this Case, supra, page 634.] (51)
+     6 p1 Pb JAMES Corbet, merchant in Glasgow, pursues Mr William Cochran of Kilmaronock, on this they b …ed, he cannot be liable. (1488)
+     ...
+    14 p2 Hb DOUGAL. (7)
+    15 p2 Pb February 19.—JEAN Guine, relict of George Muir, goldsmith in Edinburgh, charges John Dougal, …bation of the said bond. (501)
+    16 p2 Pb The cause being called in presence, it was ALLEGED for Jean Guine, the (70)
+
+#111 5_WS_356.pdf [LAW_/UKHL/nominate/TC] pp=4 ocr=0 blocks=46 {'line': 1, 'paragraph': 32, 'marginal_note': 8, 'heading': 5}
+  T='Burns and Grier v Stewart' | D=1831-07-11 (first-date) Y=1831 | C=House of Lords
+  P2=['part:Burns and Grier', 'part:Stewart'] | J=[]
+  O=None (None) [] | cw=['Rutherford', 'Stuart. Contract', 'Landlord and Tenant']
+     0 p1 lh 35G BURNS AND GRIER V. STEWART. (31)
+     1 p1 Pb July 11, 1831, these circumstances, we are to consider whether or not the costs should be gi … of appeal can be given. (651)
+     2 p1 Pb The House o f Lords ordered and adjudged, That the inter­ locutors complained of be affirmed …bove the said two pools. (383)
+     3 p1 Pb R ichardson and C onnell,— M oncrieff, W ebster, and T homson*— Solicitors. (75)
+     4 p1 Pb J ° HN B urns and R obert G rier, Appellants.— Lord Advocate (Jeffrey) — Lushington. (84)
+     5 p1 Pb t (1)
+     6 p1 Pb D uncan Stewart, Respondent,— Rutherford— Stuart. (49)
+     ...
+    43 p4 Hb / (1)
+    44 p4 Mb July 27, 1831. (14)
+    45 p4 Mb No. 29. (7)
+
+#112 2_WS_40.pdf [LAW_/UKHL/nominate/TC] pp=13 ocr=0 blocks=123 {'line': 4, 'paragraph': 57, 'marginal_note': 34, 'heading': 14, 'list_item': 14}
+  T='Campbell, &c v Beath' | D=1826-03-03 (first-date) Y=1826 | C=House of Lords
+  P2=['part:Campbell, &c', 'part:Beath'] | J=[]
+  O=None (None) [] | cw=['Appellants', 'Shadwell', 'Abercromby']
+     0 p1 lh r (1)
+     1 p1 lh % ' i (5)
+     2 p1 lh CAMPBELL, &C. V. BEATH. (23)
+     3 p1 lh \ (1)
+     4 p1 Pb Mar. 3, 1826. ship of this case upon this gentleman, your Lordships cannot proceed upon i t  …is share of the profits. (1158)
+     5 p1 Pb On the whole, therefore, I must say, notwithstanding the great re­ luctance and great diffid …terlocutors be reversed. (520)
+     6 p1 Pb I X James C ampbell— M oncrieff and W ebster, Solicitors. (57)
+     ...
+   120 p13 Mb ft No. 7. (9)
+   121 p13 Mb March 8,1826. (13)
+   122 p13 Mb 2d D ivisio n. Lord Cringle- (28)
+
+#113 1_Paterson_567.pdf [LAW_/UKHL/nominate/TC] pp=1 ocr=0 blocks=17 {'line': 3, 'paragraph': 14}
+  T='Brown v Goldie' | D=1855-07-03 (first-date) Y=1855 | C=House of Lords
+  P2=['part:Brown', 'part:Goldie'] | J=[]
+  O=Appeal dismissed (closing paragraphs) [1 It was understood that the costs of the day were not paid, as ordered; consequently both appeals were dismis] | cw=['Appeal to House of Lords', 'Process', 'Printing Record']
+     0 p1 lh BROWN v. GOLDIE. [Argument.] 567 * 8 5 5 ] (42)
+     1 p1 lh JULY 3, 1855. (13)
+     2 p1 lh D a v i d B r o w n , Appellant, v. W i l l i a m G o l d i e , Respondent. (75)
+     3 p1 Ph Appeal to House of Lords— Process— Printing Record— The appellant, in an appeal to the House … law o f the respondent: (209)
+     4 p1 Ph H e l d , That the otnission was not sufficient to suspend the hearing o f his case, though  … reason of the omission. (248)
+     5 p1 Ph Appeal to House of Lords— Process— Printing Record— The appellant omitted to print in his ca …n law of the respondent: (152)
+     6 p1 Ph The House of Lords, in respect o f the omission, ordered the appellant to pay the respondent … appeal to be dismissed. (193)
+     ...
+    14 p1 Pb Anderson called the attention of the House to this further omission. The LORD CHANCELLOR sai … dismissed, with costs.1 (384)
+    15 p1 Pb Appellatifs Agent, Andrew Murray.— Respondent1 s Agent, James Crosbie. (70)
+    16 p1 Pb 1 It was understood that the costs of the day were not paid, as ordered; consequently both a …re dismissed with costs. (125)
+
+#114 3_Paton_516.pdf [LAW_/UKHL/nominate/TC] pp=5 ocr=0 blocks=62 {'line': 5, 'paragraph': 34, 'heading': 10, 'marginal_note': 13}
+  T='Denny, &c v Marquis of' | D=1796-12-06 (first-date) Y=1796 | C=House of Lords
+  P2=['part:Denny, &c', 'part:Marquis of'] | J=[]
+  O=Affirmed (closing paragraphs) [It was ordered and adjudged that the appeal be dis­ missed, and that the interlocutors complained of be affirm] | cw=['B urgh E lection', 'N otice', 'C ustom of B urgh']
+     0 p1 lh CASES ON APPEAL FROM SCOTLAND.- (31)
+     1 p1 lh lant assoilzied : and it is further ordered, that the cross appeal be dismissed. (80)
+     2 p1 lh For Appellant, Wm. Adam, Geo. Ferguson. For Respondent, Thomas Erskine, John Dickson, James  (105)
+     3 p1 Ph J ohn Denny, Eldest Bailie of Dumbarton, i J ohn Keay, Dean of Guild, David P hilips, J ames … Burgh of Dumbarton, - J (227)
+     4 p1 Ph G eorge, Marquis of Lorne, Provost of % Dumbarton, David Connell, Second Bailie, R obert Dav …chison, all Councillors, (223)
+     5 p1 lh House of Lords, 6th December 1796. (34)
+     6 p1 lh B urgh E lection— N otice— C ustom of B urgh.—An ordinary (57)
+     ...
+    59 p5 Pb For Appellants,*/. Anstruther, (7. Hope, IF. Dundas. For Respondents, R. Dundas, J. Campbell (93)
+    60 p5 Mb 1796. (5)
+    61 p5 Mb DENNY, &C. V . MARQUIS OF LORKB, &C. (36)
+
+#115 7_WS_441.pdf [LAW_/UKHL/nominate/TC] pp=16 ocr=0 blocks=163 {'line': 6, 'paragraph': 90, 'marginal_note': 51, 'heading': 15, 'list_item': 1}
+  T='(1834) 7 W & S 441' | D=1834-08-14 (first-date) Y=1834 | C=House of Lords
+  P0=[] | J=[]
+  O=None (None) [] | cw=['Thomas M ‘ Millan and others, Appellants']
+     0 p1 lh I (1)
+     1 p1 lh « (1)
+     2 p1 lh THE HOUSE OF LORDS. (19)
+     3 p1 lh [ 1 \-th August 1834.] (22)
+     4 p1 lh T h o m a s M ‘ M il l a n and others, Appellants.— Lord Advocate ( Jeffrey) — Tinney. (86)
+     5 p1 lh C h a r l e s C a m p b e l l and others, Respondents.— Dr. Lusliington— Macdougal, (83)
+     6 p1 Ph Entail— Trust.— Held (affirming the judgment of the Court of Session) that a trust deed conv …tion and deed of entail. (277)
+     ...
+   160 p16 Mb No.22. 14tf/j August 1834. (26)
+   161 p16 Mb M (M i l l a k and others (25)
+   162 p16 Mb C a m p b e l l and others. (27)
+
+#116 1997_069.pdf [CASE/UR/UR] pp=4 ocr=0 blocks=47 {'line': 15, 'paragraph': 28, 'marginal_note': 2, 'heading': 2}
+  T='[1997] JRC 069' | D=None (-) Y=1997 | C=Royal Court of Jersey
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh ROYAL COlJRT (12)
+     1 p1 lh Division) (9)
+     2 p1 lh 1997 (4)
+     3 p1 lh Before: F~C~ Raman Bailiff and Ju=ats (37)
+     4 p1 lh The (')rnp'J General (20)
+     5 p1 lh Mireille Nicolette Coutanche (28)
+     6 p1 lh j Count 01 cnnil'.'Nto Article 6 (1) of Misuse oi Coun:1: IIi.,mn,rnhin. Ih.rnin1 (81)
+     ...
+    44 p4 lc A.G.-v- Buesnel (21st 1996) (27)
+    45 p4 lc A.G.~v~ de Freitas {18t2 October 1996} (38)
+    46 p4 lc lLG.--"'J- Walker (04th 1997) (29)
+
+#117 1989_088.pdf [CASE/UR/UR] pp=3 ocr=0 blocks=20 {'line': 9, 'heading': 1, 'paragraph': 10}
+  T='[1989] JRC 88' | D=None (-) Y=1989 | C=Royal Court of Jersey
+  P0=[] | J=['The Deputy Bailiff a:<d', 'Jurats Blar-,pied and Orchard']
+  O=None (None) [] | cw=[]
+     0 p1 lh ROYAL COURT (11)
+     1 p1 lh l st June, 1989 (15)
+     2 p1 lh Before: The Deputy Bailiff a:<d (31)
+     3 p1 lh Jurats Blar-,pied and Orchard (29)
+     4 p1 lh Ex parte applicatwn by the OfflCJa! (35)
+     5 p1 lh Receiver and Prov1sional Llqutdator (35)
+     6 p1 lh of Royco Investment Company, L1mited, for leave to declare the Company (70)
+     ...
+    17 p2 Pb Accordingly, the Court consents to rece1ve the declaration 'en desastre' of the moveable pro …es~ment Company Lnnlted. (134)
+    18 p3 Pb Authont1es: (11)
+    19 p3 Pb Royal Court Rt.des, :982: Rule L2j3. (36)
+
+#118 2020_16.pdf [CASE/PBRA/PBRA] pp=5 ocr=0 blocks=51 {'line': 3, 'paragraph': 37, 'heading': 6, 'footnote': 5}
+  T='[2020] PBRA 16' | D=2020-01-21 (signature bloc) Y=2020 | C=Parole Board
+  P0=[] | J=[]
+  O=None (None) [] | cw=[]
+     0 p1 lh [2020] PBRA 16 (14)
+     1 p1 lh Application for Reconsideration in the case of Mettam (53)
+     2 p1 lh Application (11)
+     3 p1 Pb <1.> This is an application by the Secretary of State (the Applicant) for reconsideration of a de …Mettam (the Respondent). (206)
+     4 p1 Pb <2.> Rule 28(1) of the Parole Board Rules 2019 provides that applications for reconsideration may …procedurally unfair (b). (213)
+     5 p1 Pb <3.> The Applicant invites the Reconsideration Assessment Panel to conclude that the decision of  …an eligible application. (172)
+     6 p1 Pb <4.> The decision of the Reconsideration Assessment Panel has been arrived at having regard to th … but none were received. (335)
+     ...
+    48 p5 Pb <32.> The Respondent will be re-released and will be subject to the stringent conditions to which  …tner and/or their child. (432)
+    49 p5 Hb Nicholas Coleman 21 January 2020 (32)
+    50 p5 Fb 3rd Floor, 10 South Colonnade, London E14 4PU www.gov.uk/government/organisations/parole-boa (94)
